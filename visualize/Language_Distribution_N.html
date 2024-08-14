@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Awesome-pyecharts</title>
+                <script type="text/javascript" src="https://assets.pyecharts.org/assets/v5/echarts.min.js"></script>
+
+</head>
+<body >
+    <div id="bb5fcb8a9a374b0ab4c90dfc33c830de" class="chart-container" style="width:900px; height:500px; "></div>
+    <script>
+        var chart_bb5fcb8a9a374b0ab4c90dfc33c830de = echarts.init(
+            document.getElementById('bb5fcb8a9a374b0ab4c90dfc33c830de'), 'white', {renderer: 'canvas'});
+        var option_bb5fcb8a9a374b0ab4c90dfc33c830de = {
+    "animation": true,
+    "animationThreshold": 2000,
+    "animationDuration": 1000,
+    "animationEasing": "cubicOut",
+    "animationDelay": 0,
+    "animationDurationUpdate": 300,
+    "animationEasingUpdate": "cubicOut",
+    "animationDelayUpdate": 0,
+    "aria": {
+        "enabled": false
+    },
+    "color": [
+        "#5470c6",
+        "#91cc75",
+        "#fac858",
+        "#ee6666",
+        "#73c0de",
+        "#3ba272",
+        "#fc8452",
+        "#9a60b4",
+        "#ea7ccc"
+    ],
+    "series": [
+        {
+            "type": "pie",
+            "colorBy": "data",
+            "legendHoverLink": true,
+            "selectedMode": false,
+            "selectedOffset": 10,
+            "clockwise": true,
+            "startAngle": 90,
+            "minAngle": 0,
+            "minShowLabelAngle": 0,
+            "avoidLabelOverlap": true,
+            "stillShowZeroSum": true,
+            "percentPrecision": 2,
+            "showEmptyCircle": true,
+            "emptyCircleStyle": {
+                "color": "lightgray",
+                "borderColor": "#000",
+                "borderWidth": 0,
+                "borderType": "solid",
+                "borderDashOffset": 0,
+                "borderCap": "butt",
+                "borderJoin": "bevel",
+                "borderMiterLimit": 10,
+                "opacity": 1
+            },
+            "data": [
+                {
+                    "name": "Spanish",
+                    "value": 105
+                },
+                {
+                    "name": "Russian",
+                    "value": 56
+                },
+                {
+                    "name": "Turkish",
+                    "value": 45
+                },
+                {
+                    "name": "Portuguese",
+                    "value": 37
+                },
+                {
+                    "name": "Chinese",
+                    "value": 19
+                },
+                {
+                    "name": "German",
+                    "value": 15
+                },
+                {
+                    "name": "French",
+                    "value": 12
+                },
+                {
+                    "name": "Italian",
+                    "value": 5
+                },
+                {
+                    "name": "Croatian",
+                    "value": 3
+                },
+                {
+                    "name": "Czech",
+                    "value": 3
+                },
+                {
+                    "name": "Unspecified",
+                    "value": 2
+                },
+                {
+                    "name": "Bulgarian",
+                    "value": 2
+                },
+                {
+                    "name": "Slovenian",
+                    "value": 2
+                },
+                {
+                    "name": "Dutch",
+                    "value": 2
+                },
+                {
+                    "name": "Slovak",
+                    "value": 1
+                },
+                {
+                    "name": "Malay",
+                    "value": 1
+                },
+                {
+                    "name": "Japanese",
+                    "value": 1
+                },
+                {
+                    "name": "Greek",
+                    "value": 1
+                },
+                {
+                    "name": "Korean",
+                    "value": 1
+                },
+                {
+                    "name": "Swedish",
+                    "value": 1
+                }
+            ],
+            "radius": [
+                "0%",
+                "75%"
+            ],
+            "center": [
+                "40%",
+                "50%"
+            ],
+            "label": {
+                "show": true,
+                "margin": 8,
+                "formatter": "{b}: {c}"
+            },
+            "labelLine": {
+                "show": true,
+                "showAbove": false,
+                "length": 15,
+                "length2": 15,
+                "smooth": false,
+                "minTurnAngle": 90,
+                "maxSurfaceAngle": 90
+            },
+            "rippleEffect": {
+                "show": true,
+                "brushType": "stroke",
+                "scale": 2.5,
+                "period": 4
+            }
+        }
+    ],
+    "legend": [
+        {
+            "data": [
+                "Spanish",
+                "Russian",
+                "Turkish",
+                "Portuguese",
+                "Chinese",
+                "German",
+                "French",
+                "Italian",
+                "Croatian",
+                "Czech",
+                "Unspecified",
+                "Bulgarian",
+                "Slovenian",
+                "Dutch",
+                "Slovak",
+                "Malay",
+                "Japanese",
+                "Greek",
+                "Korean",
+                "Swedish"
+            ],
+            "selected": {},
+            "type": "scroll",
+            "show": true,
+            "left": "80%",
+            "orient": "vertical",
+            "padding": 5,
+            "itemGap": 10,
+            "itemWidth": 25,
+            "itemHeight": 14,
+            "backgroundColor": "transparent",
+            "borderColor": "#ccc",
+            "borderRadius": 0,
+            "pageButtonItemGap": 5,
+            "pageButtonPosition": "end",
+            "pageFormatter": "{current}/{total}",
+            "pageIconColor": "#2f4554",
+            "pageIconInactiveColor": "#aaa",
+            "pageIconSize": 15,
+            "animationDurationUpdate": 800,
+            "selector": false,
+            "selectorPosition": "auto",
+            "selectorItemGap": 7,
+            "selectorButtonGap": 10
+        }
+    ],
+    "tooltip": {
+        "show": true,
+        "trigger": "item",
+        "triggerOn": "mousemove|click",
+        "axisPointer": {
+            "type": "line"
+        },
+        "showContent": true,
+        "alwaysShowContent": false,
+        "showDelay": 0,
+        "hideDelay": 100,
+        "enterable": false,
+        "confine": false,
+        "appendToBody": false,
+        "transitionDuration": 0.4,
+        "textStyle": {
+            "fontSize": 14
+        },
+        "borderWidth": 0,
+        "padding": 5,
+        "order": "seriesAsc"
+    },
+    "title": [
+        {
+            "show": true,
+            "text": "Language Distribution",
+            "target": "blank",
+            "subtarget": "blank",
+            "padding": 5,
+            "itemGap": 10,
+            "textAlign": "auto",
+            "textVerticalAlign": "auto",
+            "triggerEvent": false
+        }
+    ]
+};
+        chart_bb5fcb8a9a374b0ab4c90dfc33c830de.setOption(option_bb5fcb8a9a374b0ab4c90dfc33c830de);
+    </script>
+</body>
+</html>
