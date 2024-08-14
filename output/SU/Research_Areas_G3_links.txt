@@ -1,0 +1,427 @@
+Physical Geography	Remote Sensing	339
+Computer Science	Linguistics	308
+Education & Educational Research	Computer Science	307
+Imaging Science & Photographic Technology	Remote Sensing	214
+Physical Geography	Imaging Science & Photographic Technology	208
+Psychology	Neurosciences & Neurology	150
+Physical Geography	Geology	133
+Business & Economics	Computer Science	128
+Education & Educational Research	Engineering	125
+Business & Economics	Operations Research & Management Science	110
+Computer Science	Engineering	110
+Computer Science	Physical Geography	108
+Mathematical Methods In Social Sciences	Mathematics	93
+Computer Science	Remote Sensing	93
+Geology	Remote Sensing	84
+Imaging Science & Photographic Technology	Geology	75
+Social Sciences - Other Topics	Computer Science	74
+Psychology	Computer Science	71
+Physical Geography	Engineering	69
+Computer Science	Information Science & Library Science	68
+Engineering	Remote Sensing	68
+Engineering	Imaging Science & Photographic Technology	68
+Business & Economics	Mathematical Methods In Social Sciences	66
+Business & Economics	Mathematics	64
+Psychology	Psychiatry	63
+Environmental Sciences & Ecology	Physical Geography	60
+Public Administration	Environmental Sciences & Ecology	53
+Computer Science	Operations Research & Management Science	52
+Computer Science	Geography	47
+Operations Research & Management Science	Engineering	47
+Public Administration	Geography	46
+Environmental Sciences & Ecology	Geography	46
+Business & Economics	Information Science & Library Science	45
+Business & Economics	Engineering	45
+Psychology	Behavioral Sciences	45
+Computer Science	Telecommunications	41
+Computer Science	Public Administration	40
+Social Sciences - Other Topics	Engineering	37
+Computer Science	Communication	37
+Engineering	Transportation	37
+Business & Economics	Education & Educational Research	35
+Business & Economics	Social Sciences - Other Topics	34
+Environmental Sciences & Ecology	Urban Studies	33
+Computer Science	Environmental Sciences & Ecology	32
+Geography	Physical Geography	31
+Computer Science	Neurosciences & Neurology	29
+Public Administration	Engineering	29
+Behavioral Sciences	Neurosciences & Neurology	29
+Mathematical Methods In Social Sciences	Computer Science	28
+Social Sciences - Other Topics	Public, Environmental & Occupational Health	27
+Computer Science	Acoustics	27
+Linguistics	Acoustics	27
+Public Administration	Operations Research & Management Science	27
+Environmental Sciences & Ecology	Engineering	27
+Environmental Sciences & Ecology	Operations Research & Management Science	27
+Geography	Engineering	27
+Geography	Operations Research & Management Science	27
+Social Sciences - Other Topics	Transportation	25
+Computer Science	Government & Law	25
+Engineering	Public, Environmental & Occupational Health	25
+Public, Environmental & Occupational Health	Transportation	25
+Computer Science	Imaging Science & Photographic Technology	24
+Computer Science	Architecture	23
+Linguistics	Engineering	23
+Environmental Sciences & Ecology	Remote Sensing	23
+Business & Economics	Public Administration	21
+Business & Economics	Environmental Sciences & Ecology	21
+Business & Economics	Transportation	21
+Psychology	Engineering	21
+Public Administration	Urban Studies	21
+Environmental Sciences & Ecology	Geology	21
+Social Sciences - Other Topics	Education & Educational Research	20
+Social Sciences - Other Topics	Communication	20
+Information Science & Library Science	Telecommunications	20
+Engineering	Acoustics	19
+Education & Educational Research	Psychology	17
+Computer Science	Biomedical Social Sciences	17
+Social Sciences - Other Topics	Government & Law	16
+Computer Science	Social Issues	16
+Information Science & Library Science	Geography	16
+Information Science & Library Science	Physical Geography	16
+Geography	Urban Studies	16
+Psychology	Information Science & Library Science	15
+Psychology	Telecommunications	15
+Linguistics	Arts & Humanities - Other Topics	15
+Information Science & Library Science	Communication	15
+Mathematics	Computer Science	14
+Government & Law	Communication	14
+Business & Economics	Health Care Sciences & Services	13
+Business & Economics	Telecommunications	13
+Social Sciences - Other Topics	Arts & Humanities - Other Topics	13
+Education & Educational Research	Architecture	13
+Computer Science	Art	13
+Mathematics	Psychology	12
+International Relations	Government & Law	12
+Business & Economics	Science & Technology - Other Topics	11
+Computer Science	Archaeology	11
+Urban Studies	Physical Geography	11
+Business & Economics	Psychology	10
+Business & Economics	Government & Law	10
+Social Sciences - Other Topics	Information Science & Library Science	10
+Linguistics	Audiology & Speech-Language Pathology	10
+Public Administration	Physical Geography	10
+Operations Research & Management Science	Transportation	10
+Archaeology	Geology	10
+Archaeology	Art	10
+Business & Economics	Agriculture	9
+Psychology	Substance Abuse	9
+Linguistics	Rehabilitation	9
+Architecture	Remote Sensing	9
+Business & Economics	Physical Geography	8
+Business & Economics	Remote Sensing	8
+Business & Economics	Imaging Science & Photographic Technology	8
+Mathematical Methods In Social Sciences	Social Sciences - Other Topics	8
+Social Sciences - Other Topics	Environmental Sciences & Ecology	8
+Psychology	Science & Technology - Other Topics	8
+Sociology	Communication	8
+Computer Science	Urban Studies	8
+Public Administration	Development Studies	8
+Geography	Remote Sensing	8
+Urban Studies	Architecture	8
+Urban Studies	Engineering	8
+Physical Geography	Meteorology & Atmospheric Sciences	8
+Imaging Science & Photographic Technology	Architecture	8
+Rehabilitation	Audiology & Speech-Language Pathology	8
+Science & Technology - Other Topics	Neurosciences & Neurology	8
+Geology	Meteorology & Atmospheric Sciences	8
+Business & Economics	Area Studies	7
+Business & Economics	Communication	7
+Social Sciences - Other Topics	Sociology	7
+Social Sciences - Other Topics	Psychology	7
+Psychology	Communication	7
+Social Issues	Communication	7
+Engineering	Architecture	7
+Imaging Science & Photographic Technology	Archaeology	7
+Architecture	Archaeology	7
+Remote Sensing	Meteorology & Atmospheric Sciences	7
+Business & Economics	Development Studies	6
+Mathematical Methods In Social Sciences	Psychology	6
+Mathematical Methods In Social Sciences	Mathematical & Computational Biology	6
+Mathematical Methods In Social Sciences	Linguistics	6
+Mathematical Methods In Social Sciences	Imaging Science & Photographic Technology	6
+Mathematical Methods In Social Sciences	Telecommunications	6
+Mathematical Methods In Social Sciences	Public, Environmental & Occupational Health	6
+Mathematics	Public, Environmental & Occupational Health	6
+Social Sciences - Other Topics	Sport Sciences	6
+Education & Educational Research	Telecommunications	6
+Psychology	Linguistics	6
+Psychology	Physiology	6
+Computer Science	Mathematical & Computational Biology	6
+Computer Science	Criminology & Penology	6
+Computer Science	Arts & Humanities - Other Topics	6
+Linguistics	Mathematical & Computational Biology	6
+Linguistics	Imaging Science & Photographic Technology	6
+Linguistics	Telecommunications	6
+Development Studies	Environmental Sciences & Ecology	6
+Mathematical & Computational Biology	Imaging Science & Photographic Technology	6
+Mathematical & Computational Biology	Telecommunications	6
+Imaging Science & Photographic Technology	Telecommunications	6
+Imaging Science & Photographic Technology	Art	6
+Architecture	Art	6
+Anthropology	Archaeology	6
+Archaeology	Remote Sensing	6
+Art	Remote Sensing	6
+Business & Economics	Energy & Fuels	5
+Mathematics	Education & Educational Research	5
+Psychology	Art	5
+Computer Science	Medical Informatics	5
+Government & Law	Information Science & Library Science	5
+Development Studies	Urban Studies	5
+Environmental Sciences & Ecology	Energy & Fuels	5
+Environmental Sciences & Ecology	Forestry	5
+Anthropology	Geology	5
+Psychiatry	Neurosciences & Neurology	5
+Neurosciences & Neurology	Physiology	5
+Business & Economics	Urban Studies	4
+Business & Economics	Geography	4
+Business & Economics	Food Science & Technology	4
+Mathematical Methods In Social Sciences	Information Science & Library Science	4
+Family Studies	Social Work	4
+Social Work	Computer Science	4
+Social Work	Rehabilitation	4
+Mathematics	Operations Research & Management Science	4
+Social Sciences - Other Topics	Social Issues	4
+Social Sciences - Other Topics	Philosophy	4
+Social Sciences - Other Topics	Science & Technology - Other Topics	4
+Education & Educational Research	Health Care Sciences & Services	4
+Education & Educational Research	Information Science & Library Science	4
+Psychology	Sport Sciences	4
+Psychology	Geriatrics & Gerontology	4
+Psychology	Ophthalmology	4
+Computer Science	Rehabilitation	4
+Computer Science	International Relations	4
+Government & Law	Public Administration	4
+Biomedical Social Sciences	Public, Environmental & Occupational Health	4
+Environmental Sciences & Ecology	Plant Sciences	4
+Environmental Sciences & Ecology	Imaging Science & Photographic Technology	4
+Urban Studies	Science & Technology - Other Topics	4
+Urban Studies	Plant Sciences	4
+Urban Studies	Forestry	4
+Engineering	Materials Science	4
+Engineering	Telecommunications	4
+Engineering	Neurosciences & Neurology	4
+Health Care Sciences & Services	Medical Informatics	4
+Agriculture	Food Science & Technology	4
+Archaeology	Chemistry	4
+Archaeology	Materials Science	4
+Archaeology	Spectroscopy	4
+Chemistry	Art	4
+Chemistry	Spectroscopy	4
+Art	Spectroscopy	4
+Neurosciences & Neurology	Ophthalmology	4
+Plant Sciences	Forestry	4
+Business & Economics	Nutrition & Dietetics	3
+Mathematical Methods In Social Sciences	Sociology	3
+Social Work	Geriatrics & Gerontology	3
+Mathematics	Environmental Sciences & Ecology	3
+Social Sciences - Other Topics	International Relations	3
+Social Sciences - Other Topics	Art	3
+Social Sciences - Other Topics	Telecommunications	3
+Education & Educational Research	Linguistics	3
+Education & Educational Research	Sport Sciences	3
+Education & Educational Research	Physics	3
+Education & Educational Research	Environmental Sciences & Ecology	3
+Psychology	Nutrition & Dietetics	3
+Psychology	Pharmacology & Pharmacy	3
+Psychology	Transportation	3
+Computer Science	Development Studies	3
+Computer Science	Science & Technology - Other Topics	3
+Computer Science	Geriatrics & Gerontology	3
+Computer Science	Health Care Sciences & Services	3
+Computer Science	Instruments & Instrumentation	3
+Linguistics	Communication	3
+International Relations	Social Issues	3
+Social Issues	Health Care Sciences & Services	3
+Social Issues	Medical Informatics	3
+Information Science & Library Science	Philosophy	3
+Information Science & Library Science	Engineering	3
+Information Science & Library Science	Archaeology	3
+Information Science & Library Science	Instruments & Instrumentation	3
+Development Studies	Telecommunications	3
+Geography	Transportation	3
+Physical Geography	Agriculture	3
+Physical Geography	Architecture	3
+Engineering	Science & Technology - Other Topics	3
+Engineering	Construction & Building Technology	3
+Rehabilitation	Geriatrics & Gerontology	3
+Sport Sciences	Neurosciences & Neurology	3
+Agriculture	Nutrition & Dietetics	3
+Agriculture	Remote Sensing	3
+Architecture	Materials Science	3
+Archaeology	Instruments & Instrumentation	3
+Geology	Art	3
+Geology	Chemistry	3
+Geology	Materials Science	3
+Geology	Spectroscopy	3
+Chemistry	Materials Science	3
+Art	Materials Science	3
+Psychiatry	Nutrition & Dietetics	3
+Psychiatry	Pharmacology & Pharmacy	3
+Materials Science	Spectroscopy	3
+Food Science & Technology	Nutrition & Dietetics	3
+Business & Economics	Biomedical Social Sciences	2
+Business & Economics	Social Issues	2
+Business & Economics	Sociology	2
+Business & Economics	International Relations	2
+Business & Economics	Medical Informatics	2
+Mathematical Methods In Social Sciences	Operations Research & Management Science	2
+Social Sciences - Other Topics	Biomedical Social Sciences	2
+Education & Educational Research	Surgery	2
+Education & Educational Research	Rehabilitation	2
+Education & Educational Research	Operations Research & Management Science	2
+Education & Educational Research	Chemistry	2
+Education & Educational Research	Materials Science	2
+Education & Educational Research	Construction & Building Technology	2
+Psychology	Audiology & Speech-Language Pathology	2
+Psychology	Operations Research & Management Science	2
+Sociology	Government & Law	2
+Sociology	Development Studies	2
+Sociology	Environmental Sciences & Ecology	2
+Sociology	Public Administration	2
+Computer Science	History	2
+Computer Science	Sport Sciences	2
+Linguistics	Neurosciences & Neurology	2
+Linguistics	Literature	2
+International Relations	Environmental Sciences & Ecology	2
+Government & Law	Psychiatry	2
+Public Administration	Architecture	2
+Public Administration	Science & Technology - Other Topics	2
+Public Administration	Information Science & Library Science	2
+Information Science & Library Science	Operations Research & Management Science	2
+Information Science & Library Science	Medical Informatics	2
+Geography	Architecture	2
+Urban Studies	Transportation	2
+Urban Studies	Materials Science	2
+History	Archaeology	2
+Cultural Studies	Art	2
+Physical Geography	Paleontology	2
+Operations Research & Management Science	Telecommunications	2
+Operations Research & Management Science	Medical Informatics	2
+Engineering	Behavioral Sciences	2
+Engineering	Automation & Control Systems	2
+Telecommunications	Science & Technology - Other Topics	2
+Telecommunications	Art	2
+Geology	Paleontology	2
+Psychiatry	Substance Abuse	2
+Neurosciences & Neurology	Audiology & Speech-Language Pathology	2
+Neurosciences & Neurology	Pharmacology & Pharmacy	2
+Business & Economics	Cultural Studies	1
+Business & Economics	Demography	1
+Business & Economics	Linguistics	1
+Business & Economics	Forestry	1
+Mathematical Methods In Social Sciences	Education & Educational Research	1
+Mathematical Methods In Social Sciences	Government & Law	1
+Family Studies	Psychology	1
+Social Work	Psychology	1
+Social Work	Communication	1
+Social Work	Public, Environmental & Occupational Health	1
+Mathematics	Sociology	1
+Mathematics	Government & Law	1
+Mathematics	Demography	1
+Mathematics	Social Sciences - Other Topics	1
+Social Sciences - Other Topics	Ethnic Studies	1
+Social Sciences - Other Topics	Linguistics	1
+Social Sciences - Other Topics	Cultural Studies	1
+Social Sciences - Other Topics	Health Care Sciences & Services	1
+Social Sciences - Other Topics	Medical Ethics	1
+Social Sciences - Other Topics	Area Studies	1
+Social Sciences - Other Topics	History & Philosophy of Science	1
+Education & Educational Research	Sociology	1
+Education & Educational Research	Transportation	1
+Education & Educational Research	Arts & Humanities - Other Topics	1
+Education & Educational Research	Neurosciences & Neurology	1
+Education & Educational Research	Behavioral Sciences	1
+Education & Educational Research	Pharmacology & Pharmacy	1
+Education & Educational Research	Science & Technology - Other Topics	1
+Education & Educational Research	Automation & Control Systems	1
+Education & Educational Research	Instruments & Instrumentation	1
+Education & Educational Research	Imaging Science & Photographic Technology	1
+Education & Educational Research	Radiology, Nuclear Medicine & Medical Imaging	1
+Psychology	Government & Law	1
+Psychology	Criminology & Penology	1
+Psychology	Arts & Humanities - Other Topics	1
+Psychology	Developmental Biology	1
+Psychology	Pediatrics	1
+Psychology	Zoology	1
+Psychology	Health Care Sciences & Services	1
+Psychology	Medical Informatics	1
+Psychology	Public, Environmental & Occupational Health	1
+Sociology	Ethnic Studies	1
+Sociology	Literature	1
+Sociology	Anthropology	1
+Computer Science	Women's Studies	1
+Computer Science	Transportation	1
+Computer Science	Behavioral Sciences	1
+Computer Science	Philosophy	1
+Computer Science	Literature	1
+Linguistics	Science & Technology - Other Topics	1
+Linguistics	Philosophy	1
+International Relations	History	1
+Social Issues	Biomedical Social Sciences	1
+Social Issues	Religion	1
+Government & Law	Biomedical Social Sciences	1
+Government & Law	History	1
+Biomedical Social Sciences	Health Care Sciences & Services	1
+Biomedical Social Sciences	Medical Ethics	1
+Public Administration	Area Studies	1
+Public Administration	Telecommunications	1
+Public Administration	Construction & Building Technology	1
+Information Science & Library Science	Development Studies	1
+Area Studies	Asian Studies	1
+Area Studies	Development Studies	1
+Area Studies	Science & Technology - Other Topics	1
+Area Studies	Energy & Fuels	1
+Area Studies	Public, Environmental & Occupational Health	1
+Area Studies	Telecommunications	1
+Development Studies	Science & Technology - Other Topics	1
+Development Studies	Energy & Fuels	1
+Development Studies	Public, Environmental & Occupational Health	1
+Environmental Sciences & Ecology	Meteorology & Atmospheric Sciences	1
+Environmental Sciences & Ecology	Science & Technology - Other Topics	1
+Environmental Sciences & Ecology	Agriculture	1
+Environmental Sciences & Ecology	Communication	1
+Geography	Arts & Humanities - Other Topics	1
+Urban Studies	History	1
+Urban Studies	Remote Sensing	1
+Urban Studies	Imaging Science & Photographic Technology	1
+Communication	Rehabilitation	1
+Communication	Film, Radio & Television	1
+Communication	Telecommunications	1
+History	Architecture	1
+History	Physical Geography	1
+History	Remote Sensing	1
+History	Imaging Science & Photographic Technology	1
+Cultural Studies	Literature	1
+Women's Studies	Physics	1
+Physical Geography	Forestry	1
+Physical Geography	Automation & Control Systems	1
+Operations Research & Management Science	Science & Technology - Other Topics	1
+Engineering	Arts & Humanities - Other Topics	1
+Engineering	Art	1
+Engineering	Instruments & Instrumentation	1
+Imaging Science & Photographic Technology	Materials Science	1
+Imaging Science & Photographic Technology	Physics	1
+Imaging Science & Photographic Technology	Radiology, Nuclear Medicine & Medical Imaging	1
+Telecommunications	Energy & Fuels	1
+Telecommunications	Public, Environmental & Occupational Health	1
+Telecommunications	Arts & Humanities - Other Topics	1
+Health Care Sciences & Services	Medical Ethics	1
+Health Care Sciences & Services	Psychiatry	1
+Public, Environmental & Occupational Health	Science & Technology - Other Topics	1
+Public, Environmental & Occupational Health	Energy & Fuels	1
+Transportation	Science & Technology - Other Topics	1
+Physics	Archaeology	1
+Physics	Architecture	1
+Physics	Materials Science	1
+Science & Technology - Other Topics	Energy & Fuels	1
+Science & Technology - Other Topics	Architecture	1
+Science & Technology - Other Topics	Philosophy	1
+Architecture	Construction & Building Technology	1
+Psychiatry	Geriatrics & Gerontology	1
+Psychiatry	Medical Informatics	1
+Materials Science	Automation & Control Systems	1
+Materials Science	Instruments & Instrumentation	1
+Behavioral Sciences	Pediatrics	1
+Behavioral Sciences	Zoology	1
+Automation & Control Systems	Instruments & Instrumentation	1

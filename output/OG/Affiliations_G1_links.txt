@@ -1,0 +1,362 @@
+Max Planck Society	Technical University of Berlin	3
+Institute of Computer Science of the Polish Academy of Sciences	Polish Academy of Sciences	3
+Ghent University	University of the Western Cape	3
+Ghent University	University of Nairobi	3
+Ghent University	University of Antwerp	3
+University of the Western Cape	University of Nairobi	3
+University of the Western Cape	University of Antwerp	3
+University of Nairobi	University of Antwerp	3
+Institute of Computer Science of the Polish Academy of Sciences	University of Ottawa	2
+University of Ottawa	Polish Academy of Sciences	2
+University of London	King's College London	2
+University of London	University College London	2
+University of Trento	Fondazione Bruno Kessler	2
+University of Trento	University of Rome Tor Vergata	2
+Tshwane University of Technology	Ghent University	2
+Tshwane University of Technology	University of the Western Cape	2
+Tshwane University of Technology	University of Nairobi	2
+Tshwane University of Technology	University of Antwerp	2
+University of Illinois Chicago	University of Illinois Chicago Hospital	2
+University of North Carolina	University of North Carolina Charlotte	2
+Yahoo! Inc	Yahoo! Inc Spain	2
+Fujitsu Ltd	Fujitsu Laboratories Ltd	2
+Tufts University	University of Virginia	2
+Microsoft Research Asia	Microsoft	2
+Berlin Institute of Health	Humboldt University of Berlin	2
+Berlin Institute of Health	Free University of Berlin	2
+Berlin Institute of Health	Charite Universitatsmedizin Berlin	2
+Humboldt University of Berlin	Free University of Berlin	2
+Humboldt University of Berlin	Charite Universitatsmedizin Berlin	2
+Free University of Berlin	Charite Universitatsmedizin Berlin	2
+Nokia Corporation	Nokia Bell Labs	2
+Nokia Corporation	AT&T	2
+Nokia Bell Labs	AT&T	2
+Max Planck Society	Radboud University Nijmegen	1
+Max Planck Society	Massachusetts Institute of Technology	1
+Technical University of Berlin	Harvard Medical School	1
+Technical University of Berlin	Massachusetts General Hospital	1
+Technical University of Berlin	Harvard University	1
+Technical University of Berlin	Berlin Institute of Health	1
+Technical University of Berlin	Humboldt University of Berlin	1
+Technical University of Berlin	Free University of Berlin	1
+Technical University of Berlin	Charite Universitatsmedizin Berlin	1
+Technical University of Berlin	Massachusetts Institute of Technology	1
+Hebei University of Engineering	North China Electric Power University	1
+Institute of Computer Science of the Polish Academy of Sciences	University of Vienna	1
+Institute of Computer Science of the Polish Academy of Sciences	Universite de Montreal	1
+Institute of Computer Science of the Polish Academy of Sciences	Wroclaw University of Science & Technology	1
+Institute of Computer Science of the Polish Academy of Sciences	University of Warsaw	1
+University of Vienna	University of Ottawa	1
+University of Vienna	Polish Academy of Sciences	1
+University of Ottawa	Universite de Montreal	1
+Polish Academy of Sciences	Universite de Montreal	1
+Polish Academy of Sciences	Wroclaw University of Science & Technology	1
+Polish Academy of Sciences	University of Warsaw	1
+Universite Cote d'Azur	Centre National de la Recherche Scientifique	1
+Centre National de la Recherche Scientifique	Universite de Rennes	1
+Centre National de la Recherche Scientifique	Universite Paris 13	1
+Xi'an Polytechnic University	Xi'an Jiaotong University	1
+University of Pennsylvania	University of Canterbury	1
+University of Pennsylvania	Massachusetts Institute of Technology	1
+University of Pennsylvania	University of California Riverside	1
+University of Canterbury	Massachusetts Institute of Technology	1
+Massachusetts Institute of Technology	Carnegie Mellon University	1
+Massachusetts Institute of Technology	Harvard University	1
+Massachusetts Institute of Technology	Hewlett	1
+Massachusetts Institute of Technology	University of California Berkeley	1
+Universite de Montreal	University of Quebec	1
+Universite de Montreal	University of Quebec Montreal	1
+Bocconi University	Technical University of Darmstadt	1
+Imperial College London	University of Central Florida	1
+Imperial College London	Delft University of Technology	1
+United States Department of Defense	United States Navy	1
+United States Department of Defense	US Air Force Research Laboratory	1
+United States Department of Defense	United States Air Force	1
+University of Sydney	University of Newcastle	1
+Carnegie Mellon University	Harvard University	1
+Carnegie Mellon University	University of Maryland College Park	1
+Carnegie Mellon University	Columbia University	1
+Carnegie Mellon University	National Taiwan Normal University	1
+Carnegie Mellon University	National Chengchi University	1
+Carnegie Mellon University	University of Maine Machias	1
+Carnegie Mellon University	Auburn University	1
+Carnegie Mellon University	University of Maine Orono	1
+Carnegie Mellon University	University of Munich	1
+Carnegie Mellon University	University of Pittsburgh	1
+Harvard University	University of London	1
+Harvard University	King's College London	1
+Harvard University	Harvard Medical School	1
+Harvard University	Massachusetts General Hospital	1
+Harvard University	Berlin Institute of Health	1
+Harvard University	Humboldt University of Berlin	1
+Harvard University	Free University of Berlin	1
+Harvard University	Charite Universitatsmedizin Berlin	1
+Harvard University	Ruprecht Karls University Heidelberg	1
+Harvard University	University of Sheffield	1
+Czech Technical University Prague	Prague University of Economics & Business	1
+University of Florida	University of Connecticut	1
+University of Florida	University of Texas Arlington	1
+University of Florida	Koc University	1
+University of Florida	Sapienza University Rome	1
+University of Florida	Virginia Polytechnic Institute & State University	1
+University of Florida	University of Michigan	1
+Virginia Polytechnic Institute & State University	Yale University	1
+Virginia Polytechnic Institute & State University	University of Michigan	1
+Yale University	Koc University	1
+Ludong University	Shandong Normal University	1
+Gettysburg College	University of Hartford	1
+Gettysburg College	Central Connecticut State University	1
+University of Hartford	Central Connecticut State University	1
+University of Duisburg Essen	Rudjer Boskovic Institute	1
+University of London	Columbia University	1
+University of London	INSEAD Business School	1
+University of Trento	FBK	1
+University of Trento	Saarland University	1
+FBK	Fondazione Bruno Kessler	1
+Fondazione Bruno Kessler	University of Rome Tor Vergata	1
+Wroclaw University of Science & Technology	University of Warsaw	1
+Wroclaw University of Science & Technology	Macquarie University	1
+Konan University	Osaka University	1
+Konan University	Yonsei University	1
+Konan University	Kagawa University	1
+Osaka University	Yonsei University	1
+Osaka University	Kagawa University	1
+Yonsei University	Kagawa University	1
+University of Maryland College Park	Columbia University	1
+University of Maryland College Park	University of Hong Kong	1
+Columbia University	University College London	1
+Columbia University	INSEAD Business School	1
+Columbia University	University of Pittsburgh	1
+Columbia University	Tilburg University	1
+Columbia University	Nokia Corporation	1
+Columbia University	Nokia Bell Labs	1
+Columbia University	AT&T	1
+Columbia University	Telcordia Technologies	1
+Danube University Krems	Graz University of Technology	1
+Danube University Krems	Technische Universitat Wien	1
+Danube University Krems	Medical University of Vienna	1
+Memorial Sloan Kettering Cancer Center	University of Houston	1
+University of Houston	Baylor College of Medicine	1
+Autonomous University of Madrid	Complutense University of Madrid	1
+Autonomous University of Madrid	Universitat Politecnica de Catalunya	1
+Autonomous University of Madrid	Hospital Universitario Ramon y Cajal	1
+Autonomous University of Madrid	Universidad de Alcala	1
+Autonomous University of Madrid	Universidad Carlos III de Madrid	1
+Complutense University of Madrid	Universitat Politecnica de Catalunya	1
+National Taiwan Normal University	National Chengchi University	1
+National Chengchi University	Commonwealth Scientific & Industrial Research Organisation	1
+Helmholtz Association	Karlsruhe Institute of Technology	1
+University of Antwerp	Radboud University Nijmegen	1
+Xiamen University	Shanghai University	1
+Xiamen University	Shanghai University of Traditional Chinese Medicine	1
+Shanghai University	Shanghai University of Traditional Chinese Medicine	1
+University of Illinois Chicago	Pennsylvania State University	1
+University of Illinois Chicago Hospital	Pennsylvania State University	1
+Pennsylvania State University	University of Konstanz	1
+Pennsylvania State University	Fraunhofer Gesellschaft	1
+Pennsylvania State University	San Diego State University	1
+United States Department of Energy	SLAC National Accelerator Laboratory	1
+United States Department of Energy	Stanford University	1
+United States Department of Energy	Sandia National Laboratories	1
+United States Department of Energy	Universidad Nacional Autonoma de Mexico	1
+United States Department of Energy	Oak Ridge National Laboratory	1
+United States Department of Energy	University of Kansas	1
+SLAC National Accelerator Laboratory	Stanford University	1
+Stanford University	University of Michigan	1
+Stanford University	University of Denver	1
+Stanford University	University of California Berkeley	1
+Cornell University	University of Washington	1
+Cornell University	Montana State University Bozeman	1
+University of Washington	University of Louisville	1
+Istituto di Linguistica Computazionale A. Zampolli	Consiglio Nazionale delle Ricerche	1
+Consiglio Nazionale delle Ricerche	University of Central Venezuela	1
+Consiglio Nazionale delle Ricerche	Inter	1
+Technische Universitat Wien	Medical University of Vienna	1
+Medical University of Vienna	Pompeu Fabra University	1
+Medical University of Vienna	Johannes Kepler University Linz	1
+University of Illinois Urbana	University of Haifa	1
+University of Illinois Urbana	Chungnam National University	1
+University of Alberta	University of Texas Austin	1
+University of Alberta	Peking University	1
+University of Texas Austin	New York University	1
+University of Texas Austin	International Business Machines	1
+University of Rome Tor Vergata	Saarland University	1
+Saarland University	Dortmund University of Technology	1
+Saarland University	Clarivate	1
+University of Bristol	Beihang University	1
+Dortmund University of Technology	University of Craiova	1
+Dortmund University of Technology	Babes Bolyai University from Cluj	1
+Dortmund University of Technology	Technical University of Cluj Napoca	1
+Dortmund University of Technology	University of Westminster	1
+University of Maine Machias	Auburn University	1
+University of Maine Machias	University of Maine Orono	1
+Auburn University	University of Maine Orono	1
+University of Queensland	Princess Alexandra Hospital	1
+University of Queensland	Queensland University of Technology	1
+Princess Alexandra Hospital	Queensland University of Technology	1
+Chinese Academy of Sciences	Institute of Psychology, CAS	1
+Chinese Academy of Sciences	Institutes of Science & Development, CAS	1
+University of Nottingham	University of West England	1
+University of Nottingham	Unilever	1
+University of West England	Unilever	1
+Firat University	Gazi University	1
+Firat University	University of California San Diego	1
+Gazi University	University of California San Diego	1
+University of California San Diego	Salk Institute	1
+Universidad de Leon	Universidad Pablo de Olavide	1
+University College London	INSEAD Business School	1
+University of Tokyo	National Chung Hsing University	1
+University of Tokyo	National Cheng Kung University	1
+University of Tokyo	University of Denver	1
+University of Tokyo	Japan Advanced Institute of Science & Technology	1
+National Chung Hsing University	National Cheng Kung University	1
+National Chung Hsing University	University of Denver	1
+National Cheng Kung University	University of Denver	1
+National Cheng Kung University	Central Research Institute of Electric Power Industry	1
+National Cheng Kung University	New Mexico Institute of Mining Technology	1
+University of Denver	University of California Berkeley	1
+Hong Kong Polytechnic University	Tsinghua University	1
+Hong Kong Polytechnic University	Toronto Metropolitan University	1
+New Mexico State University	Sabanci University	1
+New Mexico State University	University of Pittsburgh	1
+Aristotle University of Thessaloniki	Democritus University of Thrace	1
+Aristotle University of Thessaloniki	University of Eastern Finland	1
+University of Maryland Baltimore County	Case Western Reserve University	1
+Case Western Reserve University	University of Iowa	1
+Case Western Reserve University	University of Wisconsin Madison	1
+University of Quebec	University of Quebec Montreal	1
+NASA Jet Propulsion Laboratory	National Aeronautics & Space Administration	1
+NASA Jet Propulsion Laboratory	California Institute of Technology	1
+National Aeronautics & Space Administration	California Institute of Technology	1
+University of Hong Kong	Zhejiang University	1
+Cairo University	Egyptian Knowledge Bank	1
+University of Pittsburgh	Tilburg University	1
+University of Pittsburgh	University of Southern California	1
+University of Pittsburgh	University of Edinburgh	1
+Hungarian Academy of Sciences	Hungarian Research Network	1
+Hungarian Academy of Sciences	HUN	1
+Hungarian Research Network	HUN	1
+University of Central Venezuela	Inter	1
+Instituto Politecnico do Porto	Universidade do Porto	1
+University of Arizona	Drexel University	1
+University of Arizona	City University of Hong Kong	1
+University of Arizona	University of Wisconsin Milwaukee	1
+Drexel University	City University of Hong Kong	1
+Universitat Politecnica de Valencia	Universitat Jaume I	1
+Universitat Politecnica de Valencia	Universitat d'Alacant	1
+University of Lausanne	University of Chicago	1
+Heinrich Heine University Dusseldorf	University of Wurzburg	1
+Heinrich Heine University Dusseldorf	Siemens Germany	1
+Heinrich Heine University Dusseldorf	Siemens AG	1
+University of Wurzburg	Siemens Germany	1
+University of Wurzburg	Siemens AG	1
+Siemens Germany	Siemens AG	1
+Pompeu Fabra University	Johannes Kepler University Linz	1
+University of Cambridge	German Research Center for Artificial Intelligence	1
+Vasile Goldis Western University of Arad	Carl von Ossietzky Universitat Oldenburg	1
+Universidade de Lisboa	Instituto Nacional de Pesquisas Espaciais	1
+Harvard Medical School	Massachusetts General Hospital	1
+Harvard Medical School	Berlin Institute of Health	1
+Harvard Medical School	Humboldt University of Berlin	1
+Harvard Medical School	Free University of Berlin	1
+Harvard Medical School	Charite Universitatsmedizin Berlin	1
+Massachusetts General Hospital	Berlin Institute of Health	1
+Massachusetts General Hospital	Humboldt University of Berlin	1
+Massachusetts General Hospital	Free University of Berlin	1
+Massachusetts General Hospital	Charite Universitatsmedizin Berlin	1
+Berlin Institute of Health	University of Potsdam	1
+Berlin Institute of Health	Fraunhofer Gesellschaft	1
+Berlin Institute of Health	Fraunhofer Institute Center Schloss Birlinghoven	1
+Humboldt University of Berlin	University of Potsdam	1
+Humboldt University of Berlin	Fraunhofer Gesellschaft	1
+Humboldt University of Berlin	Fraunhofer Institute Center Schloss Birlinghoven	1
+Free University of Berlin	University of Potsdam	1
+Free University of Berlin	Fraunhofer Gesellschaft	1
+Free University of Berlin	Fraunhofer Institute Center Schloss Birlinghoven	1
+Charite Universitatsmedizin Berlin	University of Potsdam	1
+Charite Universitatsmedizin Berlin	Fraunhofer Gesellschaft	1
+Charite Universitatsmedizin Berlin	Fraunhofer Institute Center Schloss Birlinghoven	1
+US Air Force Research Laboratory	United States Air Force	1
+Agency for Science Technology & Research	A*STAR	1
+University of Oxford	McGill University	1
+Santa Clara University	Georgetown University	1
+University of Rochester	Indiana University Bloomington	1
+University of Munich	Curtin University	1
+University of Craiova	Babes Bolyai University from Cluj	1
+University of Craiova	Technical University of Cluj Napoca	1
+University of Craiova	University of Westminster	1
+Babes Bolyai University from Cluj	Technical University of Cluj Napoca	1
+Babes Bolyai University from Cluj	University of Westminster	1
+Technical University of Cluj Napoca	University of Westminster	1
+Marist College	State University of New York	1
+State University of New York	University of South Carolina Columbia	1
+California State University Stanislaus	University of Massachusetts Boston	1
+Xerox	University of California Berkeley	1
+University of California Berkeley	University of Colorado Boulder	1
+University of California Berkeley	Hebrew University of Jerusalem	1
+University of Kentucky	Chinese University of Hong Kong	1
+University of Kentucky	University of Calgary	1
+Chinese University of Hong Kong	University of Calgary	1
+Kyoto University	Nara Institute of Science & Technology	1
+Kyoto University	National Institute of Information & Communications Technology	1
+Nara Institute of Science & Technology	National Institute of Information & Communications Technology	1
+University of Helsinki	University of Oulu	1
+University of British Columbia	South Dakota State University	1
+University of British Columbia	Clark University	1
+University of British Columbia	San Diego State University	1
+South Dakota State University	Clark University	1
+South Dakota State University	San Diego State University	1
+Clark University	San Diego State University	1
+San Diego State University	University of Konstanz	1
+San Diego State University	Fraunhofer Gesellschaft	1
+University of Warwick	University of Edinburgh	1
+Zhejiang University	Zhejiang Sci	1
+University of Miami	Virginia Commonwealth University	1
+Sapienza University Rome	Polytechnic University of Milan	1
+College of Charleston	East Tennessee State University	1
+New York University	International Business Machines	1
+Hong Kong University of Science & Technology	National University of Singapore	1
+National University of Singapore	Northwestern University	1
+Nokia Corporation	Telcordia Technologies	1
+Nokia Corporation	Johns Hopkins University	1
+Nokia Bell Labs	Telcordia Technologies	1
+Nokia Bell Labs	Johns Hopkins University	1
+AT&T	Telcordia Technologies	1
+AT&T	Johns Hopkins University	1
+University of Zurich	ETH Zurich	1
+University of Zurich	Royal Institute of Technology	1
+University of Zurich	Swiss Federal Institutes of Technology Domain	1
+ETH Zurich	Royal Institute of Technology	1
+ETH Zurich	Swiss Federal Institutes of Technology Domain	1
+Royal Institute of Technology	Swiss Federal Institutes of Technology Domain	1
+Yangtze River Water Resources Protection Bureau	Wuhan University	1
+Claremont Colleges	Claremont Graduate School	1
+Jozef Stefan Institute	Slovenian Academy of Sciences & Arts	1
+Jozef Stefan Institute	University of Ljubljana	1
+Slovenian Academy of Sciences & Arts	University of Ljubljana	1
+National Observatory of Athens	National & Kapodistrian University of Athens	1
+National Observatory of Athens	National Technical University of Athens	1
+National & Kapodistrian University of Athens	National Technical University of Athens	1
+Amrita Vishwa Vidyapeetham Coimbatore	Amrita Vishwa Vidyapeetham	1
+Sharp Corporation	Ryukoku University	1
+Sharp Corporation	Hisense	1
+Ryukoku University	Hisense	1
+University of Hamburg	Lancaster University	1
+Australian National University	University of New South Wales Sydney	1
+Central Research Institute of Electric Power Industry	New Mexico Institute of Mining Technology	1
+United States Forest Service	United States Department of Agriculture	1
+University of Konstanz	Fraunhofer Gesellschaft	1
+Fraunhofer Gesellschaft	University of Potsdam	1
+Fraunhofer Gesellschaft	Fraunhofer Institute Center Schloss Birlinghoven	1
+Universiti Utara Malaysia	Universiti Malaysia Terengganu	1
+Polytechnic University of Milan	Universita della Svizzera Italiana	1
+Ruprecht Karls University Heidelberg	University of Sheffield	1
+Hospital Universitario Ramon y Cajal	Universidad de Alcala	1
+Hospital Universitario Ramon y Cajal	Universidad Carlos III de Madrid	1
+Universidad de Alcala	Universidad Carlos III de Madrid	1
+University of Wisconsin Madison	University of Tennessee Knoxville	1
+University of Wisconsin Madison	University of Iowa	1
+Universidad Nacional Autonoma de Mexico	Oak Ridge National Laboratory	1
+Universidad Nacional Autonoma de Mexico	University of Kansas	1
+Oak Ridge National Laboratory	University of Kansas	1
+University of Potsdam	Fraunhofer Institute Center Schloss Birlinghoven	1

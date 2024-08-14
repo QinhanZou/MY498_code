@@ -1,0 +1,139 @@
+Physical Geography	Remote Sensing	63
+Physical Geography	Imaging Science & Photographic Technology	52
+Remote Sensing	Imaging Science & Photographic Technology	52
+Linguistics	Computer Science	45
+Education & Educational Research	Computer Science	34
+Psychology	Neurosciences & Neurology	31
+Physical Geography	Geology	27
+Business & Economics	Operations Research & Management Science	23
+Mathematics	Mathematical Methods In Social Sciences	22
+Geology	Remote Sensing	20
+Geology	Imaging Science & Photographic Technology	19
+Environmental Sciences & Ecology	Physical Geography	18
+Physical Geography	Engineering	18
+Physical Geography	Computer Science	18
+Engineering	Remote Sensing	18
+Engineering	Imaging Science & Photographic Technology	18
+Computer Science	Information Science & Library Science	17
+Business & Economics	Mathematics	14
+Business & Economics	Mathematical Methods In Social Sciences	14
+Education & Educational Research	Engineering	13
+Geography	Physical Geography	12
+Psychology	Psychiatry	11
+Business & Economics	Computer Science	9
+Psychology	Behavioral Sciences	9
+Geography	Computer Science	9
+Business & Economics	Public Administration	8
+Linguistics	Literature	8
+Geography	Information Science & Library Science	8
+Physical Geography	Information Science & Library Science	8
+Business & Economics	Social Sciences - Other Topics	7
+Psychology	Engineering	7
+Computer Science	Engineering	7
+Engineering	Transportation	7
+Business & Economics	Information Science & Library Science	6
+Psychology	Computer Science	6
+Neurosciences & Neurology	Behavioral Sciences	6
+Business & Economics	Engineering	5
+Mathematics	Psychology	5
+Mathematics	Computer Science	5
+Mathematical Methods In Social Sciences	Computer Science	5
+Environmental Sciences & Ecology	Geography	5
+Computer Science	Government & Law	5
+Public Administration	Environmental Sciences & Ecology	4
+Public Administration	Geography	4
+Public Administration	Physical Geography	4
+Public Administration	Urban Studies	4
+Education & Educational Research	Linguistics	4
+Education & Educational Research	Materials Science	4
+Environmental Sciences & Ecology	Urban Studies	4
+Geography	Urban Studies	4
+Physical Geography	Urban Studies	4
+Social Sciences - Other Topics	Engineering	4
+Social Sciences - Other Topics	Public, Environmental & Occupational Health	4
+Social Sciences - Other Topics	Transportation	4
+Engineering	Public, Environmental & Occupational Health	4
+Government & Law	Information Science & Library Science	4
+Public, Environmental & Occupational Health	Transportation	4
+Neurosciences & Neurology	Psychiatry	4
+Business & Economics	Transportation	3
+Education & Educational Research	Rehabilitation	3
+Education & Educational Research	Information Science & Library Science	3
+Linguistics	Information Science & Library Science	3
+Linguistics	Audiology & Speech-Language Pathology	3
+Linguistics	Psychology	3
+Psychology	Audiology & Speech-Language Pathology	3
+Computer Science	Operations Research & Management Science	3
+Computer Science	Health Care Sciences & Services	3
+Computer Science	Public, Environmental & Occupational Health	3
+Computer Science	Medical Informatics	3
+Computer Science	Social Issues	3
+Computer Science	Remote Sensing	3
+Social Issues	Health Care Sciences & Services	3
+Social Issues	Public, Environmental & Occupational Health	3
+Social Issues	Medical Informatics	3
+Public, Environmental & Occupational Health	Health Care Sciences & Services	3
+Public, Environmental & Occupational Health	Medical Informatics	3
+Health Care Sciences & Services	Medical Informatics	3
+Business & Economics	Psychology	2
+Business & Economics	Environmental Sciences & Ecology	2
+Mathematical Methods In Social Sciences	Psychology	2
+Education & Educational Research	Psychology	2
+Education & Educational Research	Health Care Sciences & Services	2
+Linguistics	Social Sciences - Other Topics	2
+Linguistics	Neurosciences & Neurology	2
+Psychology	Physiology	2
+Environmental Sciences & Ecology	Social Sciences - Other Topics	2
+Physical Geography	Agriculture	2
+Social Sciences - Other Topics	Sociology	2
+Social Sciences - Other Topics	Computer Science	2
+Computer Science	Rehabilitation	2
+Computer Science	Agriculture	2
+Engineering	Operations Research & Management Science	2
+Engineering	Behavioral Sciences	2
+Communication	Information Science & Library Science	2
+Operations Research & Management Science	Transportation	2
+Neurosciences & Neurology	Physiology	2
+Neurosciences & Neurology	Audiology & Speech-Language Pathology	2
+Remote Sensing	Agriculture	2
+Business & Economics	Sociology	1
+Business & Economics	Communication	1
+Business & Economics	Construction & Building Technology	1
+Mathematics	Social Sciences - Other Topics	1
+Mathematics	Public, Environmental & Occupational Health	1
+Mathematics	Environmental Sciences & Ecology	1
+Mathematics	Physical Geography	1
+Mathematical Methods In Social Sciences	Demography	1
+Mathematical Methods In Social Sciences	Public, Environmental & Occupational Health	1
+Public Administration	Government & Law	1
+Education & Educational Research	Physics	1
+Education & Educational Research	Automation & Control Systems	1
+Education & Educational Research	Science & Technology - Other Topics	1
+Education & Educational Research	Transportation	1
+Linguistics	Communication	1
+Linguistics	Behavioral Sciences	1
+Psychology	Information Science & Library Science	1
+Psychology	Social Sciences - Other Topics	1
+Psychology	Transportation	1
+Psychology	Substance Abuse	1
+Psychology	Nutrition & Dietetics	1
+Environmental Sciences & Ecology	Remote Sensing	1
+Environmental Sciences & Ecology	Geology	1
+Social Sciences - Other Topics	History & Philosophy of Science	1
+Computer Science	History & Philosophy of Science	1
+Computer Science	Communication	1
+Computer Science	Neurosciences & Neurology	1
+Engineering	Automation & Control Systems	1
+Engineering	Materials Science	1
+Engineering	Science & Technology - Other Topics	1
+Engineering	Construction & Building Technology	1
+Materials Science	Automation & Control Systems	1
+Rehabilitation	Social Issues	1
+Sociology	Literature	1
+Sociology	Anthropology	1
+Geology	Anthropology	1
+Geology	Archaeology	1
+Anthropology	Archaeology	1
+Transportation	Science & Technology - Other Topics	1
+Psychiatry	Nutrition & Dietetics	1
+Audiology & Speech-Language Pathology	Behavioral Sciences	1

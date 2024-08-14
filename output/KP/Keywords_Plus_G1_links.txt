@@ -1,0 +1,1754 @@
+model	classification	6
+similarity	model	3
+similarity	categorization	3
+model	accuracy	3
+model	expert system	3
+model	categorization	3
+similarity	exemplar	2
+similarity	memory	2
+similarity	information	2
+exemplar	model	2
+model	regression	2
+model	optimization	2
+model	prediction	2
+model	rule induction	2
+model	neural network	2
+model	information	2
+model	knowledge	2
+model	multisource	2
+model	network	2
+model	integration	2
+model	recognition	2
+model	constraint	2
+model	attention	2
+classification	neural network	2
+classification	knowledge	2
+classification	artificial neural network	2
+classification	multisource	2
+classification	accuracy	2
+classification	optimization	2
+classification	regression	2
+regression	accuracy	2
+regression	optimization	2
+accuracy	multisource	2
+knowledge	algorithm	2
+knowledge	design	2
+knowledge	prediction	2
+rule	trust	2
+system	movement	2
+system	recognition	2
+system	neural network	2
+system	integration	2
+system	identification	2
+network	representation	2
+network	attention	2
+expert system	rule induction	2
+expert system	neural network	2
+rule induction	neural network	2
+neural network	business	2
+neural network	financial ratio	2
+neural network	integration	2
+information	categorization	2
+information	feature	2
+artificial neural network	remotely sensed data	2
+discriminant analysis	bankruptcy prediction	2
+recognition	constraint	2
+response model	performance	2
+memory	categorization	2
+categorization	attention	2
+attention	representation	2
+land cover classification	forest	2
+developmental phonological disorder	child	2
+similarity	classification	1
+similarity	regression	1
+similarity	system	1
+similarity	adaptive pattern classification	1
+similarity	frequency	1
+similarity	response time	1
+similarity	inference	1
+similarity	representation	1
+similarity	attention	1
+similarity	feature	1
+similarity	network	1
+similarity	search	1
+exemplar	classification	1
+exemplar	categorization	1
+exemplar	information	1
+exemplar	representation	1
+exemplar	attention	1
+exemplar	feature	1
+exemplar	network	1
+exemplar	search	1
+model	error	1
+model	combination	1
+model	forecast	1
+model	civil war	1
+model	bankruptcy	1
+model	support vector machine	1
+model	machine learning technique	1
+model	grievance arbitration	1
+model	stock market	1
+model	business	1
+model	implementation	1
+model	design	1
+model	remote sensing data	1
+model	artificial neural network	1
+model	sensed data	1
+model	backpropagation	1
+model	classification problem	1
+model	learning algorithm	1
+model	backpropagation neural network	1
+model	earth	1
+model	simulation	1
+model	consumer decision making	1
+model	choice	1
+model	internet	1
+model	behavior	1
+model	adaptive pattern classification	1
+model	frequency	1
+model	memory	1
+model	geographic information system	1
+model	spatial data	1
+model	landsat	1
+model	cattail	1
+model	computer vision	1
+model	word segmentation	1
+model	speech segmentation	1
+model	sound pattern	1
+model	cue	1
+model	color	1
+model	decision rule	1
+model	performance	1
+model	free classification	1
+model	hierarchical clustering	1
+model	category construction	1
+model	exemplar similarity	1
+model	acquisition	1
+model	stimulus	1
+model	abstraction	1
+model	discriminant analysis	1
+model	neuron	1
+model	brain	1
+model	representation	1
+model	feature	1
+model	search	1
+model	temporal contiguity	1
+model	binary variable	1
+model	cue competition	1
+model	young child	1
+model	covariation	1
+model	contingency	1
+model	judgment	1
+model	inference	1
+model	mechanism	1
+model	vegetation abundance	1
+model	tree	1
+model	machine	1
+model	tutorial	1
+model	database	1
+model	european higher plant	1
+model	heterogeneous environment	1
+model	geographic distribution	1
+model	carbon storage	1
+model	change impact	1
+model	evolution	1
+model	ecosystem	1
+model	response	1
+model	range	1
+classification	heartbeat interval feature	1
+classification	morphology	1
+classification	decision bound model	1
+classification	stimulus generalization	1
+classification	response generalization	1
+classification	visual categorization	1
+classification	selective attention	1
+classification	object recognition	1
+classification	kernel method	1
+classification	universal law	1
+classification	category	1
+classification	expert system	1
+classification	rule induction	1
+classification	design	1
+classification	remote sensing data	1
+classification	sensed data	1
+classification	backpropagation	1
+classification	backpropagation neural network	1
+classification	earth	1
+classification	competitive advantage	1
+classification	discriminant analysis	1
+classification	business	1
+classification	asset	1
+classification	return	1
+classification	road traffic accident	1
+classification	carpal tunnel syndrome	1
+classification	logistic regression	1
+classification	driving performance	1
+classification	genetic algorithm	1
+classification	behavior	1
+classification	pattern	1
+classification	violation	1
+classification	severity	1
+classification	geographic information system	1
+classification	spatial data	1
+classification	integration	1
+classification	landsat	1
+classification	cattail	1
+classification	remotely sensed data	1
+classification	cover change detection	1
+classification	land cover	1
+classification	imagery	1
+classification	generative intelligence	1
+classification	linear programming model	1
+classification	discriminant	1
+classification	response model	1
+classification	selection	1
+classification	target	1
+classification	segmentation	1
+classification	performance	1
+classification	prediction	1
+classification	financial ratio	1
+classification	vegetation abundance	1
+classification	tree	1
+classification	machine	1
+classification	tutorial	1
+classification	database	1
+classification	size	1
+classification	support vector machine	1
+computer mediated communication	negotiation	1
+computer mediated communication	coefficient	1
+computer mediated communication	gender	1
+negotiation	coefficient	1
+negotiation	gender	1
+negotiation	cooperation	1
+negotiation	conflict	1
+coefficient	gender	1
+regression	error	1
+regression	combination	1
+regression	forecast	1
+regression	backpropagation neural network	1
+regression	multisource	1
+regression	earth	1
+regression	system	1
+regression	response model	1
+regression	knowledge	1
+regression	selection	1
+regression	target	1
+regression	segmentation	1
+regression	performance	1
+regression	prediction	1
+regression	spatial association	1
+regression	vegetation	1
+error	combination	1
+error	forecast	1
+error	accuracy	1
+combination	forecast	1
+combination	accuracy	1
+forecast	accuracy	1
+accuracy	remote sensing data	1
+accuracy	artificial neural network	1
+accuracy	sensed data	1
+accuracy	backpropagation	1
+accuracy	backpropagation neural network	1
+accuracy	optimization	1
+accuracy	earth	1
+accuracy	earth hummock pounus	1
+accuracy	specie distribution	1
+accuracy	logistic regression	1
+accuracy	neural network	1
+accuracy	permafrost	1
+accuracy	determinant	1
+accuracy	performance	1
+accuracy	range	1
+accuracy	peat	1
+accuracy	correlation image analysis	1
+accuracy	specie composition	1
+accuracy	aerial photography	1
+accuracy	airborne lidar	1
+accuracy	leaf off	1
+accuracy	texture	1
+accuracy	sternal skin conductance	1
+accuracy	woman health	1
+accuracy	postmenopausal woman	1
+accuracy	vasomotor symptom	1
+accuracy	premenopausal	1
+accuracy	association	1
+accuracy	validation	1
+accuracy	complaint	1
+accuracy	flush	1
+cooperation	conflict	1
+architecture	persistence	1
+architecture	education	1
+persistence	education	1
+knowledge	marriage	1
+knowledge	tree	1
+knowledge	heavy traffic analysis	1
+knowledge	system	1
+knowledge	network	1
+knowledge	queue	1
+knowledge	rule	1
+knowledge	expert system	1
+knowledge	neural network	1
+knowledge	rule induction	1
+knowledge	response model	1
+knowledge	selection	1
+knowledge	target	1
+knowledge	segmentation	1
+knowledge	optimization	1
+knowledge	performance	1
+knowledge	integration	1
+knowledge	neuron	1
+knowledge	brain	1
+knowledge	constraint satisfaction problem	1
+knowledge	decision making	1
+knowledge	information system	1
+knowledge	memory	1
+knowledge	molgen	1
+marriage	tree	1
+tree	system development	1
+tree	small footprint lidar	1
+tree	oak decline	1
+tree	biophysical property	1
+tree	arkansas	1
+tree	carbon	1
+tree	volume	1
+tree	vegetation abundance	1
+tree	machine	1
+tree	tutorial	1
+tree	database	1
+support vector machine	political similarity	1
+support vector machine	militarized dispute	1
+support vector machine	foreign policy	1
+support vector machine	democracy	1
+support vector machine	peace	1
+support vector machine	uncertainty	1
+support vector machine	trade	1
+support vector machine	bankruptcy	1
+support vector machine	prediction	1
+support vector machine	bankruptcy prediction	1
+support vector machine	discriminant analysis	1
+support vector machine	genetic algorithm	1
+support vector machine	financial ratio	1
+support vector machine	neural network	1
+support vector machine	pseudo criterion	1
+support vector machine	preference	1
+support vector machine	integration	1
+support vector machine	system	1
+support vector machine	size	1
+support vector machine	land cover classification	1
+support vector machine	remotely sensed image	1
+support vector machine	segmentation	1
+support vector machine	feature	1
+support vector machine	forest	1
+support vector machine	information	1
+political similarity	militarized dispute	1
+political similarity	foreign policy	1
+political similarity	democracy	1
+political similarity	peace	1
+political similarity	uncertainty	1
+political similarity	trade	1
+militarized dispute	foreign policy	1
+militarized dispute	democracy	1
+militarized dispute	peace	1
+militarized dispute	uncertainty	1
+militarized dispute	trade	1
+foreign policy	democracy	1
+foreign policy	peace	1
+foreign policy	uncertainty	1
+foreign policy	trade	1
+democracy	peace	1
+democracy	uncertainty	1
+democracy	trade	1
+peace	uncertainty	1
+peace	trade	1
+uncertainty	trade	1
+uncertainty	land cover classification	1
+uncertainty	artificial neural network	1
+uncertainty	remotely sensed data	1
+uncertainty	maximum likelihood classification	1
+uncertainty	decision tree	1
+uncertainty	canopy damage	1
+uncertainty	supervised classification	1
+uncertainty	image classification	1
+uncertainty	fuzzy artmap	1
+uncertainty	bayesian inference	1
+uncertainty	modulation	1
+uncertainty	cortex	1
+uncertainty	reward	1
+uncertainty	representation	1
+uncertainty	mechanism	1
+uncertainty	attention	1
+uncertainty	response	1
+uncertainty	network	1
+protein interaction site	alanine scanning mutagenesis	1
+litigation	lawsuit	1
+litigation	rule	1
+lawsuit	rule	1
+rule	bootstrap	1
+rule	heavy traffic analysis	1
+rule	system	1
+rule	algorithm	1
+rule	network	1
+rule	queue	1
+rule	automation	1
+rule	issue	1
+rule	online marketplace	1
+rule	framework	1
+rule	frequency	1
+rule	word	1
+heartbeat interval feature	morphology	1
+high agreement	low kappa	1
+optimization	backpropagation neural network	1
+optimization	multisource	1
+optimization	earth	1
+optimization	response model	1
+optimization	selection	1
+optimization	target	1
+optimization	segmentation	1
+optimization	performance	1
+optimization	prediction	1
+decision making	linear model	1
+decision making	attrition	1
+decision making	metaanalysis	1
+decision making	student	1
+decision making	constraint satisfaction problem	1
+decision making	information system	1
+decision making	algorithm	1
+decision making	memory	1
+decision making	design	1
+decision making	molgen	1
+linear model	attrition	1
+linear model	metaanalysis	1
+linear model	student	1
+attrition	metaanalysis	1
+attrition	student	1
+metaanalysis	student	1
+heavy traffic analysis	system	1
+heavy traffic analysis	algorithm	1
+heavy traffic analysis	network	1
+heavy traffic analysis	queue	1
+system	algorithm	1
+system	network	1
+system	queue	1
+system	file allocation	1
+system	design	1
+system	prediction	1
+system	discovery	1
+system	time series	1
+system	decision support	1
+system	response model	1
+system	bankruptcy	1
+system	extrapolation	1
+system	performance	1
+system	domain	1
+system	tool	1
+system	framework	1
+system	information acquisition	1
+system	ecological theory	1
+system	place cell	1
+system	food web	1
+system	simulation	1
+system	behavior	1
+system	representation	1
+system	hippocampus	1
+system	environment	1
+system	land cover classification	1
+system	multiple classifier	1
+system	hyperspectral data	1
+system	fusion	1
+system	forest	1
+system	bankruptcy prediction	1
+system	discriminant analysis	1
+system	genetic algorithm	1
+system	financial ratio	1
+system	pseudo criterion	1
+system	preference	1
+system	decision tree	1
+system	vegetation	1
+system	distribution	1
+system	extraction	1
+system	gait data	1
+system	miniature gyroscope	1
+system	accelerometer	1
+system	kinematics	1
+system	sensor	1
+algorithm	network	1
+algorithm	queue	1
+algorithm	decision support	1
+algorithm	discovery	1
+algorithm	decision tree classification	1
+algorithm	spatial resolution	1
+algorithm	accuracy assessment	1
+algorithm	mixing model	1
+algorithm	mato grosso	1
+algorithm	satellite	1
+algorithm	deforestation	1
+algorithm	carbon	1
+algorithm	validation	1
+algorithm	genetic local search	1
+algorithm	knapsack problem	1
+algorithm	performance	1
+algorithm	quality	1
+algorithm	network flow problem	1
+algorithm	logit model	1
+algorithm	brand choice	1
+algorithm	state	1
+algorithm	constraint satisfaction problem	1
+algorithm	information system	1
+algorithm	memory	1
+algorithm	design	1
+algorithm	molgen	1
+algorithm	diagnosis	1
+algorithm	boosting bit rate	1
+algorithm	single trial eeg	1
+algorithm	device	1
+network	queue	1
+network	mutual information	1
+network	approximation	1
+network	classification problem	1
+network	learning algorithm	1
+network	expert system	1
+network	performance	1
+network	simulation	1
+network	categorization	1
+network	information	1
+network	feature	1
+network	search	1
+network	bayesian inference	1
+network	modulation	1
+network	cortex	1
+network	reward	1
+network	mechanism	1
+network	response	1
+file allocation	design	1
+design	expert system	1
+design	neural network	1
+design	rule induction	1
+design	constraint satisfaction problem	1
+design	information system	1
+design	memory	1
+design	molgen	1
+decision bound model	stimulus generalization	1
+decision bound model	response generalization	1
+decision bound model	visual categorization	1
+decision bound model	selective attention	1
+decision bound model	object recognition	1
+decision bound model	kernel method	1
+decision bound model	universal law	1
+decision bound model	category	1
+stimulus generalization	response generalization	1
+stimulus generalization	visual categorization	1
+stimulus generalization	selective attention	1
+stimulus generalization	object recognition	1
+stimulus generalization	kernel method	1
+stimulus generalization	universal law	1
+stimulus generalization	category	1
+response generalization	visual categorization	1
+response generalization	selective attention	1
+response generalization	object recognition	1
+response generalization	kernel method	1
+response generalization	universal law	1
+response generalization	category	1
+visual categorization	selective attention	1
+visual categorization	object recognition	1
+visual categorization	kernel method	1
+visual categorization	universal law	1
+visual categorization	category	1
+selective attention	object recognition	1
+selective attention	kernel method	1
+selective attention	universal law	1
+selective attention	category	1
+object recognition	kernel method	1
+object recognition	universal law	1
+object recognition	category	1
+kernel method	universal law	1
+kernel method	category	1
+universal law	category	1
+bankruptcy	prediction	1
+bankruptcy	time series	1
+bankruptcy	decision support	1
+bankruptcy	response model	1
+bankruptcy	extrapolation	1
+bankruptcy	performance	1
+bankruptcy	domain	1
+bankruptcy	tool	1
+prediction	discovery	1
+prediction	rough set approach	1
+prediction	response model	1
+prediction	selection	1
+prediction	target	1
+prediction	segmentation	1
+prediction	performance	1
+prediction	integration	1
+prediction	neuron	1
+prediction	brain	1
+machine learning technique	expert system	1
+machine learning technique	rule induction	1
+machine learning technique	grievance arbitration	1
+machine learning technique	neural network	1
+machine learning technique	stock market	1
+machine learning technique	business	1
+machine learning technique	implementation	1
+machine learning technique	information	1
+expert system	grievance arbitration	1
+expert system	stock market	1
+expert system	business	1
+expert system	implementation	1
+expert system	information	1
+expert system	classification problem	1
+expert system	learning algorithm	1
+rule induction	grievance arbitration	1
+rule induction	stock market	1
+rule induction	business	1
+rule induction	implementation	1
+rule induction	information	1
+grievance arbitration	neural network	1
+grievance arbitration	stock market	1
+grievance arbitration	business	1
+grievance arbitration	implementation	1
+grievance arbitration	information	1
+neural network	stock market	1
+neural network	implementation	1
+neural network	information	1
+neural network	earth hummock pounus	1
+neural network	specie distribution	1
+neural network	logistic regression	1
+neural network	permafrost	1
+neural network	determinant	1
+neural network	performance	1
+neural network	range	1
+neural network	peat	1
+neural network	digital terrain data	1
+neural network	thematic mapper data	1
+neural network	remotely sensed data	1
+neural network	information system	1
+neural network	continuum concept	1
+neural network	landsat ms	1
+neural network	topographic distribution	1
+neural network	forest classification	1
+neural network	plant distribution	1
+neural network	variance	1
+neural network	bias	1
+neural network	feature selection	1
+neural network	support vector machine classifier	1
+neural network	support	1
+neural network	image analysis	1
+neural network	ancillary data	1
+neural network	generative intelligence	1
+neural network	bankruptcy prediction	1
+neural network	discriminant analysis	1
+neural network	genetic algorithm	1
+neural network	pseudo criterion	1
+neural network	preference	1
+neural network	gait data	1
+neural network	miniature gyroscope	1
+neural network	movement	1
+neural network	identification	1
+neural network	accelerometer	1
+neural network	recognition	1
+neural network	kinematics	1
+neural network	sensor	1
+stock market	business	1
+stock market	implementation	1
+stock market	information	1
+business	implementation	1
+business	information	1
+business	competitive advantage	1
+business	discriminant analysis	1
+business	asset	1
+business	return	1
+business	dimension	1
+business	feature selection	1
+business	support vector machine classifier	1
+business	support	1
+implementation	information	1
+information	response time	1
+information	memory	1
+information	inference	1
+information	decision tree	1
+information	choice	1
+information	representation	1
+information	attention	1
+information	search	1
+information	land cover classification	1
+information	remotely sensed image	1
+information	segmentation	1
+information	forest	1
+vector space model	ability	1
+service	level	1
+remote sensing data	artificial neural network	1
+remote sensing data	sensed data	1
+remote sensing data	multisource	1
+remote sensing data	backpropagation	1
+artificial neural network	sensed data	1
+artificial neural network	multisource	1
+artificial neural network	backpropagation	1
+artificial neural network	medical statistic	1
+artificial neural network	outcome	1
+artificial neural network	cover change detection	1
+artificial neural network	land cover	1
+artificial neural network	imagery	1
+artificial neural network	generative intelligence	1
+artificial neural network	land cover classification	1
+artificial neural network	maximum likelihood classification	1
+artificial neural network	decision tree	1
+artificial neural network	canopy damage	1
+artificial neural network	supervised classification	1
+artificial neural network	image classification	1
+artificial neural network	fuzzy artmap	1
+sensed data	multisource	1
+sensed data	backpropagation	1
+multisource	backpropagation	1
+multisource	backpropagation neural network	1
+multisource	earth	1
+mutual information	approximation	1
+discovery	decision support	1
+classification problem	learning algorithm	1
+conceptual change	mental model	1
+user information satisfaction	mi research	1
+word order	input	1
+expert system design	imputation	1
+backpropagation neural network	earth	1
+probability	principle	1
+probability	selection	1
+principle	selection	1
+selection	control system	1
+selection	strategy	1
+selection	response model	1
+selection	target	1
+selection	segmentation	1
+selection	performance	1
+competitive advantage	discriminant analysis	1
+competitive advantage	asset	1
+competitive advantage	return	1
+discriminant analysis	asset	1
+discriminant analysis	return	1
+discriminant analysis	neural network model	1
+discriminant analysis	speculative attack	1
+discriminant analysis	payment crisis	1
+discriminant analysis	financial crisis	1
+discriminant analysis	contagion	1
+discriminant analysis	balance	1
+discriminant analysis	indicator	1
+discriminant analysis	experience	1
+discriminant analysis	genetic algorithm	1
+discriminant analysis	financial ratio	1
+discriminant analysis	pseudo criterion	1
+discriminant analysis	preference	1
+discriminant analysis	integration	1
+asset	return	1
+soft computing framework	domain knowledge	1
+finite automaton	repeated game	1
+finite automaton	equilibrium	1
+repeated game	equilibrium	1
+road traffic accident	carpal tunnel syndrome	1
+road traffic accident	logistic regression	1
+road traffic accident	driving performance	1
+road traffic accident	genetic algorithm	1
+road traffic accident	behavior	1
+road traffic accident	pattern	1
+road traffic accident	violation	1
+road traffic accident	severity	1
+carpal tunnel syndrome	logistic regression	1
+carpal tunnel syndrome	driving performance	1
+carpal tunnel syndrome	genetic algorithm	1
+carpal tunnel syndrome	behavior	1
+carpal tunnel syndrome	pattern	1
+carpal tunnel syndrome	violation	1
+carpal tunnel syndrome	severity	1
+logistic regression	driving performance	1
+logistic regression	genetic algorithm	1
+logistic regression	behavior	1
+logistic regression	pattern	1
+logistic regression	violation	1
+logistic regression	severity	1
+logistic regression	earth hummock pounus	1
+logistic regression	specie distribution	1
+logistic regression	permafrost	1
+logistic regression	determinant	1
+logistic regression	performance	1
+logistic regression	range	1
+logistic regression	peat	1
+driving performance	genetic algorithm	1
+driving performance	behavior	1
+driving performance	pattern	1
+driving performance	violation	1
+driving performance	severity	1
+genetic algorithm	behavior	1
+genetic algorithm	pattern	1
+genetic algorithm	violation	1
+genetic algorithm	severity	1
+genetic algorithm	bankruptcy prediction	1
+genetic algorithm	financial ratio	1
+genetic algorithm	pseudo criterion	1
+genetic algorithm	preference	1
+genetic algorithm	integration	1
+behavior	pattern	1
+behavior	violation	1
+behavior	severity	1
+behavior	consumer decision making	1
+behavior	choice	1
+behavior	internet	1
+behavior	ecological theory	1
+behavior	place cell	1
+behavior	food web	1
+behavior	simulation	1
+behavior	movement	1
+behavior	representation	1
+behavior	hippocampus	1
+behavior	environment	1
+pattern	violation	1
+pattern	severity	1
+pattern	infant	1
+pattern	speech	1
+pattern	segmentation	1
+pattern	perception	1
+pattern	bias	1
+violation	severity	1
+medical statistic	outcome	1
+face	beauty	1
+face	shape	1
+beauty	shape	1
+heart rate variability	traumatic brain injury	1
+heart rate variability	own name	1
+heart rate variability	mother voice	1
+heart rate variability	consciousness	1
+heart rate variability	recognition	1
+heart rate variability	response	1
+heart rate variability	hrv	1
+traumatic brain injury	own name	1
+traumatic brain injury	mother voice	1
+traumatic brain injury	consciousness	1
+traumatic brain injury	recognition	1
+traumatic brain injury	response	1
+traumatic brain injury	hrv	1
+own name	mother voice	1
+own name	consciousness	1
+own name	recognition	1
+own name	response	1
+own name	hrv	1
+mother voice	consciousness	1
+mother voice	recognition	1
+mother voice	response	1
+mother voice	hrv	1
+consciousness	recognition	1
+consciousness	response	1
+consciousness	hrv	1
+recognition	response	1
+recognition	hrv	1
+recognition	word segmentation	1
+recognition	speech segmentation	1
+recognition	sound pattern	1
+recognition	cue	1
+recognition	categorization	1
+recognition	attention	1
+recognition	color	1
+recognition	free classification	1
+recognition	hierarchical clustering	1
+recognition	category construction	1
+recognition	exemplar similarity	1
+recognition	acquisition	1
+recognition	stimulus	1
+recognition	abstraction	1
+recognition	land cover classification	1
+recognition	multiple classifier	1
+recognition	hyperspectral data	1
+recognition	fusion	1
+recognition	forest	1
+recognition	gait data	1
+recognition	miniature gyroscope	1
+recognition	movement	1
+recognition	identification	1
+recognition	accelerometer	1
+recognition	kinematics	1
+recognition	sensor	1
+response	hrv	1
+response	bayesian inference	1
+response	modulation	1
+response	cortex	1
+response	reward	1
+response	representation	1
+response	mechanism	1
+response	attention	1
+response	tree specie distribution	1
+response	postglacial history	1
+response	distribution model	1
+response	global change	1
+response	vegetation	1
+response	diversity	1
+response	forest	1
+response	impact	1
+response	europe	1
+response	european higher plant	1
+response	heterogeneous environment	1
+response	geographic distribution	1
+response	carbon storage	1
+response	change impact	1
+response	evolution	1
+response	ecosystem	1
+response	range	1
+simulation	ecological theory	1
+simulation	place cell	1
+simulation	food web	1
+simulation	movement	1
+simulation	representation	1
+simulation	hippocampus	1
+simulation	environment	1
+infant	speech	1
+infant	segmentation	1
+infant	perception	1
+infant	bias	1
+speech	segmentation	1
+speech	perception	1
+speech	bias	1
+segmentation	perception	1
+segmentation	bias	1
+segmentation	response model	1
+segmentation	target	1
+segmentation	performance	1
+segmentation	land cover classification	1
+segmentation	remotely sensed image	1
+segmentation	feature	1
+segmentation	forest	1
+perception	bias	1
+perception	musical signal	1
+perception	tempo	1
+bias	variance	1
+control system	strategy	1
+multiple task	endogeneity	1
+consumer decision making	choice	1
+consumer decision making	internet	1
+choice	internet	1
+choice	decision tree	1
+neural network model	bankruptcy prediction	1
+neural network model	speculative attack	1
+neural network model	payment crisis	1
+neural network model	financial crisis	1
+neural network model	contagion	1
+neural network model	balance	1
+neural network model	indicator	1
+neural network model	experience	1
+bankruptcy prediction	speculative attack	1
+bankruptcy prediction	payment crisis	1
+bankruptcy prediction	financial crisis	1
+bankruptcy prediction	contagion	1
+bankruptcy prediction	balance	1
+bankruptcy prediction	indicator	1
+bankruptcy prediction	experience	1
+bankruptcy prediction	financial ratio	1
+bankruptcy prediction	pseudo criterion	1
+bankruptcy prediction	preference	1
+bankruptcy prediction	integration	1
+speculative attack	payment crisis	1
+speculative attack	financial crisis	1
+speculative attack	contagion	1
+speculative attack	balance	1
+speculative attack	indicator	1
+speculative attack	experience	1
+payment crisis	financial crisis	1
+payment crisis	contagion	1
+payment crisis	balance	1
+payment crisis	indicator	1
+payment crisis	experience	1
+financial crisis	contagion	1
+financial crisis	balance	1
+financial crisis	indicator	1
+financial crisis	experience	1
+contagion	balance	1
+contagion	indicator	1
+contagion	experience	1
+balance	indicator	1
+balance	experience	1
+indicator	experience	1
+price formation	trader	1
+price formation	rationality	1
+price formation	competition	1
+trader	rationality	1
+trader	competition	1
+rationality	competition	1
+automation	issue	1
+automation	trust	1
+issue	trust	1
+trust	online marketplace	1
+trust	framework	1
+time series	decision support	1
+time series	response model	1
+time series	extrapolation	1
+time series	performance	1
+time series	domain	1
+time series	tool	1
+decision support	response model	1
+decision support	extrapolation	1
+decision support	performance	1
+decision support	domain	1
+decision support	tool	1
+response model	extrapolation	1
+response model	domain	1
+response model	tool	1
+response model	target	1
+extrapolation	performance	1
+extrapolation	domain	1
+extrapolation	tool	1
+performance	domain	1
+performance	tool	1
+performance	management	1
+performance	genetic local search	1
+performance	knapsack problem	1
+performance	quality	1
+performance	decision rule	1
+performance	earth hummock pounus	1
+performance	specie distribution	1
+performance	permafrost	1
+performance	determinant	1
+performance	range	1
+performance	peat	1
+performance	target	1
+domain	tool	1
+adaptive pattern classification	frequency	1
+adaptive pattern classification	memory	1
+adaptive pattern classification	categorization	1
+frequency	memory	1
+frequency	categorization	1
+frequency	word	1
+memory	response time	1
+memory	inference	1
+memory	constraint satisfaction problem	1
+memory	information system	1
+memory	molgen	1
+categorization	response time	1
+categorization	inference	1
+categorization	word segmentation	1
+categorization	speech segmentation	1
+categorization	sound pattern	1
+categorization	cue	1
+categorization	constraint	1
+categorization	color	1
+categorization	representation	1
+categorization	feature	1
+categorization	search	1
+liability insurance market	risk	1
+liability insurance market	industry	1
+liability insurance market	reinsurance	1
+liability insurance market	quality	1
+liability insurance market	price	1
+risk	industry	1
+risk	reinsurance	1
+risk	quality	1
+risk	price	1
+industry	reinsurance	1
+industry	quality	1
+industry	price	1
+reinsurance	quality	1
+reinsurance	price	1
+quality	price	1
+quality	genetic local search	1
+quality	knapsack problem	1
+management	dementia	1
+management	diagnosis	1
+management	scale	1
+geographic information system	spatial data	1
+geographic information system	integration	1
+geographic information system	landsat	1
+geographic information system	cattail	1
+spatial data	integration	1
+spatial data	landsat	1
+spatial data	cattail	1
+integration	landsat	1
+integration	cattail	1
+integration	neuron	1
+integration	brain	1
+integration	image analysis	1
+integration	ancillary data	1
+integration	generative intelligence	1
+integration	financial ratio	1
+integration	pseudo criterion	1
+integration	preference	1
+integration	decision tree	1
+integration	vegetation	1
+integration	distribution	1
+integration	extraction	1
+landsat	cattail	1
+remotely sensed data	cover change detection	1
+remotely sensed data	land cover	1
+remotely sensed data	imagery	1
+remotely sensed data	generative intelligence	1
+remotely sensed data	land cover classification	1
+remotely sensed data	maximum likelihood classification	1
+remotely sensed data	decision tree	1
+remotely sensed data	canopy damage	1
+remotely sensed data	supervised classification	1
+remotely sensed data	image classification	1
+remotely sensed data	fuzzy artmap	1
+remotely sensed data	digital terrain data	1
+remotely sensed data	thematic mapper data	1
+remotely sensed data	information system	1
+remotely sensed data	continuum concept	1
+remotely sensed data	landsat ms	1
+remotely sensed data	topographic distribution	1
+remotely sensed data	forest classification	1
+remotely sensed data	plant distribution	1
+cover change detection	land cover	1
+cover change detection	imagery	1
+cover change detection	generative intelligence	1
+land cover	imagery	1
+land cover	generative intelligence	1
+imagery	generative intelligence	1
+generative intelligence	image analysis	1
+generative intelligence	ancillary data	1
+framework	online marketplace	1
+economics	web	1
+linear programming model	discriminant	1
+mini mental state	alzheimers disease	1
+response time	inference	1
+inference	temporal contiguity	1
+inference	binary variable	1
+inference	cue competition	1
+inference	young child	1
+inference	covariation	1
+inference	contingency	1
+inference	judgment	1
+inference	mechanism	1
+inference	constraint satisfaction	1
+inference	acquisition	1
+inference	complex	1
+musical signal	tempo	1
+tempo	dynamic	1
+error recovery strategy	user	1
+prepositional phrase attachment	constraint	1
+constraint	word segmentation	1
+constraint	speech segmentation	1
+constraint	sound pattern	1
+constraint	cue	1
+constraint	attention	1
+constraint	color	1
+constraint	free classification	1
+constraint	hierarchical clustering	1
+constraint	category construction	1
+constraint	exemplar similarity	1
+constraint	acquisition	1
+constraint	stimulus	1
+constraint	abstraction	1
+decision tree classification	spatial resolution	1
+decision tree classification	accuracy assessment	1
+decision tree classification	mixing model	1
+decision tree classification	mato grosso	1
+decision tree classification	satellite	1
+decision tree classification	deforestation	1
+decision tree classification	carbon	1
+decision tree classification	validation	1
+spatial resolution	accuracy assessment	1
+spatial resolution	mixing model	1
+spatial resolution	mato grosso	1
+spatial resolution	satellite	1
+spatial resolution	deforestation	1
+spatial resolution	carbon	1
+spatial resolution	validation	1
+accuracy assessment	mixing model	1
+accuracy assessment	mato grosso	1
+accuracy assessment	satellite	1
+accuracy assessment	deforestation	1
+accuracy assessment	carbon	1
+accuracy assessment	validation	1
+mixing model	mato grosso	1
+mixing model	satellite	1
+mixing model	deforestation	1
+mixing model	carbon	1
+mixing model	validation	1
+mato grosso	satellite	1
+mato grosso	deforestation	1
+mato grosso	carbon	1
+mato grosso	validation	1
+satellite	deforestation	1
+satellite	carbon	1
+satellite	validation	1
+deforestation	carbon	1
+deforestation	validation	1
+carbon	validation	1
+carbon	small footprint lidar	1
+carbon	oak decline	1
+carbon	biophysical property	1
+carbon	arkansas	1
+carbon	volume	1
+validation	sternal skin conductance	1
+validation	woman health	1
+validation	postmenopausal woman	1
+validation	vasomotor symptom	1
+validation	premenopausal	1
+validation	association	1
+validation	complaint	1
+validation	flush	1
+catechol o methyltransferase	false discovery rate	1
+catechol o methyltransferase	long term memory	1
+catechol o methyltransferase	genetic variation	1
+catechol o methyltransferase	use disorder	1
+catechol o methyltransferase	human brain	1
+catechol o methyltransferase	induced reinstatement	1
+catechol o methyltransferase	receptor subtypes	1
+catechol o methyltransferase	substantia nigra	1
+catechol o methyltransferase	sex difference	1
+false discovery rate	long term memory	1
+false discovery rate	genetic variation	1
+false discovery rate	use disorder	1
+false discovery rate	human brain	1
+false discovery rate	induced reinstatement	1
+false discovery rate	receptor subtypes	1
+false discovery rate	substantia nigra	1
+false discovery rate	sex difference	1
+long term memory	genetic variation	1
+long term memory	use disorder	1
+long term memory	human brain	1
+long term memory	induced reinstatement	1
+long term memory	receptor subtypes	1
+long term memory	substantia nigra	1
+long term memory	sex difference	1
+genetic variation	use disorder	1
+genetic variation	human brain	1
+genetic variation	induced reinstatement	1
+genetic variation	receptor subtypes	1
+genetic variation	substantia nigra	1
+genetic variation	sex difference	1
+use disorder	human brain	1
+use disorder	induced reinstatement	1
+use disorder	receptor subtypes	1
+use disorder	substantia nigra	1
+use disorder	sex difference	1
+human brain	induced reinstatement	1
+human brain	receptor subtypes	1
+human brain	substantia nigra	1
+human brain	sex difference	1
+induced reinstatement	receptor subtypes	1
+induced reinstatement	substantia nigra	1
+induced reinstatement	sex difference	1
+receptor subtypes	substantia nigra	1
+receptor subtypes	sex difference	1
+substantia nigra	sex difference	1
+genetic local search	knapsack problem	1
+word segmentation	speech segmentation	1
+word segmentation	sound pattern	1
+word segmentation	cue	1
+word segmentation	attention	1
+word segmentation	color	1
+speech segmentation	sound pattern	1
+speech segmentation	cue	1
+speech segmentation	attention	1
+speech segmentation	color	1
+sound pattern	cue	1
+sound pattern	attention	1
+sound pattern	color	1
+cue	attention	1
+cue	color	1
+attention	color	1
+attention	feature	1
+attention	search	1
+attention	bayesian inference	1
+attention	modulation	1
+attention	cortex	1
+attention	reward	1
+attention	mechanism	1
+argumentative knowledge construction	feature	1
+feature	representation	1
+feature	search	1
+feature	land cover classification	1
+feature	remotely sensed image	1
+feature	forest	1
+fuzzy rule	membership function	1
+small footprint lidar	oak decline	1
+small footprint lidar	biophysical property	1
+small footprint lidar	arkansas	1
+small footprint lidar	volume	1
+oak decline	biophysical property	1
+oak decline	arkansas	1
+oak decline	volume	1
+biophysical property	arkansas	1
+biophysical property	volume	1
+arkansas	volume	1
+name identification	gene	1
+earth hummock pounus	specie distribution	1
+earth hummock pounus	permafrost	1
+earth hummock pounus	determinant	1
+earth hummock pounus	range	1
+earth hummock pounus	peat	1
+specie distribution	permafrost	1
+specie distribution	determinant	1
+specie distribution	range	1
+specie distribution	peat	1
+permafrost	determinant	1
+permafrost	range	1
+permafrost	peat	1
+determinant	range	1
+determinant	peat	1
+range	peat	1
+range	european higher plant	1
+range	heterogeneous environment	1
+range	geographic distribution	1
+range	carbon storage	1
+range	change impact	1
+range	evolution	1
+range	ecosystem	1
+land cover classification	maximum likelihood classification	1
+land cover classification	decision tree	1
+land cover classification	canopy damage	1
+land cover classification	supervised classification	1
+land cover classification	image classification	1
+land cover classification	fuzzy artmap	1
+land cover classification	multiple classifier	1
+land cover classification	hyperspectral data	1
+land cover classification	fusion	1
+land cover classification	remotely sensed image	1
+maximum likelihood classification	decision tree	1
+maximum likelihood classification	canopy damage	1
+maximum likelihood classification	supervised classification	1
+maximum likelihood classification	image classification	1
+maximum likelihood classification	fuzzy artmap	1
+decision tree	canopy damage	1
+decision tree	supervised classification	1
+decision tree	image classification	1
+decision tree	fuzzy artmap	1
+decision tree	vegetation	1
+decision tree	distribution	1
+decision tree	extraction	1
+canopy damage	supervised classification	1
+canopy damage	image classification	1
+canopy damage	fuzzy artmap	1
+supervised classification	image classification	1
+supervised classification	fuzzy artmap	1
+image classification	fuzzy artmap	1
+free classification	hierarchical clustering	1
+free classification	category construction	1
+free classification	exemplar similarity	1
+free classification	acquisition	1
+free classification	stimulus	1
+free classification	abstraction	1
+hierarchical clustering	category construction	1
+hierarchical clustering	exemplar similarity	1
+hierarchical clustering	acquisition	1
+hierarchical clustering	stimulus	1
+hierarchical clustering	abstraction	1
+category construction	exemplar similarity	1
+category construction	acquisition	1
+category construction	stimulus	1
+category construction	abstraction	1
+exemplar similarity	acquisition	1
+exemplar similarity	stimulus	1
+exemplar similarity	abstraction	1
+acquisition	stimulus	1
+acquisition	abstraction	1
+acquisition	constraint satisfaction	1
+acquisition	complex	1
+acquisition	semantic network	1
+acquisition	representation	1
+acquisition	maintenance	1
+acquisition	logic	1
+stimulus	abstraction	1
+financial ratio	pseudo criterion	1
+financial ratio	preference	1
+network flow problem	analytic hierarchy process	1
+network flow problem	preference	1
+network flow problem	criterion	1
+network flow problem	theorem	1
+network flow problem	cut	1
+classifier	kernel	1
+digital terrain data	thematic mapper data	1
+digital terrain data	information system	1
+digital terrain data	continuum concept	1
+digital terrain data	landsat ms	1
+digital terrain data	topographic distribution	1
+digital terrain data	forest classification	1
+digital terrain data	plant distribution	1
+thematic mapper data	information system	1
+thematic mapper data	continuum concept	1
+thematic mapper data	landsat ms	1
+thematic mapper data	topographic distribution	1
+thematic mapper data	forest classification	1
+thematic mapper data	plant distribution	1
+information system	continuum concept	1
+information system	landsat ms	1
+information system	topographic distribution	1
+information system	forest classification	1
+information system	plant distribution	1
+information system	constraint satisfaction problem	1
+information system	molgen	1
+continuum concept	landsat ms	1
+continuum concept	topographic distribution	1
+continuum concept	forest classification	1
+continuum concept	plant distribution	1
+landsat ms	topographic distribution	1
+landsat ms	forest classification	1
+landsat ms	plant distribution	1
+topographic distribution	forest classification	1
+topographic distribution	plant distribution	1
+forest classification	plant distribution	1
+neuron	brain	1
+ecological theory	place cell	1
+ecological theory	food web	1
+ecological theory	movement	1
+ecological theory	representation	1
+ecological theory	hippocampus	1
+ecological theory	environment	1
+place cell	food web	1
+place cell	movement	1
+place cell	representation	1
+place cell	hippocampus	1
+place cell	environment	1
+food web	movement	1
+food web	representation	1
+food web	hippocampus	1
+food web	environment	1
+movement	representation	1
+movement	hippocampus	1
+movement	environment	1
+movement	gait data	1
+movement	miniature gyroscope	1
+movement	identification	1
+movement	accelerometer	1
+movement	kinematics	1
+movement	sensor	1
+representation	hippocampus	1
+representation	environment	1
+representation	search	1
+representation	bayesian inference	1
+representation	modulation	1
+representation	cortex	1
+representation	reward	1
+representation	mechanism	1
+representation	semantic network	1
+representation	maintenance	1
+representation	logic	1
+hippocampus	environment	1
+logit model	brand choice	1
+logit model	state	1
+brand choice	state	1
+dementia	diagnosis	1
+dementia	scale	1
+diagnosis	scale	1
+dynamic	expression recognition	1
+dynamic	coherence	1
+correlation image analysis	specie composition	1
+correlation image analysis	aerial photography	1
+correlation image analysis	airborne lidar	1
+correlation image analysis	leaf off	1
+correlation image analysis	texture	1
+specie composition	aerial photography	1
+specie composition	airborne lidar	1
+specie composition	leaf off	1
+specie composition	texture	1
+aerial photography	airborne lidar	1
+aerial photography	leaf off	1
+aerial photography	texture	1
+airborne lidar	leaf off	1
+airborne lidar	texture	1
+leaf off	texture	1
+temporal contiguity	binary variable	1
+temporal contiguity	cue competition	1
+temporal contiguity	young child	1
+temporal contiguity	covariation	1
+temporal contiguity	contingency	1
+temporal contiguity	judgment	1
+temporal contiguity	mechanism	1
+binary variable	cue competition	1
+binary variable	young child	1
+binary variable	covariation	1
+binary variable	contingency	1
+binary variable	judgment	1
+binary variable	mechanism	1
+cue competition	young child	1
+cue competition	covariation	1
+cue competition	contingency	1
+cue competition	judgment	1
+cue competition	mechanism	1
+young child	covariation	1
+young child	contingency	1
+young child	judgment	1
+young child	mechanism	1
+covariation	contingency	1
+covariation	judgment	1
+covariation	mechanism	1
+contingency	judgment	1
+contingency	mechanism	1
+judgment	mechanism	1
+mechanism	bayesian inference	1
+mechanism	modulation	1
+mechanism	cortex	1
+mechanism	reward	1
+bayesian inference	modulation	1
+bayesian inference	cortex	1
+bayesian inference	reward	1
+modulation	cortex	1
+modulation	reward	1
+cortex	reward	1
+constraint satisfaction	complex	1
+constraint satisfaction problem	molgen	1
+feature selection	support vector machine classifier	1
+feature selection	support	1
+support vector machine classifier	support	1
+analytic hierarchy process	preference	1
+analytic hierarchy process	criterion	1
+analytic hierarchy process	theorem	1
+analytic hierarchy process	cut	1
+preference	criterion	1
+preference	theorem	1
+preference	cut	1
+preference	pseudo criterion	1
+criterion	theorem	1
+criterion	cut	1
+theorem	cut	1
+tree specie distribution	postglacial history	1
+tree specie distribution	distribution model	1
+tree specie distribution	global change	1
+tree specie distribution	vegetation	1
+tree specie distribution	diversity	1
+tree specie distribution	forest	1
+tree specie distribution	impact	1
+tree specie distribution	europe	1
+postglacial history	distribution model	1
+postglacial history	global change	1
+postglacial history	vegetation	1
+postglacial history	diversity	1
+postglacial history	forest	1
+postglacial history	impact	1
+postglacial history	europe	1
+distribution model	global change	1
+distribution model	vegetation	1
+distribution model	diversity	1
+distribution model	forest	1
+distribution model	impact	1
+distribution model	europe	1
+global change	vegetation	1
+global change	diversity	1
+global change	forest	1
+global change	impact	1
+global change	europe	1
+vegetation	diversity	1
+vegetation	forest	1
+vegetation	impact	1
+vegetation	europe	1
+vegetation	spatial association	1
+vegetation	distribution	1
+vegetation	extraction	1
+diversity	forest	1
+diversity	impact	1
+diversity	europe	1
+forest	impact	1
+forest	europe	1
+forest	multiple classifier	1
+forest	hyperspectral data	1
+forest	fusion	1
+forest	remotely sensed image	1
+impact	europe	1
+impact	developmental phonological disorder	1
+impact	language development	1
+impact	conversational speech	1
+impact	tympanostomy tube	1
+impact	cognitive outcome	1
+impact	child	1
+impact	hearing	1
+impact	life	1
+impact	ear	1
+information retrieval	relevance	1
+sternal skin conductance	woman health	1
+sternal skin conductance	postmenopausal woman	1
+sternal skin conductance	vasomotor symptom	1
+sternal skin conductance	premenopausal	1
+sternal skin conductance	association	1
+sternal skin conductance	complaint	1
+sternal skin conductance	flush	1
+woman health	postmenopausal woman	1
+woman health	vasomotor symptom	1
+woman health	premenopausal	1
+woman health	association	1
+woman health	complaint	1
+woman health	flush	1
+postmenopausal woman	vasomotor symptom	1
+postmenopausal woman	premenopausal	1
+postmenopausal woman	association	1
+postmenopausal woman	complaint	1
+postmenopausal woman	flush	1
+vasomotor symptom	premenopausal	1
+vasomotor symptom	association	1
+vasomotor symptom	complaint	1
+vasomotor symptom	flush	1
+premenopausal	association	1
+premenopausal	complaint	1
+premenopausal	flush	1
+association	complaint	1
+association	flush	1
+complaint	flush	1
+vegetation abundance	machine	1
+vegetation abundance	tutorial	1
+vegetation abundance	database	1
+machine	tutorial	1
+machine	database	1
+tutorial	database	1
+image analysis	ancillary data	1
+functional magnetic resonance	anterior cingulate cortex	1
+functional magnetic resonance	machine learning method	1
+functional magnetic resonance	concealed information	1
+functional magnetic resonance	error detection	1
+functional magnetic resonance	brain activity	1
+functional magnetic resonance	knowledge test	1
+functional magnetic resonance	mock crime	1
+functional magnetic resonance	deception	1
+functional magnetic resonance	truth	1
+anterior cingulate cortex	machine learning method	1
+anterior cingulate cortex	concealed information	1
+anterior cingulate cortex	error detection	1
+anterior cingulate cortex	brain activity	1
+anterior cingulate cortex	knowledge test	1
+anterior cingulate cortex	mock crime	1
+anterior cingulate cortex	deception	1
+anterior cingulate cortex	truth	1
+machine learning method	concealed information	1
+machine learning method	error detection	1
+machine learning method	brain activity	1
+machine learning method	knowledge test	1
+machine learning method	mock crime	1
+machine learning method	deception	1
+machine learning method	truth	1
+concealed information	error detection	1
+concealed information	brain activity	1
+concealed information	knowledge test	1
+concealed information	mock crime	1
+concealed information	deception	1
+concealed information	truth	1
+error detection	brain activity	1
+error detection	knowledge test	1
+error detection	mock crime	1
+error detection	deception	1
+error detection	truth	1
+brain activity	knowledge test	1
+brain activity	mock crime	1
+brain activity	deception	1
+brain activity	truth	1
+knowledge test	mock crime	1
+knowledge test	deception	1
+knowledge test	truth	1
+mock crime	deception	1
+mock crime	truth	1
+deception	truth	1
+multiple classifier	hyperspectral data	1
+multiple classifier	fusion	1
+hyperspectral data	fusion	1
+multilayer feedforward network	language	1
+expression recognition	coherence	1
+synthetic speech	vocal emotion	1
+distribution	extraction	1
+developmental phonological disorder	language development	1
+developmental phonological disorder	conversational speech	1
+developmental phonological disorder	tympanostomy tube	1
+developmental phonological disorder	cognitive outcome	1
+developmental phonological disorder	hearing	1
+developmental phonological disorder	life	1
+developmental phonological disorder	ear	1
+developmental phonological disorder	s vertical bar	1
+developmental phonological disorder	language impairment	1
+developmental phonological disorder	nonword repetition	1
+developmental phonological disorder	childhood apraxia	1
+developmental phonological disorder	familial aggregation	1
+developmental phonological disorder	sound disorder	1
+developmental phonological disorder	otitis medium	1
+developmental phonological disorder	risk factor	1
+language development	conversational speech	1
+language development	tympanostomy tube	1
+language development	cognitive outcome	1
+language development	child	1
+language development	hearing	1
+language development	life	1
+language development	ear	1
+conversational speech	tympanostomy tube	1
+conversational speech	cognitive outcome	1
+conversational speech	child	1
+conversational speech	hearing	1
+conversational speech	life	1
+conversational speech	ear	1
+tympanostomy tube	cognitive outcome	1
+tympanostomy tube	child	1
+tympanostomy tube	hearing	1
+tympanostomy tube	life	1
+tympanostomy tube	ear	1
+cognitive outcome	child	1
+cognitive outcome	hearing	1
+cognitive outcome	life	1
+cognitive outcome	ear	1
+child	hearing	1
+child	life	1
+child	ear	1
+child	s vertical bar	1
+child	language impairment	1
+child	nonword repetition	1
+child	childhood apraxia	1
+child	familial aggregation	1
+child	sound disorder	1
+child	otitis medium	1
+child	risk factor	1
+hearing	life	1
+hearing	ear	1
+life	ear	1
+european higher plant	heterogeneous environment	1
+european higher plant	geographic distribution	1
+european higher plant	carbon storage	1
+european higher plant	change impact	1
+european higher plant	evolution	1
+european higher plant	ecosystem	1
+heterogeneous environment	geographic distribution	1
+heterogeneous environment	carbon storage	1
+heterogeneous environment	change impact	1
+heterogeneous environment	evolution	1
+heterogeneous environment	ecosystem	1
+geographic distribution	carbon storage	1
+geographic distribution	change impact	1
+geographic distribution	evolution	1
+geographic distribution	ecosystem	1
+carbon storage	change impact	1
+carbon storage	evolution	1
+carbon storage	ecosystem	1
+change impact	evolution	1
+change impact	ecosystem	1
+evolution	ecosystem	1
+semantic network	maintenance	1
+semantic network	logic	1
+maintenance	logic	1
+gait data	miniature gyroscope	1
+gait data	identification	1
+gait data	accelerometer	1
+gait data	kinematics	1
+gait data	sensor	1
+miniature gyroscope	identification	1
+miniature gyroscope	accelerometer	1
+miniature gyroscope	kinematics	1
+miniature gyroscope	sensor	1
+identification	accelerometer	1
+identification	kinematics	1
+identification	sensor	1
+accelerometer	kinematics	1
+accelerometer	sensor	1
+kinematics	sensor	1
+s vertical bar	language impairment	1
+s vertical bar	nonword repetition	1
+s vertical bar	childhood apraxia	1
+s vertical bar	familial aggregation	1
+s vertical bar	sound disorder	1
+s vertical bar	otitis medium	1
+s vertical bar	risk factor	1
+language impairment	nonword repetition	1
+language impairment	childhood apraxia	1
+language impairment	familial aggregation	1
+language impairment	sound disorder	1
+language impairment	otitis medium	1
+language impairment	risk factor	1
+nonword repetition	childhood apraxia	1
+nonword repetition	familial aggregation	1
+nonword repetition	sound disorder	1
+nonword repetition	otitis medium	1
+nonword repetition	risk factor	1
+childhood apraxia	familial aggregation	1
+childhood apraxia	sound disorder	1
+childhood apraxia	otitis medium	1
+childhood apraxia	risk factor	1
+familial aggregation	sound disorder	1
+familial aggregation	otitis medium	1
+familial aggregation	risk factor	1
+sound disorder	otitis medium	1
+sound disorder	risk factor	1
+otitis medium	risk factor	1
+boosting bit rate	single trial eeg	1
+boosting bit rate	device	1
+single trial eeg	device	1

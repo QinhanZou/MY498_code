@@ -1,0 +1,50 @@
+Germany	United States	7
+United Kingdom	United States	6
+United States	China	6
+Germany	United Kingdom	4
+United States	Turkey	4
+Canada	United States	3
+Kenya	Belgium	3
+Poland	Canada	2
+Canada	China	2
+Germany	Italy	2
+Germany	Romania	2
+Italy	United States	2
+United States	Israel	2
+United States	Japan	2
+United States	Netherlands	2
+Japan	China	2
+Poland	Austria	1
+Poland	Australia	1
+Austria	Canada	1
+Austria	Germany	1
+Austria	Italy	1
+Austria	Spain	1
+Canada	United Kingdom	1
+Germany	Croatia	1
+Germany	Australia	1
+Germany	Netherlands	1
+Italy	Venezuela	1
+Italy	Switzerland	1
+United Kingdom	Netherlands	1
+United Kingdom	Australia	1
+United Kingdom	China	1
+United Kingdom	France	1
+United Kingdom	Romania	1
+United Kingdom	United Kingdom	1
+United States	South Korea	1
+United States	France	1
+United States	Venezuela	1
+United States	Switzerland	1
+United States	Ireland	1
+United States	Singapore	1
+United States	Spain	1
+United States	Mexico	1
+Netherlands	Belgium	1
+Japan	South Korea	1
+China	Singapore	1
+China	Australia	1
+Switzerland	Sweden	1
+Portugal	Brazil	1
+North Macedonia	Slovenia	1
+Greece	Finland	1

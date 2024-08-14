@@ -1,0 +1,207 @@
+Computer Science	Linguistics	104
+Business & Economics	Computer Science	83
+Education & Educational Research	Computer Science	81
+Business & Economics	Operations Research & Management Science	71
+Computer Science	Information Science & Library Science	47
+Psychology	Computer Science	42
+Computer Science	Engineering	42
+Business & Economics	Information Science & Library Science	41
+Psychology	Engineering	32
+Mathematics	Computer Science	29
+Business & Economics	Engineering	27
+Computer Science	Operations Research & Management Science	26
+Computer Science	Physical Geography	20
+Physical Geography	Remote Sensing	19
+Mathematics	Linguistics	16
+Computer Science	Social Sciences - Other Topics	16
+Physical Geography	Geology	16
+Psychology	Neurosciences & Neurology	15
+Mathematics	Business & Economics	14
+Engineering	Operations Research & Management Science	14
+Computer Science	Social Issues	11
+Geology	Imaging Science & Photographic Technology	11
+Education & Educational Research	Engineering	10
+Environmental Sciences & Ecology	Physical Geography	10
+Physical Geography	Imaging Science & Photographic Technology	10
+Remote Sensing	Geology	10
+Remote Sensing	Imaging Science & Photographic Technology	10
+Psychology	Linguistics	9
+Computer Science	Geography	9
+Computer Science	Telecommunications	9
+Linguistics	Information Science & Library Science	9
+Geography	Physical Geography	9
+Computer Science	Environmental Sciences & Ecology	8
+Information Science & Library Science	Geography	8
+Information Science & Library Science	Physical Geography	8
+Mathematics	Mathematical Methods In Social Sciences	7
+Mathematics	Psychology	7
+Mathematical Methods In Social Sciences	Computer Science	7
+Psychology	Behavioral Sciences	7
+Business & Economics	Environmental Sciences & Ecology	7
+Computer Science	Remote Sensing	7
+Information Science & Library Science	Social Issues	7
+Environmental Sciences & Ecology	Telecommunications	7
+Physical Geography	Telecommunications	7
+Mathematical Methods In Social Sciences	Business & Economics	6
+Business & Economics	Social Issues	6
+Business & Economics	Linguistics	6
+Engineering	Environmental Sciences & Ecology	6
+Mathematics	Operations Research & Management Science	5
+Psychology	Education & Educational Research	5
+Psychology	Social Sciences - Other Topics	5
+Education & Educational Research	Information Science & Library Science	5
+Computer Science	Public Administration	5
+Education & Educational Research	Business & Economics	4
+Education & Educational Research	Social Sciences - Other Topics	4
+Business & Economics	Public Administration	4
+Business & Economics	Social Sciences - Other Topics	4
+Computer Science	Government & Law	4
+Computer Science	Neurosciences & Neurology	4
+Computer Science	Automation & Control Systems	4
+Engineering	Information Science & Library Science	4
+Environmental Sciences & Ecology	Remote Sensing	4
+Remote Sensing	Telecommunications	4
+Behavioral Sciences	Neurosciences & Neurology	4
+Mathematics	Neurosciences & Neurology	3
+Mathematics	Information Science & Library Science	3
+Mathematical Methods In Social Sciences	Psychology	3
+Mathematical Methods In Social Sciences	Education & Educational Research	3
+Psychology	Sociology	3
+Psychology	Biophysics	3
+Psychology	Music	3
+Public Administration	Environmental Sciences & Ecology	3
+Social Sciences - Other Topics	Information Science & Library Science	3
+Linguistics	Audiology & Speech-Language Pathology	3
+Information Science & Library Science	Environmental Sciences & Ecology	3
+Environmental Sciences & Ecology	Geography	3
+Mathematics	Genetics & Heredity	2
+Mathematical Methods In Social Sciences	Operations Research & Management Science	2
+Psychology	Psychiatry	2
+Psychology	Genetics & Heredity	2
+Psychology	Physiology	2
+Education & Educational Research	Public Administration	2
+Education & Educational Research	Sociology	2
+Sociology	Computer Science	2
+Sociology	Engineering	2
+Business & Economics	Telecommunications	2
+Business & Economics	Energy & Fuels	2
+Computer Science	Communication	2
+Computer Science	Behavioral Sciences	2
+Public Administration	Engineering	2
+Public Administration	Operations Research & Management Science	2
+Public Administration	Urban Studies	2
+Public Administration	Geography	2
+Engineering	Social Issues	2
+Engineering	Geography	2
+Linguistics	Literature	2
+Linguistics	Rehabilitation	2
+Government & Law	Information Science & Library Science	2
+Urban Studies	Environmental Sciences & Ecology	2
+Social Issues	Communication	2
+Environmental Sciences & Ecology	Agriculture	2
+Environmental Sciences & Ecology	Forestry	2
+Environmental Sciences & Ecology	Geology	2
+Environmental Sciences & Ecology	Energy & Fuels	2
+Environmental Sciences & Ecology	Automation & Control Systems	2
+Physical Geography	Automation & Control Systems	2
+Remote Sensing	Automation & Control Systems	2
+Telecommunications	Automation & Control Systems	2
+Neurosciences & Neurology	Genetics & Heredity	2
+Neurosciences & Neurology	Physiology	2
+Audiology & Speech-Language Pathology	Rehabilitation	2
+Mathematics	Medical Informatics	1
+Mathematics	Engineering	1
+Mathematical Methods In Social Sciences	Sociology	1
+Psychology	Business & Economics	1
+Psychology	Communication	1
+Psychology	Substance Abuse	1
+Psychology	Ophthalmology	1
+Psychology	Audiology & Speech-Language Pathology	1
+Psychology	Geriatrics & Gerontology	1
+Psychology	Information Science & Library Science	1
+Psychology	Sport Sciences	1
+Psychology	Automation & Control Systems	1
+Psychology	Science & Technology - Other Topics	1
+Education & Educational Research	Nursing	1
+Education & Educational Research	Medical Informatics	1
+Education & Educational Research	Operations Research & Management Science	1
+Education & Educational Research	Automation & Control Systems	1
+Education & Educational Research	Remote Sensing	1
+Education & Educational Research	Astronomy & Astrophysics	1
+Education & Educational Research	Biophysics	1
+Education & Educational Research	Physics	1
+Sociology	Information Science & Library Science	1
+Sociology	Social Issues	1
+Business & Economics	Agriculture	1
+Business & Economics	Water Resources	1
+Business & Economics	Forestry	1
+Business & Economics	Medical Informatics	1
+Computer Science	Urban Studies	1
+Computer Science	Medical Informatics	1
+Computer Science	Geology	1
+Computer Science	Music	1
+Computer Science	Science & Technology - Other Topics	1
+Public Administration	Social Work	1
+Public Administration	Social Issues	1
+Public Administration	Physical Geography	1
+Social Sciences - Other Topics	Government & Law	1
+Social Sciences - Other Topics	Science & Technology - Other Topics	1
+Engineering	Medical Informatics	1
+Engineering	Behavioral Sciences	1
+Engineering	Agriculture	1
+Engineering	Forestry	1
+Engineering	Geology	1
+Engineering	Meteorology & Atmospheric Sciences	1
+Engineering	Oceanography	1
+Engineering	Imaging Science & Photographic Technology	1
+Engineering	Energy & Fuels	1
+Engineering	Physical Geography	1
+Engineering	Remote Sensing	1
+Linguistics	Neurosciences & Neurology	1
+Operations Research & Management Science	Social Issues	1
+Operations Research & Management Science	Environmental Sciences & Ecology	1
+Operations Research & Management Science	Geography	1
+Operations Research & Management Science	Information Science & Library Science	1
+International Relations	Government & Law	1
+Urban Studies	Geography	1
+Urban Studies	Physical Geography	1
+Information Science & Library Science	Telecommunications	1
+Information Science & Library Science	Communication	1
+Environmental Sciences & Ecology	Water Resources	1
+Environmental Sciences & Ecology	Meteorology & Atmospheric Sciences	1
+Environmental Sciences & Ecology	Oceanography	1
+Environmental Sciences & Ecology	Imaging Science & Photographic Technology	1
+Geography	Remote Sensing	1
+Geography	Agriculture	1
+Geography	Forestry	1
+Geography	Geology	1
+Geography	Meteorology & Atmospheric Sciences	1
+Geography	Oceanography	1
+Geography	Imaging Science & Photographic Technology	1
+Agriculture	Water Resources	1
+Agriculture	Forestry	1
+Agriculture	Geology	1
+Agriculture	Meteorology & Atmospheric Sciences	1
+Agriculture	Oceanography	1
+Agriculture	Imaging Science & Photographic Technology	1
+Behavioral Sciences	Music	1
+Behavioral Sciences	Automation & Control Systems	1
+Behavioral Sciences	Science & Technology - Other Topics	1
+Substance Abuse	Psychiatry	1
+Neurosciences & Neurology	Ophthalmology	1
+Neurosciences & Neurology	Audiology & Speech-Language Pathology	1
+Neurosciences & Neurology	Music	1
+Neurosciences & Neurology	Sport Sciences	1
+Automation & Control Systems	Science & Technology - Other Topics	1
+Forestry	Geology	1
+Forestry	Meteorology & Atmospheric Sciences	1
+Forestry	Oceanography	1
+Forestry	Imaging Science & Photographic Technology	1
+Biophysics	Astronomy & Astrophysics	1
+Biophysics	Physics	1
+Geology	Meteorology & Atmospheric Sciences	1
+Geology	Oceanography	1
+Imaging Science & Photographic Technology	Meteorology & Atmospheric Sciences	1
+Imaging Science & Photographic Technology	Oceanography	1
+Meteorology & Atmospheric Sciences	Oceanography	1
+Astronomy & Astrophysics	Physics	1

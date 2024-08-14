@@ -1,0 +1,104 @@
+Acoustics
+Agriculture
+Anthropology
+Archaeology
+Architecture
+Area Studies
+Art
+Arts & Humanities - Other Topics
+Asian Studies
+Astronomy & Astrophysics
+Audiology & Speech-Language Pathology
+Automation & Control Systems
+Behavioral Sciences
+Biodiversity & Conservation
+Biomedical Social Sciences
+Biophysics
+Business & Economics
+Chemistry
+Communication
+Computer Science
+Construction & Building Technology
+Criminology & Penology
+Cultural Studies
+Demography
+Dentistry, Oral Surgery & Medicine
+Development Studies
+Developmental Biology
+Education & Educational Research
+Energy & Fuels
+Engineering
+Environmental Sciences & Ecology
+Ethnic Studies
+Family Studies
+Film, Radio & Television
+Fisheries
+Food Science & Technology
+Forestry
+General & Internal Medicine
+Genetics & Heredity
+Geography
+Geology
+Geriatrics & Gerontology
+Government & Law
+Health Care Sciences & Services
+History
+History & Philosophy of Science
+Imaging Science & Photographic Technology
+Information Science & Library Science
+Instruments & Instrumentation
+International Relations
+Legal Medicine
+Linguistics
+Literature
+Materials Science
+Mathematical & Computational Biology
+Mathematical Methods In Social Sciences
+Mathematics
+Medical Ethics
+Medical Informatics
+Meteorology & Atmospheric Sciences
+Music
+Neurosciences & Neurology
+Nursing
+Nutrition & Dietetics
+Obstetrics & Gynecology
+Oceanography
+Oncology
+Operations Research & Management Science
+Ophthalmology
+Optics
+Paleontology
+Pathology
+Pediatrics
+Pharmacology & Pharmacy
+Philosophy
+Physical Geography
+Physics
+Physiology
+Plant Sciences
+Psychiatry
+Psychology
+Public Administration
+Public, Environmental & Occupational Health
+Radiology, Nuclear Medicine & Medical Imaging
+Rehabilitation
+Religion
+Remote Sensing
+Respiratory System
+Robotics
+Science & Technology - Other Topics
+Social Issues
+Social Sciences - Other Topics
+Social Work
+Sociology
+Spectroscopy
+Sport Sciences
+Substance Abuse
+Surgery
+Telecommunications
+Transportation
+Urban Studies
+Water Resources
+Women's Studies
+Zoology

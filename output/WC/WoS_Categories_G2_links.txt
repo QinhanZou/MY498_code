@@ -1,0 +1,273 @@
+Linguistics	Language & Linguistics	137
+Geography, Physical	Remote Sensing	63
+Geography, Physical	Imaging Science & Photographic Technology	52
+Remote Sensing	Imaging Science & Photographic Technology	52
+Linguistics	Computer Science, Artificial Intelligence	40
+Linguistics	Computer Science, Interdisciplinary Applications	34
+Language & Linguistics	Computer Science, Artificial Intelligence	33
+Computer Science, Interdisciplinary Applications	Computer Science, Artificial Intelligence	32
+Language & Linguistics	Computer Science, Interdisciplinary Applications	26
+Geography, Physical	Geosciences, Multidisciplinary	26
+Management	Operations Research & Management Science	21
+Psychology	Neurosciences	21
+Mathematics, Interdisciplinary Applications	Social Sciences, Mathematical Methods	20
+Geosciences, Multidisciplinary	Remote Sensing	20
+Education & Educational Research	Computer Science, Interdisciplinary Applications	19
+Geosciences, Multidisciplinary	Imaging Science & Photographic Technology	19
+Geography, Physical	Engineering, Electrical & Electronic	18
+Engineering, Electrical & Electronic	Remote Sensing	18
+Engineering, Electrical & Electronic	Imaging Science & Photographic Technology	18
+Geography, Physical	Computer Science, Information Systems	17
+Computer Science, Information Systems	Information Science & Library Science	17
+Economics	Management	16
+Economics	Mathematics, Interdisciplinary Applications	14
+Ecology	Geography, Physical	14
+Management	Business	13
+Economics	Social Sciences, Mathematical Methods	12
+Geography	Geography, Physical	12
+Psychology, Experimental	Neurosciences	12
+Computer Science, Theory & Methods	Education, Scientific Disciplines	11
+Computer Science, Information Systems	Computer Science, Interdisciplinary Applications	10
+Computer Science, Interdisciplinary Applications	Education, Scientific Disciplines	10
+Geography	Computer Science, Information Systems	9
+Psychology	Psychiatry	9
+Economics	Business, Finance	8
+Social Sciences, Mathematical Methods	Statistics & Probability	8
+Language & Linguistics	Literature	8
+Geography	Information Science & Library Science	8
+Geography, Physical	Information Science & Library Science	8
+Computer Science, Information Systems	Computer Science, Artificial Intelligence	8
+Education & Educational Research	Education, Scientific Disciplines	7
+Linguistics	Literature	7
+Computer Science, Theory & Methods	Computer Science, Interdisciplinary Applications	7
+Information Science & Library Science	Computer Science, Artificial Intelligence	7
+Psychology, Experimental	Behavioral Sciences	7
+Economics	Statistics & Probability	6
+Mathematics, Interdisciplinary Applications	Statistics & Probability	6
+Management	Information Science & Library Science	6
+Computer Science, Interdisciplinary Applications	Information Science & Library Science	6
+Education, Scientific Disciplines	Engineering, Electrical & Electronic	6
+Neurosciences	Behavioral Sciences	6
+Economics	Business	5
+Mathematics, Interdisciplinary Applications	Psychology, Mathematical	5
+Regional & Urban Planning	Business	5
+Environmental Studies	Geography	5
+Education, Scientific Disciplines	Engineering, Multidisciplinary	5
+Psychology	Psychology, Clinical	5
+Psychology, Experimental	Psychology, Multidisciplinary	5
+Psychology, Clinical	Psychiatry	5
+Mathematics, Interdisciplinary Applications	Computer Science, Interdisciplinary Applications	4
+Social Sciences, Mathematical Methods	Business, Finance	4
+Social Sciences, Mathematical Methods	Computer Science, Interdisciplinary Applications	4
+Management	Social Sciences, Interdisciplinary	4
+Management	Business, Finance	4
+Regional & Urban Planning	Ecology	4
+Regional & Urban Planning	Environmental Studies	4
+Regional & Urban Planning	Geography	4
+Regional & Urban Planning	Geography, Physical	4
+Regional & Urban Planning	Urban Studies	4
+Business, Finance	Business	4
+Education & Educational Research	Linguistics	4
+Linguistics	Computer Science, Information Systems	4
+Linguistics	Computer Science, Theory & Methods	4
+Language & Linguistics	Computer Science, Information Systems	4
+Business	Computer Science, Information Systems	4
+Ecology	Environmental Studies	4
+Ecology	Geography	4
+Ecology	Urban Studies	4
+Environmental Studies	Geography, Physical	4
+Environmental Studies	Urban Studies	4
+Geography	Urban Studies	4
+Geography, Physical	Urban Studies	4
+Geography, Physical	Environmental Sciences	4
+Social Sciences, Interdisciplinary	Ergonomics	4
+Social Sciences, Interdisciplinary	Public, Environmental & Occupational Health	4
+Social Sciences, Interdisciplinary	Transportation	4
+Computer Science, Information Systems	Law	4
+Education, Scientific Disciplines	Materials Science, Multidisciplinary	4
+Public, Environmental & Occupational Health	Ergonomics	4
+Public, Environmental & Occupational Health	Transportation	4
+Information Science & Library Science	Law	4
+Psychology	Psychology, Experimental	4
+Psychology	Clinical Neurology	4
+Ergonomics	Transportation	4
+Ergonomics	Computer Science, Cybernetics	4
+Ergonomics	Psychology, Multidisciplinary	4
+Computer Science, Artificial Intelligence	Law	4
+Neurosciences	Clinical Neurology	4
+Neurosciences	Psychiatry	4
+Psychology, Multidisciplinary	Computer Science, Cybernetics	4
+Psychiatry	Clinical Neurology	4
+Economics	Transportation	3
+Economics	Transportation Science & Technology	3
+Mathematics, Interdisciplinary Applications	Business, Finance	3
+Mathematics, Interdisciplinary Applications	Management	3
+Management	Hospitality, Leisure, Sport & Tourism	3
+Management	Computer Science, Interdisciplinary Applications	3
+Management	Engineering, Industrial	3
+Education & Educational Research	Information Science & Library Science	3
+Linguistics	Information Science & Library Science	3
+Linguistics	Audiology & Speech-Language Pathology	3
+Linguistics	Psychology, Experimental	3
+Language & Linguistics	Information Science & Library Science	3
+Business	Computer Science, Interdisciplinary Applications	3
+Computer Science, Information Systems	Computer Science, Theory & Methods	3
+Computer Science, Information Systems	Remote Sensing	3
+Computer Science, Interdisciplinary Applications	Operations Research & Management Science	3
+Computer Science, Interdisciplinary Applications	Law	3
+Computer Science, Interdisciplinary Applications	Health Care Sciences & Services	3
+Computer Science, Interdisciplinary Applications	Public, Environmental & Occupational Health	3
+Computer Science, Interdisciplinary Applications	Medical Informatics	3
+Computer Science, Interdisciplinary Applications	Social Issues	3
+Rehabilitation	Education, Special	3
+Social Issues	Health Care Sciences & Services	3
+Social Issues	Public, Environmental & Occupational Health	3
+Social Issues	Medical Informatics	3
+Public, Environmental & Occupational Health	Health Care Sciences & Services	3
+Public, Environmental & Occupational Health	Medical Informatics	3
+Psychology, Applied	Engineering, Industrial	3
+Psychology, Applied	Ergonomics	3
+Psychology, Experimental	Audiology & Speech-Language Pathology	3
+Ergonomics	Engineering, Industrial	3
+Transportation	Transportation Science & Technology	3
+Health Care Sciences & Services	Medical Informatics	3
+Economics	Regional & Urban Planning	2
+Economics	Engineering, Civil	2
+Economics	Operations Research & Management Science	2
+Social Sciences, Mathematical Methods	Psychology, Mathematical	2
+Management	Psychology, Applied	2
+Management	Environmental Studies	2
+Management	Computer Science, Information Systems	2
+Education & Educational Research	Psychology, Educational	2
+Education & Educational Research	Engineering, Multidisciplinary	2
+Education & Educational Research	Education, Special	2
+Education & Educational Research	Rehabilitation	2
+Linguistics	Social Sciences, Interdisciplinary	2
+Linguistics	Neurosciences	2
+Language & Linguistics	Computer Science, Theory & Methods	2
+Business	Engineering, Industrial	2
+Environmental Studies	Hospitality, Leisure, Sport & Tourism	2
+Geography, Physical	Computer Science, Theory & Methods	2
+Geography, Physical	Agriculture, Multidisciplinary	2
+Computer Science, Information Systems	Agriculture, Multidisciplinary	2
+Computer Science, Theory & Methods	Computer Science, Artificial Intelligence	2
+Computer Science, Interdisciplinary Applications	Education, Special	2
+Computer Science, Interdisciplinary Applications	Rehabilitation	2
+Education, Scientific Disciplines	Engineering, Mechanical	2
+Education, Scientific Disciplines	Health Care Sciences & Services	2
+Communication	Information Science & Library Science	2
+Psychology, Applied	Behavioral Sciences	2
+Psychology, Applied	Psychology	2
+Psychology, Developmental	Psychology	2
+Psychology	Psychology, Biological	2
+Psychology	Physiology	2
+Psychology	Neuroimaging	2
+Psychology	Behavioral Sciences	2
+Psychology	Engineering, Industrial	2
+Psychology	Ergonomics	2
+Psychology, Experimental	Computer Science, Artificial Intelligence	2
+Psychology, Experimental	Psychology, Biological	2
+Psychology, Experimental	Physiology	2
+Operations Research & Management Science	Engineering, Civil	2
+Operations Research & Management Science	Transportation	2
+Operations Research & Management Science	Transportation Science & Technology	2
+Ergonomics	Behavioral Sciences	2
+Transportation	Engineering, Civil	2
+Neurosciences	Psychology, Biological	2
+Neurosciences	Physiology	2
+Neurosciences	Neuroimaging	2
+Neurosciences	Audiology & Speech-Language Pathology	2
+Engineering, Industrial	Behavioral Sciences	2
+Transportation Science & Technology	Engineering, Civil	2
+Remote Sensing	Agriculture, Multidisciplinary	2
+Psychiatry	Neuroimaging	2
+Clinical Neurology	Neuroimaging	2
+Psychology, Biological	Physiology	2
+Economics	Public Administration	1
+Mathematics, Interdisciplinary Applications	Computer Science, Information Systems	1
+Mathematics, Interdisciplinary Applications	Computer Science, Theory & Methods	1
+Mathematics, Interdisciplinary Applications	Public, Environmental & Occupational Health	1
+Mathematics, Interdisciplinary Applications	Psychology, Educational	1
+Social Sciences, Mathematical Methods	Management	1
+Social Sciences, Mathematical Methods	Demography	1
+Social Sciences, Mathematical Methods	Computer Science, Information Systems	1
+Social Sciences, Mathematical Methods	Computer Science, Theory & Methods	1
+Social Sciences, Mathematical Methods	Public, Environmental & Occupational Health	1
+Statistics & Probability	Social Sciences, Interdisciplinary	1
+Management	Public Administration	1
+Management	Regional & Urban Planning	1
+Management	Sociology	1
+Management	Psychology, Social	1
+Management	Construction & Building Technology	1
+Business, Finance	Construction & Building Technology	1
+Business, Finance	Engineering, Industrial	1
+Education & Educational Research	Language & Linguistics	1
+Education & Educational Research	Computer Science, Information Systems	1
+Education & Educational Research	Computer Science, Theory & Methods	1
+Linguistics	Communication	1
+Linguistics	Behavioral Sciences	1
+Business	Communication	1
+Business	Psychology, Applied	1
+Business	Information Science & Library Science	1
+Business	Computer Science, Software Engineering	1
+Business	Operations Research & Management Science	1
+Psychology, Mathematical	Psychology, Experimental	1
+Psychology, Mathematical	Psychology, Educational	1
+Ecology	Geosciences, Multidisciplinary	1
+Environmental Studies	Environmental Sciences	1
+Geography	Environmental Sciences	1
+Geography, Physical	Mathematics, Applied	1
+Geography, Physical	Computer Science, Interdisciplinary Applications	1
+Geography, Physical	Geology	1
+Social Sciences, Interdisciplinary	Sociology	1
+Social Sciences, Interdisciplinary	Computer Science, Artificial Intelligence	1
+Social Sciences, Interdisciplinary	Psychology, Experimental	1
+Computer Science, Information Systems	Political Science	1
+Computer Science, Information Systems	Engineering, Industrial	1
+Computer Science, Information Systems	Computer Science, Cybernetics	1
+Computer Science, Information Systems	Communication	1
+Computer Science, Information Systems	Computer Science, Software Engineering	1
+Public Administration	Political Science	1
+Computer Science, Interdisciplinary Applications	Engineering, Electrical & Electronic	1
+Computer Science, Interdisciplinary Applications	Engineering, Multidisciplinary	1
+Computer Science, Interdisciplinary Applications	Ethics	1
+Computer Science, Interdisciplinary Applications	History & Philosophy Of Science	1
+Education, Scientific Disciplines	Physics, Multidisciplinary	1
+Education, Scientific Disciplines	Automation & Control Systems	1
+Education, Scientific Disciplines	Nanoscience & Nanotechnology	1
+Education, Scientific Disciplines	Transportation Science & Technology	1
+Materials Science, Multidisciplinary	Automation & Control Systems	1
+Materials Science, Multidisciplinary	Engineering, Mechanical	1
+Rehabilitation	Social Issues	1
+Hospitality, Leisure, Sport & Tourism	Sociology	1
+Sociology	Literature	1
+Sociology	Anthropology	1
+Communication	Computer Science, Cybernetics	1
+Communication	Computer Science, Software Engineering	1
+Psychology, Applied	Information Science & Library Science	1
+Psychology, Applied	Psychology, Social	1
+Psychology, Applied	Transportation	1
+Information Science & Library Science	Computer Science, Cybernetics	1
+Information Science & Library Science	Computer Science, Software Engineering	1
+Geosciences, Multidisciplinary	Anthropology	1
+Geosciences, Multidisciplinary	Archaeology	1
+Psychology, Developmental	Psychology, Experimental	1
+Psychology, Developmental	Psychiatry	1
+Psychology	Psychology, Multidisciplinary	1
+Psychology	Nutrition & Dietetics	1
+Computer Science, Software Engineering	Computer Science, Cybernetics	1
+Anthropology	Archaeology	1
+Computer Science, Artificial Intelligence	Neurosciences	1
+Engineering, Industrial	Construction & Building Technology	1
+Transportation Science & Technology	Engineering, Mechanical	1
+Transportation Science & Technology	Nanoscience & Nanotechnology	1
+Environmental Sciences	Mathematics, Applied	1
+Environmental Sciences	Remote Sensing	1
+Automation & Control Systems	Engineering, Mechanical	1
+Engineering, Mechanical	Nanoscience & Nanotechnology	1
+Psychology, Multidisciplinary	Psychiatry	1
+Psychology, Clinical	Substance Abuse	1
+Psychology, Clinical	Nutrition & Dietetics	1
+Psychiatry	Nutrition & Dietetics	1
+Audiology & Speech-Language Pathology	Behavioral Sciences	1
+Ethics	History & Philosophy Of Science	1

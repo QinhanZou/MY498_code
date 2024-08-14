@@ -1,0 +1,231 @@
+United States	China	13
+United States	Germany	10
+United States	South Korea	7
+United States	United Kingdom	6
+United States	Spain	5
+United States	Canada	5
+United States	Australia	5
+France	Italy	5
+United States	France	4
+United States	Brazil	4
+Spain	France	4
+Germany	France	4
+Germany	Italy	4
+United Kingdom	United Kingdom	4
+United States	India	3
+United States	Israel	3
+United States	Singapore	3
+China	China	3
+China	Australia	3
+Netherlands	Portugal	3
+Germany	Belgium	3
+Italy	United Kingdom	3
+Canada	Australia	3
+Canada	United Kingdom	3
+United States	Netherlands	2
+United States	Portugal	2
+United States	Mexico	2
+United States	Belgium	2
+United States	Turkey	2
+United States	Denmark	2
+United States	Italy	2
+United States	Poland	2
+China	United Kingdom	2
+China	Ireland	2
+China	Japan	2
+China	Germany	2
+China	Canada	2
+Spain	Ireland	2
+Spain	Germany	2
+Spain	Portugal	2
+Spain	Belgium	2
+Germany	United Kingdom	2
+France	United Kingdom	2
+France	Belgium	2
+Italy	Belgium	2
+Greece	United Kingdom	2
+United Kingdom	Brazil	2
+United Kingdom	Malaysia	2
+Brazil	Portugal	2
+Egypt	United States	1
+Egypt	Germany	1
+United States	Peru	1
+United States	Finland	1
+United States	Austria	1
+United States	Bulgaria	1
+United States	Japan	1
+United States	Colombia	1
+United States	Iraq	1
+United States	Ireland	1
+United States	Lebanon	1
+United States	Romania	1
+United States	Nigeria	1
+United States	Sweden	1
+United States	Cyprus	1
+United States	Switzerland	1
+United States	Thailand	1
+United States	Argentina	1
+China	Norway	1
+China	Bulgaria	1
+China	Brazil	1
+China	Colombia	1
+China	Portugal	1
+China	Iraq	1
+China	Israel	1
+China	Netherlands	1
+China	Mexico	1
+China	Spain	1
+China	Lebanon	1
+China	Romania	1
+China	Nigeria	1
+China	Singapore	1
+Spain	Finland	1
+Spain	Bulgaria	1
+Spain	Brazil	1
+Spain	Japan	1
+Spain	Colombia	1
+Spain	Iraq	1
+Spain	Israel	1
+Spain	Netherlands	1
+Spain	Mexico	1
+Spain	Lebanon	1
+Spain	Romania	1
+Spain	Nigeria	1
+Spain	United Kingdom	1
+Spain	Sweden	1
+Spain	Iceland	1
+Spain	Italy	1
+Spain	Denmark	1
+Finland	Belgium	1
+Finland	Netherlands	1
+Finland	Norway	1
+Netherlands	Germany	1
+Netherlands	France	1
+Netherlands	Italy	1
+Netherlands	Singapore	1
+Netherlands	Bulgaria	1
+Netherlands	Brazil	1
+Netherlands	Japan	1
+Netherlands	Colombia	1
+Netherlands	Iraq	1
+Netherlands	Israel	1
+Netherlands	Mexico	1
+Netherlands	Ireland	1
+Netherlands	Lebanon	1
+Netherlands	Romania	1
+Netherlands	Nigeria	1
+Netherlands	United Kingdom	1
+Netherlands	Australia	1
+Netherlands	Belgium	1
+Germany	Australia	1
+Germany	Romania	1
+Germany	Ireland	1
+Germany	Norway	1
+France	Romania	1
+France	Israel	1
+France	Switzerland	1
+France	Canada	1
+France	Brazil	1
+France	Sweden	1
+France	Greece	1
+France	Portugal	1
+France	Singapore	1
+France	Iceland	1
+Italy	Romania	1
+Italy	India	1
+Italy	Switzerland	1
+Italy	Sweden	1
+Italy	Argentina	1
+Italy	Iceland	1
+Greece	Switzerland	1
+Greece	Mexico	1
+Switzerland	Croatia	1
+Switzerland	Ireland	1
+Switzerland	Canada	1
+Switzerland	North Macedonia	1
+Canada	Brazil	1
+Canada	Belgium	1
+Canada	Colombia	1
+Canada	Austria	1
+Australia	Belgium	1
+Australia	Singapore	1
+Australia	India	1
+Australia	United Kingdom	1
+Romania	Bulgaria	1
+Romania	Brazil	1
+Romania	Japan	1
+Romania	Colombia	1
+Romania	Portugal	1
+Romania	Iraq	1
+Romania	Israel	1
+Romania	Mexico	1
+Romania	Ireland	1
+Romania	Lebanon	1
+Romania	Nigeria	1
+Belgium	Croatia	1
+Belgium	Colombia	1
+Belgium	Austria	1
+United Kingdom	Sweden	1
+United Kingdom	Jordan	1
+United Kingdom	Mexico	1
+India	Singapore	1
+India	Denmark	1
+Singapore	Thailand	1
+Singapore	Poland	1
+Ireland	Bulgaria	1
+Ireland	Brazil	1
+Ireland	Japan	1
+Ireland	Colombia	1
+Ireland	Portugal	1
+Ireland	Iraq	1
+Ireland	Israel	1
+Ireland	Mexico	1
+Ireland	Lebanon	1
+Ireland	Nigeria	1
+Ireland	Croatia	1
+Austria	Colombia	1
+Israel	Bulgaria	1
+Israel	Brazil	1
+Israel	Japan	1
+Israel	Colombia	1
+Israel	Portugal	1
+Israel	Iraq	1
+Israel	Mexico	1
+Israel	Lebanon	1
+Israel	Nigeria	1
+Bulgaria	Brazil	1
+Bulgaria	Japan	1
+Bulgaria	Colombia	1
+Bulgaria	Portugal	1
+Bulgaria	Iraq	1
+Bulgaria	Mexico	1
+Bulgaria	Lebanon	1
+Bulgaria	Nigeria	1
+Brazil	Japan	1
+Brazil	Colombia	1
+Brazil	Iraq	1
+Brazil	Mexico	1
+Brazil	Lebanon	1
+Brazil	Nigeria	1
+Brazil	Argentina	1
+Japan	Colombia	1
+Japan	Portugal	1
+Japan	Iraq	1
+Japan	Mexico	1
+Japan	Lebanon	1
+Japan	Nigeria	1
+Colombia	Portugal	1
+Colombia	Iraq	1
+Colombia	Mexico	1
+Colombia	Lebanon	1
+Colombia	Nigeria	1
+Portugal	Iraq	1
+Portugal	Mexico	1
+Portugal	Lebanon	1
+Portugal	Nigeria	1
+Iraq	Mexico	1
+Iraq	Lebanon	1
+Iraq	Nigeria	1
+Mexico	Lebanon	1
+Mexico	Nigeria	1
+Lebanon	Nigeria	1

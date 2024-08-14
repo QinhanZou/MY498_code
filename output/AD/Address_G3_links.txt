@@ -1,0 +1,521 @@
+United States	China	85
+United States	United Kingdom	73
+United States	Canada	44
+United States	Germany	32
+United States	South Korea	22
+United States	Australia	20
+United Kingdom	Italy	20
+United States	India	18
+United Kingdom	China	18
+United States	Netherlands	17
+Germany	United Kingdom	17
+United States	Italy	16
+France	United Kingdom	16
+United States	France	15
+Netherlands	Germany	14
+Netherlands	United Kingdom	14
+United States	Israel	13
+Germany	Switzerland	13
+France	Italy	13
+Germany	Austria	12
+China	Australia	12
+United States	Switzerland	11
+Germany	France	11
+United Kingdom	Spain	11
+United Kingdom	Australia	11
+China	Canada	11
+Singapore	China	10
+United States	Sweden	9
+United States	Norway	9
+United States	Singapore	9
+United States	Spain	9
+Netherlands	Italy	9
+United Kingdom	Sweden	9
+Germany	Italy	8
+France	China	8
+United Kingdom	Canada	8
+United States	Brazil	7
+United States	Japan	7
+United States	Iran	7
+Netherlands	Belgium	7
+Germany	China	7
+Germany	Australia	7
+Italy	China	7
+Italy	Austria	7
+United States	Egypt	6
+United States	Poland	6
+United States	Qatar	6
+Netherlands	France	6
+France	Australia	6
+United Kingdom	Brazil	6
+United Kingdom	Greece	6
+United Kingdom	Poland	6
+United Kingdom	Israel	6
+United Kingdom	United Kingdom	6
+Italy	Spain	6
+China	Japan	6
+United States	Belgium	5
+United States	Denmark	5
+United States	Ireland	5
+South Korea	Australia	5
+Netherlands	Austria	5
+Germany	Belgium	5
+Belgium	Italy	5
+France	Switzerland	5
+United Kingdom	Switzerland	5
+Switzerland	Austria	5
+Switzerland	Italy	5
+Spain	China	5
+Spain	Ecuador	5
+United States	Turkey	4
+United States	Austria	4
+United States	Luxembourg	4
+United States	Romania	4
+United States	Portugal	4
+United States	Russia	4
+United States	Argentina	4
+South Korea	China	4
+Netherlands	China	4
+Netherlands	Canada	4
+Germany	Finland	4
+Germany	Norway	4
+Belgium	United Kingdom	4
+United Kingdom	Singapore	4
+United Kingdom	Qatar	4
+United Kingdom	Austria	4
+United Kingdom	Portugal	4
+United Kingdom	Mexico	4
+Italy	Israel	4
+Finland	China	4
+Norway	Denmark	4
+Spain	Mexico	4
+Australia	Malaysia	4
+Australia	Japan	4
+United States	Ecuador	3
+United States	Greece	3
+United States	Lithuania	3
+United States	Estonia	3
+Netherlands	Romania	3
+Netherlands	Singapore	3
+Netherlands	Switzerland	3
+Netherlands	Denmark	3
+Netherlands	Israel	3
+Netherlands	Australia	3
+Germany	Canada	3
+Germany	Sweden	3
+Germany	Poland	3
+Germany	Denmark	3
+Germany	Israel	3
+France	Sweden	3
+France	Canada	3
+United Kingdom	Norway	3
+United Kingdom	India	3
+United Kingdom	Finland	3
+United Kingdom	Denmark	3
+United Kingdom	Japan	3
+Switzerland	Norway	3
+Switzerland	Estonia	3
+Switzerland	Sweden	3
+Switzerland	Denmark	3
+Switzerland	China	3
+Italy	Sweden	3
+Italy	Denmark	3
+Italy	Estonia	3
+Italy	Brazil	3
+Brazil	Portugal	3
+Sweden	Norway	3
+Norway	China	3
+Norway	Turkey	3
+Norway	Vietnam	3
+Spain	Australia	3
+Spain	Cuba	3
+Spain	Qatar	3
+China	China	3
+Canada	Australia	3
+Iran	Australia	3
+Australia	Vietnam	3
+Japan	Vietnam	3
+Malaysia	Vietnam	3
+Malaysia	Iraq	3
+Austria	Israel	3
+United States	Thailand	2
+United States	Hungary	2
+United States	Colombia	2
+United States	Philippines	2
+United States	Chile	2
+United States	Mexico	2
+United States	Finland	2
+United States	Malaysia	2
+United States	Panama	2
+South Korea	Japan	2
+South Korea	Germany	2
+Netherlands	Poland	2
+Netherlands	Portugal	2
+Netherlands	Ireland	2
+Netherlands	Spain	2
+Germany	Luxembourg	2
+Germany	Romania	2
+Germany	Spain	2
+Germany	Singapore	2
+Germany	Turkey	2
+Germany	Chile	2
+Germany	Malaysia	2
+Germany	Iran	2
+Germany	Brazil	2
+Germany	Hungary	2
+Germany	Japan	2
+Thailand	Japan	2
+Belgium	France	2
+Belgium	Norway	2
+Belgium	Austria	2
+Belgium	Israel	2
+Belgium	Japan	2
+Belgium	Spain	2
+France	Greece	2
+France	Singapore	2
+France	Spain	2
+France	Tunisia	2
+France	Algeria	2
+France	Japan	2
+United Kingdom	Ecuador	2
+United Kingdom	Estonia	2
+United Kingdom	Serbia	2
+United Kingdom	Turkey	2
+United Kingdom	Chile	2
+United Kingdom	Colombia	2
+United Kingdom	Malaysia	2
+United Kingdom	Pakistan	2
+United Kingdom	Ireland	2
+United Kingdom	Iraq	2
+Switzerland	Romania	2
+Switzerland	Poland	2
+Switzerland	Ecuador	2
+Greece	Italy	2
+Greece	Cyprus	2
+Italy	Croatia	2
+Italy	Malaysia	2
+Italy	Ireland	2
+Italy	Australia	2
+Italy	Canada	2
+Italy	India	2
+Brazil	Chile	2
+Brazil	India	2
+Brazil	Spain	2
+Finland	Australia	2
+Finland	Sweden	2
+Finland	Spain	2
+Sweden	Ecuador	2
+Sweden	Denmark	2
+Sweden	Australia	2
+Norway	Iran	2
+Spain	Japan	2
+Spain	Canada	2
+Spain	Portugal	2
+Spain	Singapore	2
+Russia	Bulgaria	2
+Singapore	Poland	2
+Singapore	Malaysia	2
+Singapore	Turkey	2
+Singapore	India	2
+China	Turkey	2
+China	Portugal	2
+China	Malaysia	2
+China	Pakistan	2
+China	Iran	2
+Canada	Serbia	2
+Iran	Turkey	2
+Iran	Vietnam	2
+Iran	Austria	2
+Denmark	Austria	2
+India	Malaysia	2
+Australia	Pakistan	2
+Australia	Iraq	2
+Estonia	Israel	2
+Ireland	Portugal	2
+Hungary	Slovakia	2
+Turkey	Vietnam	2
+Malaysia	Pakistan	2
+Austria	Portugal	2
+United States	Kenya	1
+United States	Croatia	1
+United States	Lebanon	1
+United States	Morocco	1
+United States	Nigeria	1
+United States	Serbia	1
+United States	Ukraine	1
+United States	Senegal	1
+United States	Jordan	1
+United States	Bangladesh	1
+United States	Algeria	1
+United States	Bulgaria	1
+United States	Ethiopia	1
+United States	Cyprus	1
+United States	Zambia	1
+United States	Bahrain	1
+United States	Grenada	1
+United States	Chad	1
+South Korea	United Kingdom	1
+South Korea	Pakistan	1
+South Korea	Switzerland	1
+South Korea	Turkey	1
+South Korea	Vietnam	1
+South Korea	Norway	1
+South Korea	Iran	1
+Netherlands	Nigeria	1
+Netherlands	Sweden	1
+Netherlands	Turkey	1
+Netherlands	Chile	1
+Netherlands	Norway	1
+Netherlands	Serbia	1
+Netherlands	Luxembourg	1
+Netherlands	Brazil	1
+Netherlands	India	1
+Netherlands	Iraq	1
+Netherlands	Finland	1
+Netherlands	Iran	1
+Netherlands	Japan	1
+Netherlands	Zimbabwe	1
+Germany	Lebanon	1
+Germany	Lithuania	1
+Germany	Greece	1
+Germany	Russia	1
+Germany	Portugal	1
+Germany	Serbia	1
+Germany	India	1
+Germany	Indonesia	1
+Germany	Estonia	1
+Germany	Panama	1
+Germany	Argentina	1
+Germany	Ireland	1
+Germany	Egypt	1
+Germany	Jordan	1
+Germany	Colombia	1
+Germany	Zimbabwe	1
+Thailand	Australia	1
+Thailand	United Kingdom	1
+Belgium	Hungary	1
+Belgium	Canada	1
+Belgium	Greece	1
+Belgium	Turkey	1
+Belgium	Morocco	1
+Belgium	Australia	1
+Belgium	Switzerland	1
+Belgium	China	1
+Belgium	Panama	1
+Belgium	Jordan	1
+Belgium	Cameroon	1
+France	Denmark	1
+France	Turkey	1
+France	Chile	1
+France	Portugal	1
+France	Poland	1
+France	Norway	1
+France	Serbia	1
+France	Pakistan	1
+France	Paraguay	1
+France	Luxembourg	1
+France	Ireland	1
+France	Cameroon	1
+France	Sudan	1
+France	Israel	1
+France	Panama	1
+France	Argentina	1
+France	Austria	1
+France	India	1
+France	Brazil	1
+United Kingdom	Jordan	1
+United Kingdom	Iran	1
+United Kingdom	Russia	1
+United Kingdom	Luxembourg	1
+United Kingdom	Georgia	1
+United Kingdom	Rwanda	1
+United Kingdom	Lebanon	1
+United Kingdom	Egypt	1
+United Kingdom	Jamaica	1
+United Kingdom	Cyprus	1
+United Kingdom	Panama	1
+United Kingdom	Argentina	1
+United Kingdom	Ghana	1
+Switzerland	Croatia	1
+Switzerland	Greece	1
+Switzerland	Liechtenstein	1
+Switzerland	Turkey	1
+Switzerland	Chile	1
+Switzerland	Portugal	1
+Switzerland	Singapore	1
+Switzerland	Serbia	1
+Switzerland	Israel	1
+Greece	Morocco	1
+Greece	Norway	1
+Greece	Spain	1
+Greece	Georgia	1
+Italy	Morocco	1
+Italy	Finland	1
+Italy	Ecuador	1
+Italy	Hungary	1
+Italy	Colombia	1
+Italy	Mexico	1
+Italy	Argentina	1
+Italy	Turkey	1
+Italy	Jamaica	1
+Italy	Norway	1
+Italy	Singapore	1
+Italy	Montenegro	1
+Italy	Portugal	1
+Italy	Japan	1
+Morocco	Portugal	1
+Morocco	Turkey	1
+Brazil	Australia	1
+Brazil	Austria	1
+Brazil	China	1
+Brazil	Peru	1
+Brazil	Denmark	1
+Finland	Qatar	1
+Finland	Austria	1
+Finland	Denmark	1
+Finland	Japan	1
+Sweden	India	1
+Sweden	Lithuania	1
+Sweden	Poland	1
+Sweden	Estonia	1
+Sweden	Singapore	1
+Sweden	Spain	1
+Sweden	Canada	1
+Sweden	Cyprus	1
+Sweden	China	1
+Norway	Malaysia	1
+Norway	Chile	1
+Norway	Portugal	1
+Norway	Poland	1
+Norway	Singapore	1
+Norway	Serbia	1
+Norway	Algeria	1
+Norway	Japan	1
+Norway	Israel	1
+Norway	Australia	1
+Spain	Russia	1
+Spain	Chile	1
+Spain	Tunisia	1
+Spain	Malaysia	1
+Spain	Denmark	1
+Spain	Poland	1
+Spain	Austria	1
+Spain	Colombia	1
+Spain	Montserrat	1
+Spain	Peru	1
+Spain	Lithuania	1
+Spain	Tanzania	1
+Spain	Luxembourg	1
+Spain	Latvia	1
+Spain	Egypt	1
+Spain	Zambia	1
+Spain	India	1
+Russia	Latvia	1
+Russia	Kazakhstan	1
+Russia	Egypt	1
+Russia	Israel	1
+Ecuador	Denmark	1
+Ecuador	Estonia	1
+Ecuador	Ireland	1
+Ecuador	Portugal	1
+Ecuador	Argentina	1
+Singapore	Australia	1
+Singapore	Israel	1
+Singapore	Canada	1
+Singapore	Chile	1
+Singapore	Portugal	1
+Singapore	Serbia	1
+Singapore	Denmark	1
+China	Ghana	1
+China	Luxembourg	1
+China	Chile	1
+China	Poland	1
+China	Serbia	1
+China	India	1
+China	Algeria	1
+China	Lebanon	1
+China	Austria	1
+China	Denmark	1
+China	Kuwait	1
+China	Panama	1
+Ghana	Nicaragua	1
+Canada	Iran	1
+Canada	Turkey	1
+Canada	Denmark	1
+Canada	Poland	1
+Canada	Malaysia	1
+Canada	Lithuania	1
+Canada	Ukraine	1
+Canada	Luxembourg	1
+Canada	Qatar	1
+Canada	Egypt	1
+Canada	Jamaica	1
+Chile	Turkey	1
+Chile	Portugal	1
+Chile	Poland	1
+Chile	Serbia	1
+Chile	Israel	1
+Iran	Malaysia	1
+Iran	Japan	1
+Kenya	Sudan	1
+Denmark	Poland	1
+Denmark	Estonia	1
+Denmark	Croatia	1
+Denmark	Israel	1
+Denmark	Portugal	1
+Denmark	India	1
+India	Vietnam	1
+India	Qatar	1
+India	Iraq	1
+India	Portugal	1
+India	Australia	1
+Australia	Indonesia	1
+Australia	Ireland	1
+Australia	Cameroon	1
+Australia	Panama	1
+Australia	Argentina	1
+Australia	Brunei	1
+Australia	Turkey	1
+Australia	Philippines	1
+Australia	Zimbabwe	1
+Estonia	Ireland	1
+Ireland	Mexico	1
+Ireland	Argentina	1
+Ireland	Austria	1
+Tunisia	Sudan	1
+Tunisia	Algeria	1
+Hungary	Austria	1
+Turkey	Palestine	1
+Turkey	Egypt	1
+Turkey	Malaysia	1
+Turkey	Portugal	1
+Turkey	Poland	1
+Turkey	Serbia	1
+Cyprus	Japan	1
+Cyprus	Qatar	1
+Japan	Malaysia	1
+Japan	Bangladesh	1
+Japan	Cambodia	1
+Croatia	Serbia	1
+Malaysia	Poland	1
+Malaysia	Brunei	1
+Romania	Nigeria	1
+Romania	Iraq	1
+Romania	Moldova	1
+Nigeria	Israel	1
+Serbia	Portugal	1
+Serbia	Poland	1
+Serbia	Slovenia	1
+Vietnam	Iraq	1
+Pakistan	Kuwait	1
+Pakistan	Brunei	1
+Luxembourg	Lebanon	1
+Lebanon	Qatar	1
+Qatar	Zambia	1
+Poland	Portugal	1
+Lithuania	Ukraine	1
+Latvia	Kazakhstan	1
+Portugal	Argentina	1
+Algeria	Sudan	1
+Argentina	Panama	1
+Grenada	Chad	1

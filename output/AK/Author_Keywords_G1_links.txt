@@ -1,0 +1,2942 @@
+machine learning	data mining	14
+machine learning	support vector machine	11
+machine learning	artificial intelligence	8
+machine learning	neural network	8
+machine learning	information retrieval	6
+machine learning	classification	5
+machine learning	genetic algorithm	5
+machine learning	decision tree	5
+machine learning	expert system	5
+machine learning	bayesian network	4
+machine learning	knowledge acquisition	4
+machine learning	e learning	3
+machine learning	lexicography	3
+machine learning	corpus	3
+machine learning	natural language processing	3
+support vector machine	forecasting	3
+data mining	bayesian network	3
+data mining	marketing	3
+similarity	machine learning	2
+machine learning	categorization	2
+machine learning	artificial neural network	2
+machine learning	id	2
+machine learning	data traffic monitoring	2
+machine learning	active learning	2
+machine learning	knowledge based system	2
+machine learning	pattern recognition	2
+machine learning	prediction	2
+machine learning	scheduling	2
+machine learning	regression	2
+machine learning	evaluation	2
+machine learning	forecasting	2
+machine learning	simulation	2
+machine learning	supply chain management	2
+machine learning	decision support system	2
+machine learning	robotics	2
+machine learning	dictionary	2
+machine learning	corpus annotation	2
+machine learning	corporate failure	2
+machine learning	boosting	2
+machine learning	kernel method	2
+machine learning	information extraction	2
+machine learning	morphology	2
+machine learning	lemmatization	2
+machine learning	swahili	2
+machine learning	decision support	2
+machine learning	learning	2
+machine learning	e marketplace	2
+machine learning	decision tree induction	2
+machine learning	text mining	2
+machine learning	machine translation	2
+machine learning	knowledge discovery	2
+machine learning	computational model	2
+machine learning	psychology	2
+machine learning	cartographic generalization	2
+machine learning	business intelligence	2
+machine learning	decision making	2
+classification	support vector machine	2
+classification	decision tree	2
+classification	artificial intelligence	2
+classification	data mining	2
+boosting	support vector machine	2
+support vector machine	data mining	2
+support vector machine	supply chain management	2
+support vector machine	neural network	2
+support vector machine	kernel function	2
+neural network	simulation	2
+neural network	genetic algorithm	2
+neural network	forecasting	2
+neural network	artificial intelligence	2
+neural network	decision making	2
+time series	forecasting	2
+e learning	data traffic monitoring	2
+data mining	active learning	2
+data mining	clustering	2
+artificial intelligence	decision tree	2
+artificial intelligence	simulation	2
+artificial intelligence	decision making	2
+learning	intelligent tutoring system	2
+learning	brainwave	2
+student model	intelligent tutoring system	2
+intelligent tutoring system	brainwave	2
+programming by demonstration	cognitive tutor	2
+educational data mining	machine learning in it	2
+educational data mining	natural language and discourse	2
+machine learning in it	natural language and discourse	2
+forecasting	supply chain management	2
+lexicography	corpus annotation	2
+lexicography	morphology	2
+lexicography	lemmatization	2
+lexicography	swahili	2
+dictionary	corpus	2
+morphology	lemmatization	2
+morphology	swahili	2
+expert system	knowledge base	2
+lemmatization	swahili	2
+language acquisition	computational model	2
+phonology	articulation	2
+kernel	similarity	1
+kernel	machine learning	1
+kernel	generalization	1
+kernel	categorization	1
+similarity	generalization	1
+similarity	categorization	1
+similarity	recognizing textual entailment	1
+similarity	fuzzy set theory	1
+similarity	wordnet	1
+similarity	case based reasoning	1
+similarity	decision support system	1
+similarity	intelligent decision support system	1
+machine learning	generalization	1
+machine learning	computerized adaptive testing	1
+machine learning	item exposure control	1
+machine learning	item exposure parameter	1
+machine learning	parallel item pool	1
+machine learning	content analysis	1
+machine learning	electronic negotiation	1
+machine learning	written communication	1
+machine learning	influence strategy	1
+machine learning	language pattern	1
+machine learning	corpus linguistics	1
+machine learning	teaching	1
+machine learning	design	1
+machine learning	lego	1
+machine learning	distance education and telelearning	1
+machine learning	dropout prediction	1
+machine learning	event history	1
+machine learning	life course	1
+machine learning	transition to adulthood	1
+machine learning	curriculum development	1
+machine learning	integrated research and teaching	1
+machine learning	team teaching model	1
+machine learning	undergraduate research experience	1
+machine learning	dsvm	1
+machine learning	ree	1
+machine learning	main street approach	1
+machine learning	community development	1
+machine learning	active learning algorithm	1
+machine learning	web accessibility	1
+machine learning	automated checking	1
+machine learning	table tag	1
+machine learning	dynamic data structure	1
+machine learning	group method of data handling	1
+machine learning	exchange rate forecasting	1
+machine learning	exchange rate risk management	1
+machine learning	exchange rate derivative	1
+machine learning	chinese word segmentation	1
+machine learning	artificial dictionary	1
+machine learning	ambiguity processing	1
+machine learning	unknown word recognition	1
+machine learning	discriminant analysis	1
+machine learning	principal agent	1
+machine learning	strategic gaming	1
+machine learning	music therapy	1
+machine learning	comprehensive algorithm	1
+machine learning	intrusion detection	1
+machine learning	network traffic analysis	1
+machine learning	network security	1
+machine learning	proof tutoring	1
+machine learning	granularity	1
+machine learning	agent technology	1
+machine learning	face technology	1
+machine learning	artificial intelligence education	1
+machine learning	game	1
+machine learning	n puzzle problem	1
+machine learning	search	1
+machine learning	student model	1
+machine learning	bug analysis	1
+machine learning	agent based	1
+machine learning	intelligent tutoring system	1
+machine learning	virtual learning environment	1
+machine learning	undergraduate course design	1
+machine learning	affective modelling	1
+machine learning	intelligent authoring system	1
+machine learning	simulated student	1
+machine learning	programming by demonstration	1
+machine learning	cognitive tutor	1
+machine learning	student drop out	1
+machine learning	flexible flow system	1
+machine learning	distributed database	1
+machine learning	time invariant fragmentation	1
+machine learning	intelligent user interface	1
+machine learning	rich feedback	1
+machine learning	explanation	1
+machine learning	comprehensive assessment	1
+machine learning	credit risk	1
+machine learning	bankruptcy	1
+machine learning	framework	1
+machine learning	learning resource organization	1
+machine learning	knowledge element extraction	1
+machine learning	linear classifier with maximal margin	1
+machine learning	goal programming	1
+machine learning	cart	1
+machine learning	recursive pactitioning	1
+machine learning	plagiarism	1
+machine learning	authorship identification	1
+machine learning	nonlinear	1
+machine learning	real estate investment	1
+machine learning	project risk	1
+machine learning	q a	1
+machine learning	online community	1
+machine learning	large data set	1
+machine learning	pattern	1
+machine learning	model	1
+machine learning	data quality	1
+machine learning	skill acquisition	1
+machine learning	robot learning	1
+machine learning	human robot interaction	1
+machine learning	business application	1
+machine learning	software	1
+machine learning	dictionary writing system	1
+machine learning	corpus query package	1
+machine learning	tshwanelex	1
+machine learning	part of speech tagger	1
+machine learning	northern sotho	1
+machine learning	statistical model	1
+machine learning	feature selection	1
+machine learning	retention	1
+machine learning	minority student	1
+machine learning	anaphora resolution	1
+machine learning	open ended survey coding	1
+machine learning	multiclass text categorization	1
+machine learning	instrument development	1
+machine learning	user satisfaction measurement	1
+machine learning	web based learning	1
+machine learning	web document annotation	1
+machine learning	meta search	1
+machine learning	stock screening	1
+machine learning	portfolio construction	1
+machine learning	adaptive behaviour	1
+machine learning	team play	1
+machine learning	commercial computer game	1
+machine learning	multiagent system	1
+machine learning	multiagent learning	1
+machine learning	reinforcement learning	1
+machine learning	robot soccer	1
+machine learning	direct marketing	1
+machine learning	evolutionary programming	1
+machine learning	market	1
+machine learning	price prediction	1
+machine learning	trading agent competition	1
+machine learning	clustering description	1
+machine learning	document clustering	1
+machine learning	topic digital library	1
+machine learning	short message service	1
+machine learning	shortest path	1
+machine learning	optimal control	1
+machine learning	transport theory	1
+machine learning	logic tutor	1
+machine learning	recognizing textual entailment	1
+machine learning	fuzzy set theory	1
+machine learning	wordnet	1
+machine learning	tutorial dialogue	1
+machine learning	tutorial strategy	1
+machine learning	hidden markov modeling	1
+machine learning	re sampling strategy	1
+machine learning	imbalanced data	1
+machine learning	classifier	1
+machine learning	decision technology	1
+machine learning	knowledege based system	1
+machine learning	decision analysis	1
+machine learning	adaptation	1
+machine learning	evolution	1
+machine learning	repeated prisoner dilemma game	1
+machine learning	automatic syllabification	1
+machine learning	alcohol treatment	1
+machine learning	bayesian	1
+machine learning	face perception	1
+machine learning	facial attractiveness	1
+machine learning	aesthetic	1
+machine learning	computational ii neuroscience	1
+machine learning	accident causation	1
+machine learning	road junction	1
+machine learning	police record	1
+machine learning	b2b e commerce	1
+machine learning	vendor selection	1
+machine learning	habituation	1
+machine learning	novelty detection	1
+machine learning	semantics	1
+machine learning	knowledge representation	1
+machine learning	ontology	1
+machine learning	selectional restriction	1
+machine learning	co composition	1
+machine learning	tabu search	1
+machine learning	global optimization	1
+machine learning	bilinear programming	1
+machine learning	internet advertising	1
+machine learning	internet storefront	1
+machine learning	personalization	1
+machine learning	case based decision making	1
+machine learning	multiple criterion	1
+machine learning	inquiry learning	1
+machine learning	learning from image	1
+machine learning	decision tree learning	1
+machine learning	arabic	1
+machine learning	entity extraction	1
+machine learning	recognition	1
+machine learning	validation	1
+machine learning	anti money laundering	1
+machine learning	slt	1
+machine learning	parallel corpus	1
+machine learning	english	1
+machine learning	customer demand	1
+machine learning	grid computing	1
+machine learning	internet economics	1
+machine learning	online service	1
+machine learning	probabilistic algorithm	1
+machine learning	revenue optimization	1
+machine learning	utility computing	1
+machine learning	classification rule	1
+machine learning	minimum distance	1
+machine learning	induction from example	1
+machine learning	randomized controlled experiment	1
+machine learning	learning gain	1
+machine learning	expectation maximization	1
+machine learning	portfolio	1
+machine learning	open source software	1
+machine learning	chinese knowledge and information processing	1
+machine learning	text segmentation	1
+machine learning	document retrieval	1
+machine learning	legal knowledge representation	1
+machine learning	semantic indexation	1
+machine learning	hybrid methodology	1
+machine learning	citation analysis	1
+machine learning	kernel based method	1
+machine learning	knowledge management	1
+machine learning	patent management	1
+machine learning	integration	1
+machine learning	fusion	1
+machine learning	multiple representation	1
+machine learning	interpretation	1
+machine learning	spatial data matching	1
+machine learning	hidden markov model	1
+machine learning	spectral graph theory	1
+machine learning	vowel harmony	1
+machine learning	phonology	1
+machine learning	planning	1
+machine learning	software reuse	1
+machine learning	bayesian learning	1
+machine learning	automated negotiation	1
+machine learning	remanufacturing system	1
+machine learning	manufacturing resource planning	1
+machine learning	rough set theory	1
+machine learning	ordinal optimization	1
+machine learning	computational word based morphology	1
+machine learning	automatic acquisition	1
+machine learning	generation	1
+machine learning	online escrow service	1
+machine learning	internet fraud	1
+machine learning	website classification	1
+machine learning	fraud cue	1
+machine learning	argument recognition	1
+machine learning	discourse analysis	1
+machine learning	adaptive supply network	1
+machine learning	dynamic configuration	1
+machine learning	alcohol addiction	1
+machine learning	comt	1
+machine learning	dopamine	1
+machine learning	mglur	1
+machine learning	glutamate	1
+machine learning	hippocampal volume	1
+machine learning	p support vector machine	1
+machine learning	variable selection	1
+machine learning	email classification	1
+machine learning	statistical learning	1
+machine learning	bayesian method	1
+machine learning	policy analysis	1
+machine learning	prefernce learning	1
+machine learning	ranking	1
+machine learning	linear programming	1
+machine learning	column generation	1
+machine learning	system dynamic	1
+machine learning	production rule	1
+machine learning	cognitive modeling	1
+machine learning	knowledge base	1
+machine learning	sponsored search	1
+machine learning	pay per click	1
+machine learning	natural language generation	1
+machine learning	automation	1
+machine learning	query log	1
+machine learning	virtual community	1
+machine learning	social interaction theory	1
+machine learning	multiple objective optimization	1
+machine learning	efficient set	1
+machine learning	language acquisition	1
+machine learning	embodied cognition	1
+machine learning	cognitive development	1
+machine learning	collaborative process analysis	1
+machine learning	analysis tool	1
+machine learning	data assimilation	1
+machine learning	chaos synchronization	1
+machine learning	parameter estimation	1
+machine learning	rvm	1
+machine learning	i cba	1
+machine learning	morphological analysis	1
+machine learning	unknown word	1
+machine learning	reservoir induced seismicity	1
+machine learning	forecast	1
+machine learning	gaussian process	1
+machine learning	software development cost	1
+machine learning	cluster analysis	1
+machine learning	censored data	1
+machine learning	disease prognosis	1
+machine learning	isotonic prediction	1
+machine learning	survival analysis	1
+machine learning	survival time prediction	1
+machine learning	rule generation	1
+machine learning	compositional ity	1
+machine learning	rule generalization	1
+machine learning	bilingual corpus	1
+machine learning	examplebased	1
+machine learning	rule based	1
+machine learning	concept	1
+machine learning	mathematical modeling	1
+machine learning	attribute discretization	1
+machine learning	entropy	1
+machine learning	parametric linear programming	1
+machine learning	rough set	1
+machine learning	bankruptcy prediction	1
+machine learning	going concern	1
+machine learning	temporal information retrieval	1
+machine learning	temporal expression	1
+machine learning	indexing	1
+machine learning	temporal indexing	1
+machine learning	line classification	1
+machine learning	information acquistion	1
+machine learning	predictive modeling	1
+machine learning	active feature acquisition	1
+machine learning	imputation	1
+machine learning	utility based data mining	1
+machine learning	classification decision	1
+machine learning	modeling	1
+machine learning	nonlinear regression	1
+machine learning	curve fitting	1
+machine learning	support vector machine parameter optimization	1
+machine learning	promoter recognition	1
+machine learning	bioinformatics	1
+machine learning	neuroscience	1
+machine learning	cognitive architecture	1
+machine learning	intelligent agent	1
+machine learning	problem solving	1
+machine learning	situated cognition	1
+machine learning	computer simulation	1
+machine learning	knowledge acquistion	1
+machine learning	line generalization	1
+machine learning	agent based modelling	1
+machine learning	mobile agent	1
+machine learning	spatial cognition	1
+machine learning	elk migration	1
+machine learning	lake prespa	1
+machine learning	diatom	1
+machine learning	physic chemical status	1
+machine learning	annotated corpus	1
+machine learning	tokenization	1
+machine learning	tagging	1
+machine learning	instructable agent	1
+machine learning	course of action critiquing	1
+machine learning	experimentation	1
+machine learning	information system	1
+machine learning	organizational learning	1
+machine learning	genetic programming	1
+machine learning	ranking function	1
+machine learning	search engine	1
+machine learning	web mining	1
+machine learning	wholesale power market	1
+machine learning	multi agent system	1
+machine learning	intrusion prevention	1
+machine learning	misuse detection	1
+machine learning	anomaly detection	1
+machine learning	risk management	1
+machine learning	credit scoring	1
+machine learning	brain computer interface	1
+machine learning	scientitic discovery	1
+machine learning	electroencephalography	1
+machine learning	digital signal processing	1
+machine learning	bio feedback	1
+machine learning	control strategy	1
+machine learning	gaming	1
+machine learning	virtual limb	1
+generalization	categorization	1
+categorization	hidden markov model	1
+categorization	spectral graph theory	1
+categorization	vowel harmony	1
+categorization	phonology	1
+categorization	document clustering	1
+categorization	data mining field	1
+categorization	content analysis	1
+computerized adaptive testing	item exposure control	1
+computerized adaptive testing	item exposure parameter	1
+computerized adaptive testing	parallel item pool	1
+computerized adaptive testing	artificial neural network	1
+item exposure control	item exposure parameter	1
+item exposure control	parallel item pool	1
+item exposure control	artificial neural network	1
+item exposure parameter	parallel item pool	1
+item exposure parameter	artificial neural network	1
+parallel item pool	artificial neural network	1
+artificial neural network	fast fourier transform	1
+artificial neural network	education	1
+artificial neural network	musical hearing	1
+artificial neural network	pure tone audiometry	1
+artificial neural network	connectionist network	1
+artificial neural network	associative memory	1
+artificial neural network	competitive network	1
+artificial neural network	density estimation	1
+artificial neural network	cartographic generalization	1
+artificial neural network	knowledge acquisition	1
+artificial neural network	line classification	1
+artificial neural network	chlorophyll a	1
+artificial neural network	florida bay	1
+artificial neural network	eutrophication	1
+artificial neural network	nutrient loading	1
+open ended question	occupation coding	1
+open ended question	rule based method	1
+open ended question	support vector machine automatic coding	1
+open ended question	jgss	1
+occupation coding	rule based method	1
+occupation coding	support vector machine automatic coding	1
+occupation coding	jgss	1
+rule based method	support vector machine automatic coding	1
+rule based method	jgss	1
+support vector machine automatic coding	jgss	1
+optimized support vector machine learning algorithm	nonlinear relation	1
+optimized support vector machine learning algorithm	s n curve	1
+optimized support vector machine learning algorithm	material fatigue design	1
+optimized support vector machine learning algorithm	parameter fitting	1
+nonlinear relation	s n curve	1
+nonlinear relation	material fatigue design	1
+nonlinear relation	parameter fitting	1
+s n curve	material fatigue design	1
+s n curve	parameter fitting	1
+material fatigue design	parameter fitting	1
+wavelet neutral network	rough set	1
+wavelet neutral network	electric power load	1
+rough set	electric power load	1
+rough set	personnel selection	1
+rough set	attribute reduction	1
+rough set	support vector machine	1
+rough set	uncertainty	1
+rough set	knowledge management	1
+rough set	decision making	1
+rough set	bankruptcy prediction	1
+rough set	going concern	1
+rough set	corporate failure	1
+rough set	knowledge discovery	1
+rough set	data mining	1
+rough set	rule generation	1
+rough set	heuristic method	1
+rough set	covering	1
+content analysis	document clustering	1
+content analysis	data mining field	1
+portfolio selection	rebalancing	1
+portfolio selection	machine learning algorithm	1
+rebalancing	machine learning algorithm	1
+machine learning algorithm	location aware computing	1
+machine learning algorithm	location management	1
+machine learning algorithm	user movement	1
+machine learning algorithm	trajectory prediction	1
+machine learning algorithm	probabilistic method	1
+markov process	pomdp	1
+markov process	planning under uncertainty	1
+pomdp	planning under uncertainty	1
+optimized common machine learning algorithm	grid search and cross validation	1
+optimized common machine learning algorithm	fatigue crack propagation rate	1
+optimized common machine learning algorithm	material fatigue analysis nine parameter fatigue crack propagation rate model	1
+grid search and cross validation	fatigue crack propagation rate	1
+grid search and cross validation	material fatigue analysis nine parameter fatigue crack propagation rate model	1
+fatigue crack propagation rate	material fatigue analysis nine parameter fatigue crack propagation rate model	1
+high dimensional bermudian american option	parallel distributed monte carlo method	1
+high dimensional bermudian american option	classification	1
+high dimensional bermudian american option	boosting	1
+high dimensional bermudian american option	support vector machine	1
+high dimensional bermudian american option	grid computing	1
+parallel distributed monte carlo method	classification	1
+parallel distributed monte carlo method	boosting	1
+parallel distributed monte carlo method	support vector machine	1
+parallel distributed monte carlo method	grid computing	1
+classification	boosting	1
+classification	grid computing	1
+classification	kernel based mclp	1
+classification	nonlinear prior knowledge	1
+classification	intrusion detection	1
+classification	network traffic analysis	1
+classification	network security	1
+classification	corporate failure	1
+classification	prediction	1
+classification	statistical model	1
+classification	feature selection	1
+classification	tabu search	1
+classification	global optimization	1
+classification	bilinear programming	1
+classification	interactive learning	1
+classification	visualization	1
+classification	multiple criterion analysis	1
+classification	fuzzy set	1
+classification	citation analysis	1
+classification	kernel based method	1
+classification	knowledge management	1
+classification	patent management	1
+classification	evolutionary algorithm	1
+classification	regression	1
+classification	binary classification	1
+classification	incremental learning	1
+classification	nonlinear classification	1
+classification	kernel method	1
+classification	generalized eigenvalue problem	1
+classification	proximal support vector machine	1
+classification	neural network	1
+classification	data preprocessing	1
+classification	marketing	1
+classification	expert system	1
+classification	training	1
+classification	land cover	1
+classification	vegetation	1
+classification	articulation	1
+classification	hearing	1
+classification	phonology	1
+classification	speech disorder	1
+boosting	grid computing	1
+boosting	kernel method	1
+boosting	decision tree	1
+boosting	prefernce learning	1
+boosting	ranking	1
+boosting	linear programming	1
+boosting	column generation	1
+boosting	marketing	1
+boosting	bagging	1
+boosting	bias variance decomposition	1
+boosting	brand choice	1
+boosting	cart	1
+boosting	choice model	1
+boosting	data mining	1
+boosting	ensemble	1
+support vector machine	grid computing	1
+support vector machine	dsvm	1
+support vector machine	ree	1
+support vector machine	text mining	1
+support vector machine	multimembership bayesian classifier	1
+support vector machine	diagnosis	1
+support vector machine	assessment	1
+support vector machine	e learning platform	1
+support vector machine	artificial intelligence	1
+support vector machine	credit risk	1
+support vector machine	evaluation	1
+support vector machine	bankruptcy	1
+support vector machine	framework	1
+support vector machine	linear classifier with maximal margin	1
+support vector machine	goal programming	1
+support vector machine	plagiarism	1
+support vector machine	authorship identification	1
+support vector machine	nonlinear	1
+support vector machine	real estate investment	1
+support vector machine	project risk	1
+support vector machine	genetic algorithm	1
+support vector machine	decision support system	1
+support vector machine	kernel method	1
+support vector machine	decision tree	1
+support vector machine	hyperplane machine learning	1
+support vector machine	kernel covering algorithm	1
+support vector machine	forecast load	1
+support vector machine	personnel selection	1
+support vector machine	attribute reduction	1
+support vector machine	automated modeling	1
+support vector machine	choice model	1
+support vector machine	kernel transformation	1
+support vector machine	multinomial logit model	1
+support vector machine	predictive model	1
+support vector machine	parameter optimizing	1
+support vector machine	simulated annealing	1
+support vector machine	stakeholder classification	1
+support vector machine	business intelligence	1
+support vector machine	web page classification	1
+support vector machine	weighted support vector machine	1
+support vector machine	anti money laundering	1
+support vector machine	slt	1
+support vector machine	pattern recognition	1
+support vector machine	exchange rate	1
+support vector machine	clustersvm	1
+support vector machine	bullwhip effect	1
+support vector machine	portfolio	1
+support vector machine	open source software	1
+support vector machine	chinese knowledge and information processing	1
+support vector machine	female labor force participation	1
+support vector machine	probit	1
+support vector machine	logit	1
+support vector machine	hamming clustering	1
+support vector machine	statistical learning theory	1
+support vector machine	fully mechanized coal driving workface	1
+support vector machine	gas emission	1
+support vector machine	prediction	1
+support vector machine	covering algorithm	1
+support vector machine	short term load forecasting	1
+support vector machine	document mining	1
+support vector machine	multiple objective optimization	1
+support vector machine	efficient set	1
+support vector machine	time series	1
+support vector machine	evolutionary algorithm	1
+support vector machine	regression	1
+support vector machine	support vector machine parameter optimization	1
+support vector machine	promoter recognition	1
+support vector machine	bioinformatics	1
+support vector machine	corporate rating	1
+support vector machine	clustering launched classification	1
+support vector machine	feature selection	1
+support vector machine	time series prediction	1
+support vector machine	user goal entertainment intention	1
+support vector machine	explicit feedback	1
+support vector machine	odp	1
+support vector machine	metrology	1
+support vector machine	surface roughness	1
+support vector machine	computer numerical control	1
+support vector machine	metal cutting	1
+support vector machine	milling operation	1
+support vector machine	land suitability appraisal	1
+support vector machine	soft sensor	1
+support vector machine	empirical risk minimization	1
+support vector machine	structural risk minimization	1
+support vector machine	rbf neural network	1
+support vector machine	generalization performance	1
+grid computing	customer demand	1
+grid computing	internet economics	1
+grid computing	online service	1
+grid computing	probabilistic algorithm	1
+grid computing	revenue optimization	1
+grid computing	utility computing	1
+intrusion detection	derived feature	1
+intrusion detection	neural network	1
+intrusion detection	optimization	1
+intrusion detection	network traffic analysis	1
+intrusion detection	network security	1
+derived feature	neural network	1
+derived feature	optimization	1
+neural network	optimization	1
+neural network	group method of data handling	1
+neural network	exchange rate forecasting	1
+neural network	exchange rate risk management	1
+neural network	exchange rate derivative	1
+neural network	abductive machine learning	1
+neural network	abductive network	1
+neural network	optimal test design	1
+neural network	educational measurement	1
+neural network	item response theory	1
+neural network	test analysis	1
+neural network	test construction	1
+neural network	id	1
+neural network	cart	1
+neural network	recursive pactitioning	1
+neural network	habituation	1
+neural network	novelty detection	1
+neural network	supply chain management	1
+neural network	bullwhip effect	1
+neural network	remote sensing image	1
+neural network	intelligent classifier	1
+neural network	fuzzy logic	1
+neural network	software development cost	1
+neural network	cluster analysis	1
+neural network	classification decision	1
+neural network	modeling	1
+neural network	nonlinear regression	1
+neural network	curve fitting	1
+neural network	knowledge based system	1
+neural network	neuroscience	1
+neural network	psychology	1
+neural network	cognitive architecture	1
+neural network	intelligent agent	1
+neural network	learning	1
+neural network	problem solving	1
+neural network	situated cognition	1
+neural network	computer simulation	1
+neural network	robotics	1
+neural network	time series	1
+neural network	data mining	1
+neural network	data preprocessing	1
+neural network	marketing	1
+neural network	stock market	1
+neural network	machine learning prediction	1
+neural network	land suitability appraisal	1
+asymmetric cost function	bagging	1
+asymmetric cost function	binary prediction	1
+asymmetric cost function	bma	1
+asymmetric cost function	forecast combination	1
+asymmetric cost function	majority voting	1
+asymmetric cost function	quantile prediction	1
+asymmetric cost function	time series	1
+bagging	binary prediction	1
+bagging	bma	1
+bagging	forecast combination	1
+bagging	majority voting	1
+bagging	quantile prediction	1
+bagging	time series	1
+bagging	marketing	1
+bagging	bias variance decomposition	1
+bagging	brand choice	1
+bagging	cart	1
+bagging	choice model	1
+bagging	data mining	1
+bagging	ensemble	1
+binary prediction	bma	1
+binary prediction	forecast combination	1
+binary prediction	majority voting	1
+binary prediction	quantile prediction	1
+binary prediction	time series	1
+bma	forecast combination	1
+bma	majority voting	1
+bma	quantile prediction	1
+bma	time series	1
+forecast combination	majority voting	1
+forecast combination	quantile prediction	1
+forecast combination	time series	1
+majority voting	quantile prediction	1
+majority voting	time series	1
+quantile prediction	time series	1
+time series	data mining	1
+time series	clustering	1
+time series	k mean	1
+time series	stock trading	1
+electronic negotiation	written communication	1
+electronic negotiation	influence strategy	1
+electronic negotiation	language pattern	1
+electronic negotiation	corpus linguistics	1
+electronic negotiation	face to face negotiation	1
+electronic negotiation	communication process	1
+electronic negotiation	text data	1
+electronic negotiation	corpus analysis	1
+written communication	influence strategy	1
+written communication	language pattern	1
+written communication	corpus linguistics	1
+influence strategy	language pattern	1
+influence strategy	corpus linguistics	1
+language pattern	corpus linguistics	1
+information technology	semantic web	1
+information technology	organizational transformation	1
+semantic web	organizational transformation	1
+ontological text coding	semantic network	1
+ontological text coding	entity extraction	1
+ontological text coding	supervised machine learning	1
+ontological text coding	conditional model	1
+ontological text coding	conditional random field	1
+semantic network	entity extraction	1
+semantic network	supervised machine learning	1
+semantic network	conditional model	1
+semantic network	conditional random field	1
+entity extraction	supervised machine learning	1
+entity extraction	conditional model	1
+entity extraction	conditional random field	1
+entity extraction	arabic	1
+entity extraction	natural language processing	1
+entity extraction	corpus	1
+entity extraction	recognition	1
+supervised machine learning	conditional model	1
+supervised machine learning	conditional random field	1
+supervised machine learning	course casting	1
+supervised machine learning	video capture	1
+supervised machine learning	significant event	1
+supervised machine learning	chaptering	1
+supervised machine learning	indexing	1
+supervised machine learning	multimedia	1
+supervised machine learning	forest fire risk zone expert system	1
+supervised machine learning	fuzzy logic	1
+supervised machine learning	fuzzy set	1
+supervised machine learning	fuzzy expected interval	1
+supervised machine learning	algorithm	1
+supervised machine learning	cross corpus evaluation of natural language processing system	1
+supervised machine learning	word sense disambiguation	1
+conditional model	conditional random field	1
+conditional random field	model pruning	1
+teaching	design	1
+teaching	lego	1
+design	lego	1
+distance education and telelearning	e learning	1
+distance education and telelearning	dropout prediction	1
+e learning	dropout prediction	1
+e learning	dynamic data structure	1
+data mining	event history	1
+data mining	life course	1
+data mining	transition to adulthood	1
+data mining	discriminant analysis	1
+data mining	principal agent	1
+data mining	strategic gaming	1
+data mining	pattern recognition	1
+data mining	undergraduate course design	1
+data mining	student drop out	1
+data mining	prediction	1
+data mining	linear classifier with maximal margin	1
+data mining	goal programming	1
+data mining	large data set	1
+data mining	pattern	1
+data mining	model	1
+data mining	data quality	1
+data mining	business application	1
+data mining	selective information acquisition	1
+data mining	direct marketing	1
+data mining	evolutionary programming	1
+data mining	logic tutor	1
+data mining	bayesian analysis	1
+data mining	econometric model	1
+data mining	estimation and other statistical technique	1
+data mining	hierarchical bayes analysis	1
+data mining	marketing research	1
+data mining	regression and other statistical technique	1
+data mining	cost estimation	1
+data mining	model performance	1
+data mining	modeling software cost	1
+data mining	randomized controlled experiment	1
+data mining	learning gain	1
+data mining	expectation maximization	1
+data mining	kpi	1
+data mining	rtd project	1
+data mining	rtd programme	1
+data mining	project portfolio	1
+data mining	indicator template	1
+data mining	document mining	1
+data mining	email classification	1
+data mining	statistical learning	1
+data mining	bayesian method	1
+data mining	nearest neighbour method	1
+data mining	dendrogram	1
+data mining	meta evolutionary	1
+data mining	traditional chinese medicine	1
+data mining	decision rules	1
+data mining	customer profiling	1
+data mining	customer targeting	1
+data mining	statistical modeling	1
+data mining	performance evaluation	1
+data mining	attribute discretization	1
+data mining	decision tree	1
+data mining	entropy	1
+data mining	parametric linear programming	1
+data mining	information acquistion	1
+data mining	predictive modeling	1
+data mining	active feature acquisition	1
+data mining	business intelligence	1
+data mining	imputation	1
+data mining	utility based data mining	1
+data mining	naive bayesian classifier	1
+data mining	feature value reduction	1
+data mining	feature selection	1
+data mining	bias variance decomposition	1
+data mining	brand choice	1
+data mining	cart	1
+data mining	choice model	1
+data mining	ensemble	1
+data mining	analogy	1
+data mining	global business	1
+data mining	analogical reasoning	1
+data mining	rule generation	1
+data mining	heuristic method	1
+data mining	covering	1
+data mining	k mean	1
+data mining	stock trading	1
+data mining	data preprocessing	1
+data mining	intrusion prevention	1
+data mining	misuse detection	1
+data mining	anomaly detection	1
+data mining	electre	1
+data mining	case based reasoning	1
+data mining	time hold out method	1
+data mining	financial distress prediction	1
+data mining	training	1
+data mining	land cover	1
+data mining	vegetation	1
+event history	life course	1
+event history	transition to adulthood	1
+life course	transition to adulthood	1
+curriculum development	integrated research and teaching	1
+curriculum development	team teaching model	1
+curriculum development	undergraduate research experience	1
+integrated research and teaching	team teaching model	1
+integrated research and teaching	undergraduate research experience	1
+team teaching model	undergraduate research experience	1
+dsvm	ree	1
+main street approach	community development	1
+main street approach	artificial intelligence	1
+main street approach	active learning algorithm	1
+community development	artificial intelligence	1
+community development	active learning algorithm	1
+artificial intelligence	active learning algorithm	1
+artificial intelligence	credit risk	1
+artificial intelligence	evaluation	1
+artificial intelligence	bankruptcy	1
+artificial intelligence	forecasting	1
+artificial intelligence	framework	1
+artificial intelligence	pedestrian landscape	1
+artificial intelligence	user evaluation	1
+artificial intelligence	multi disciplinary design analysis	1
+artificial intelligence	walking for health	1
+artificial intelligence	decision technology	1
+artificial intelligence	decision support	1
+artificial intelligence	knowledege based system	1
+artificial intelligence	decision analysis	1
+artificial intelligence	customer relationship management	1
+artificial intelligence	customer profitability accounting	1
+artificial intelligence	cost benefit analysis	1
+artificial intelligence	marketing	1
+artificial intelligence	archaeology	1
+artificial intelligence	digitization	1
+artificial intelligence	information retrieval	1
+artificial intelligence	visualization	1
+artificial intelligence	validation	1
+artificial intelligence	multiple criterion analysis	1
+artificial intelligence	fuzzy set	1
+artificial intelligence	cognitive science	1
+artificial intelligence	information security	1
+artificial intelligence	reverse engineering	1
+artificial intelligence	computational intelligence	1
+artificial intelligence	cybernetics	1
+artificial intelligence	system engineering	1
+artificial intelligence	context sensitive system	1
+artificial intelligence	decision support system	1
+artificial intelligence	bayesian network	1
+artificial intelligence	it implementation	1
+artificial intelligence	feature selection	1
+artificial intelligence	credit risk analysis	1
+artificial intelligence	classification decision	1
+artificial intelligence	modeling	1
+artificial intelligence	neuroscience	1
+artificial intelligence	psychology	1
+artificial intelligence	cognitive architecture	1
+artificial intelligence	intelligent agent	1
+artificial intelligence	learning	1
+artificial intelligence	problem solving	1
+artificial intelligence	situated cognition	1
+artificial intelligence	computer simulation	1
+artificial intelligence	robotics	1
+artificial intelligence	information system	1
+artificial intelligence	organizational learning	1
+artificial intelligence	expert system	1
+web accessibility	automated checking	1
+web accessibility	table tag	1
+web accessibility	id	1
+automated checking	table tag	1
+automated checking	id	1
+table tag	id	1
+id	cart	1
+id	recursive pactitioning	1
+id	simulation	1
+application and expert system	learning	1
+application and expert system	problem solving control methods and search	1
+learning	problem solving control methods and search	1
+learning	stress level variation	1
+learning	adaptation	1
+learning	evolution	1
+learning	repeated prisoner dilemma game	1
+learning	genetic algorithm	1
+learning	language acquisition	1
+learning	cross modal	1
+learning	sensor grounded	1
+learning	computational model	1
+learning	emotional dimension	1
+learning	adaptive expert system	1
+learning	admissible plan	1
+learning	learning automaton	1
+learning	operational schema of expert system	1
+learning	opportunity cost	1
+learning	recognization cycle	1
+learning	relative loss	1
+learning	neuroscience	1
+learning	psychology	1
+learning	cognitive architecture	1
+learning	decision making	1
+learning	intelligent agent	1
+learning	problem solving	1
+learning	situated cognition	1
+learning	computer simulation	1
+learning	robotics	1
+data traffic monitoring	dynamic data structure	1
+group method of data handling	exchange rate forecasting	1
+group method of data handling	exchange rate risk management	1
+group method of data handling	exchange rate derivative	1
+exchange rate forecasting	exchange rate risk management	1
+exchange rate forecasting	exchange rate derivative	1
+exchange rate risk management	exchange rate derivative	1
+chinese word segmentation	artificial dictionary	1
+chinese word segmentation	ambiguity processing	1
+chinese word segmentation	unknown word recognition	1
+artificial dictionary	ambiguity processing	1
+artificial dictionary	unknown word recognition	1
+ambiguity processing	unknown word recognition	1
+text mining	multimembership bayesian classifier	1
+text mining	diagnosis	1
+text mining	assessment	1
+text mining	e learning platform	1
+text mining	semantics	1
+text mining	knowledge representation	1
+text mining	ontology	1
+text mining	selectional restriction	1
+text mining	co composition	1
+text mining	business intelligence	1
+text mining	genetic programming	1
+text mining	information retrieval	1
+text mining	ranking function	1
+text mining	search engine	1
+text mining	web mining	1
+multimembership bayesian classifier	diagnosis	1
+multimembership bayesian classifier	assessment	1
+multimembership bayesian classifier	e learning platform	1
+diagnosis	assessment	1
+diagnosis	e learning platform	1
+assessment	e learning platform	1
+assessment	articulation	1
+assessment	genetics	1
+assessment	phenotype	1
+assessment	phonology	1
+auditing	decision analysis	1
+auditing	decision support system	1
+auditing	and statistical technique	1
+decision analysis	decision support system	1
+decision analysis	and statistical technique	1
+decision analysis	decision technology	1
+decision analysis	decision support	1
+decision analysis	knowledege based system	1
+decision analysis	discrete choice model	1
+decision analysis	random utility model	1
+decision analysis	logit model	1
+decision analysis	pattern recognition	1
+decision support system	and statistical technique	1
+decision support system	supply chain management	1
+decision support system	genetic algorithm	1
+decision support system	data envelopment analysis	1
+decision support system	risk analysis	1
+decision support system	banking	1
+decision support system	policy analysis	1
+decision support system	computational model	1
+decision support system	bayesian network	1
+decision support system	it implementation	1
+decision support system	case based reasoning	1
+decision support system	intelligent decision support system	1
+discriminant analysis	principal agent	1
+discriminant analysis	strategic gaming	1
+discriminant analysis	corporate failure forecast	1
+discriminant analysis	adaboost	1
+principal agent	strategic gaming	1
+machine learning curriculum	reinforcement learning	1
+machine learning curriculum	robotics lab	1
+reinforcement learning	robotics lab	1
+reinforcement learning	speech prosody	1
+reinforcement learning	human robot interaction	1
+reinforcement learning	socially guided machine learning	1
+reinforcement learning	multiagent system	1
+reinforcement learning	multiagent learning	1
+reinforcement learning	robot soccer	1
+reinforcement learning	intelligent agent	1
+reinforcement learning	virtual learning	1
+music therapy	comprehensive algorithm	1
+kernel based mclp	nonlinear prior knowledge	1
+network traffic analysis	network security	1
+proof tutoring	granularity	1
+active learning	agent technology	1
+active learning	face technology	1
+active learning	selective information acquisition	1
+active learning	information acquistion	1
+active learning	predictive modeling	1
+active learning	active feature acquisition	1
+active learning	business intelligence	1
+active learning	imputation	1
+active learning	utility based data mining	1
+agent technology	face technology	1
+artificial intelligence education	game	1
+artificial intelligence education	n puzzle problem	1
+artificial intelligence education	search	1
+game	n puzzle problem	1
+game	search	1
+n puzzle problem	search	1
+student model	bug analysis	1
+student model	conceptual clustering	1
+student model	belief network	1
+student model	belief updating	1
+student model	uncertainty in cognition	1
+course casting	video capture	1
+course casting	significant event	1
+course casting	chaptering	1
+course casting	indexing	1
+course casting	multimedia	1
+video capture	significant event	1
+video capture	chaptering	1
+video capture	indexing	1
+video capture	multimedia	1
+significant event	chaptering	1
+significant event	indexing	1
+significant event	multimedia	1
+chaptering	indexing	1
+chaptering	multimedia	1
+indexing	multimedia	1
+indexing	information retrieval	1
+indexing	temporal information retrieval	1
+indexing	temporal expression	1
+indexing	temporal indexing	1
+dynamic variable	political instability task force	1
+dynamic variable	subgroup discovery	1
+political instability task force	subgroup discovery	1
+visualization	interactive machine learning	1
+visualization	ensemble classifier	1
+visualization	object recognition	1
+visualization	caltech 101	1
+visualization	archaeology	1
+visualization	digitization	1
+visualization	information retrieval	1
+visualization	interactive learning	1
+visualization	decision tree	1
+interactive machine learning	ensemble classifier	1
+interactive machine learning	object recognition	1
+interactive machine learning	caltech 101	1
+ensemble classifier	object recognition	1
+ensemble classifier	caltech 101	1
+object recognition	caltech 101	1
+object recognition	representation	1
+object recognition	recognition by part	1
+object recognition	graph matching	1
+unsupervised hierarchical classification	e learning resource management	1
+unsupervised hierarchical classification	bootstrapping	1
+unsupervised hierarchical classification	document clustering	1
+unsupervised hierarchical classification	expectation maximization	1
+e learning resource management	bootstrapping	1
+e learning resource management	document clustering	1
+e learning resource management	expectation maximization	1
+bootstrapping	document clustering	1
+bootstrapping	expectation maximization	1
+document clustering	expectation maximization	1
+document clustering	clustering description	1
+document clustering	topic digital library	1
+document clustering	data mining field	1
+expectation maximization	bayesian network	1
+expectation maximization	randomized controlled experiment	1
+expectation maximization	learning gain	1
+abductive machine learning	abductive network	1
+abductive machine learning	optimal test design	1
+abductive machine learning	educational measurement	1
+abductive machine learning	item response theory	1
+abductive machine learning	test analysis	1
+abductive machine learning	test construction	1
+abductive network	optimal test design	1
+abductive network	educational measurement	1
+abductive network	item response theory	1
+abductive network	test analysis	1
+abductive network	test construction	1
+optimal test design	educational measurement	1
+optimal test design	item response theory	1
+optimal test design	test analysis	1
+optimal test design	test construction	1
+educational measurement	item response theory	1
+educational measurement	test analysis	1
+educational measurement	test construction	1
+item response theory	test analysis	1
+item response theory	test construction	1
+test analysis	test construction	1
+agent based	intelligent tutoring system	1
+agent based	knowledge based system	1
+agent based	virtual learning environment	1
+intelligent tutoring system	knowledge based system	1
+intelligent tutoring system	virtual learning environment	1
+intelligent tutoring system	conceptual clustering	1
+intelligent tutoring system	stress level variation	1
+intelligent tutoring system	belief network	1
+intelligent tutoring system	belief updating	1
+intelligent tutoring system	uncertainty in cognition	1
+intelligent tutoring system	emotional dimension	1
+knowledge based system	virtual learning environment	1
+knowledge based system	nonlinear regression	1
+knowledge based system	curve fitting	1
+pattern recognition	undergraduate course design	1
+pattern recognition	anti money laundering	1
+pattern recognition	slt	1
+pattern recognition	discrete choice model	1
+pattern recognition	random utility model	1
+pattern recognition	logit model	1
+face to face negotiation	communication process	1
+face to face negotiation	text data	1
+face to face negotiation	corpus analysis	1
+communication process	text data	1
+communication process	corpus analysis	1
+text data	corpus analysis	1
+intelligent authoring system	simulated student	1
+intelligent authoring system	programming by demonstration	1
+intelligent authoring system	cognitive tutor	1
+simulated student	programming by demonstration	1
+simulated student	cognitive tutor	1
+programming by demonstration	cognitive modeling	1
+programming by demonstration	inductive logic programming	1
+programming by demonstration	intelligent authoring	1
+cognitive tutor	cognitive modeling	1
+cognitive tutor	inductive logic programming	1
+cognitive tutor	intelligent authoring	1
+student drop out	prediction	1
+prediction	corporate failure	1
+prediction	statistical model	1
+prediction	feature selection	1
+prediction	statistical learning theory	1
+prediction	fully mechanized coal driving workface	1
+prediction	gas emission	1
+prediction	multi granular computing	1
+prediction	quotient space	1
+prediction	ensemble learning	1
+prediction	air quality	1
+scheduling	flexible flow system	1
+scheduling	distributed database	1
+scheduling	time invariant fragmentation	1
+scheduling	genetic algorithm	1
+scheduling	composite dispatching rule	1
+scheduling	flexible job shop problem	1
+distributed database	time invariant fragmentation	1
+speech prosody	human robot interaction	1
+speech prosody	socially guided machine learning	1
+human robot interaction	socially guided machine learning	1
+human robot interaction	skill acquisition	1
+human robot interaction	robot learning	1
+human robot interaction	robotics	1
+educational data mining	collaborative learning	1
+educational data mining	architecture	1
+machine learning in it	collaborative learning	1
+machine learning in it	architecture	1
+machine learning in it	it building tool	1
+machine learning in it	it authoring	1
+machine learning in it	agent based tutoring system	1
+machine learning in it	knowledge acquisition	1
+machine learning in it	intelligent agent	1
+machine learning in it	ill defined domain	1
+machine learning in it	intelligence analysis	1
+machine learning in it	teaching problem solving expertise	1
+machine learning in it	lesson design and generation	1
+machine learning in it	test learning and generation	1
+collaborative learning	natural language and discourse	1
+natural language and discourse	architecture	1
+intelligent user interface	rich feedback	1
+intelligent user interface	explanation	1
+rich feedback	explanation	1
+explanation	intelligibility	1
+explanation	context aware	1
+network address translator	security	1
+comprehensive assessment	regression	1
+regression	multivariate statistic	1
+regression	applied probability	1
+regression	partially adaptive estimation	1
+regression	evolutionary algorithm	1
+regression	rvm	1
+regression	i cba	1
+credit risk	evaluation	1
+credit risk	bankruptcy	1
+credit risk	forecasting	1
+credit risk	framework	1
+evaluation	bankruptcy	1
+evaluation	forecasting	1
+evaluation	framework	1
+evaluation	information visualization	1
+evaluation	utility	1
+evaluation	focus group	1
+evaluation	insight report	1
+evaluation	methodology	1
+evaluation	lexicography	1
+evaluation	morphology	1
+evaluation	lemmatization	1
+evaluation	parallel corpus	1
+evaluation	machine translation	1
+evaluation	swahili	1
+evaluation	english	1
+bankruptcy	forecasting	1
+bankruptcy	framework	1
+forecasting	framework	1
+forecasting	market	1
+forecasting	price prediction	1
+forecasting	trading agent competition	1
+forecasting	bullwhip effect	1
+learning resource organization	knowledge element extraction	1
+linear classifier with maximal margin	goal programming	1
+intuition learning	experience mapping	1
+intuition learning	intuitive discovers	1
+intuition learning	experience relationship construction	1
+intuition learning	interaction learning system	1
+experience mapping	intuitive discovers	1
+experience mapping	experience relationship construction	1
+experience mapping	interaction learning system	1
+intuitive discovers	experience relationship construction	1
+intuitive discovers	interaction learning system	1
+experience relationship construction	interaction learning system	1
+arbitration	just cause	1
+arbitration	discharge	1
+arbitration	discipline	1
+just cause	discharge	1
+just cause	discipline	1
+discharge	discipline	1
+cart	recursive pactitioning	1
+cart	simulation	1
+cart	marketing	1
+cart	bias variance decomposition	1
+cart	brand choice	1
+cart	choice model	1
+cart	ensemble	1
+recursive pactitioning	simulation	1
+simulation	cybernetics	1
+simulation	system engineering	1
+simulation	context sensitive system	1
+simulation	classification decision	1
+simulation	decision making	1
+simulation	modeling	1
+plagiarism	authorship identification	1
+computer aided assessment	automated grading	1
+computer aided assessment	creative problem solving	1
+computer aided assessment	science learning assessment	1
+computer aided assessment	machine learning application	1
+automated grading	creative problem solving	1
+automated grading	science learning assessment	1
+automated grading	machine learning application	1
+creative problem solving	science learning assessment	1
+creative problem solving	machine learning application	1
+science learning assessment	machine learning application	1
+nonlinear	real estate investment	1
+nonlinear	project risk	1
+real estate investment	project risk	1
+q a	online community	1
+pedestrian landscape	user evaluation	1
+pedestrian landscape	multi disciplinary design analysis	1
+pedestrian landscape	walking for health	1
+user evaluation	multi disciplinary design analysis	1
+user evaluation	walking for health	1
+multi disciplinary design analysis	walking for health	1
+supply chain management	genetic algorithm	1
+supply chain management	market	1
+supply chain management	price prediction	1
+supply chain management	trading agent competition	1
+supply chain management	bullwhip effect	1
+genetic algorithm	adaptation	1
+genetic algorithm	evolution	1
+genetic algorithm	repeated prisoner dilemma game	1
+genetic algorithm	legal knowledge representation	1
+genetic algorithm	information retrieval	1
+genetic algorithm	semantic indexation	1
+genetic algorithm	hybrid methodology	1
+genetic algorithm	remote sensing image	1
+genetic algorithm	intelligent classifier	1
+genetic algorithm	fuzzy logic	1
+genetic algorithm	adaptive supply network	1
+genetic algorithm	dynamic configuration	1
+genetic algorithm	composite dispatching rule	1
+genetic algorithm	flexible job shop problem	1
+large data set	pattern	1
+large data set	model	1
+large data set	data quality	1
+pattern	model	1
+pattern	data quality	1
+model	data quality	1
+skill acquisition	robot learning	1
+skill acquisition	robotics	1
+robot learning	robotics	1
+robotics	neuroscience	1
+robotics	psychology	1
+robotics	cognitive architecture	1
+robotics	decision making	1
+robotics	intelligent agent	1
+robotics	problem solving	1
+robotics	situated cognition	1
+robotics	computer simulation	1
+lexicography	dictionary	1
+lexicography	software	1
+lexicography	dictionary writing system	1
+lexicography	corpus query package	1
+lexicography	tshwanelex	1
+lexicography	corpus	1
+lexicography	part of speech tagger	1
+lexicography	northern sotho	1
+lexicography	parallel corpus	1
+lexicography	machine translation	1
+lexicography	english	1
+dictionary	software	1
+dictionary	dictionary writing system	1
+dictionary	corpus query package	1
+dictionary	tshwanelex	1
+dictionary	corpus annotation	1
+dictionary	part of speech tagger	1
+dictionary	northern sotho	1
+dictionary	morphological analysis	1
+dictionary	unknown word	1
+software	dictionary writing system	1
+software	corpus query package	1
+software	tshwanelex	1
+software	corpus	1
+software	corpus annotation	1
+software	part of speech tagger	1
+software	northern sotho	1
+dictionary writing system	corpus query package	1
+dictionary writing system	tshwanelex	1
+dictionary writing system	corpus	1
+dictionary writing system	corpus annotation	1
+dictionary writing system	part of speech tagger	1
+dictionary writing system	northern sotho	1
+corpus query package	tshwanelex	1
+corpus query package	corpus	1
+corpus query package	corpus annotation	1
+corpus query package	part of speech tagger	1
+corpus query package	northern sotho	1
+tshwanelex	corpus	1
+tshwanelex	corpus annotation	1
+tshwanelex	part of speech tagger	1
+tshwanelex	northern sotho	1
+corpus	corpus annotation	1
+corpus	part of speech tagger	1
+corpus	northern sotho	1
+corpus	arabic	1
+corpus	natural language processing	1
+corpus	recognition	1
+corpus	morphological analysis	1
+corpus	unknown word	1
+corpus annotation	part of speech tagger	1
+corpus annotation	northern sotho	1
+corpus annotation	morphology	1
+corpus annotation	lemmatization	1
+corpus annotation	swahili	1
+part of speech tagger	northern sotho	1
+corporate failure	statistical model	1
+corporate failure	feature selection	1
+corporate failure	bankruptcy prediction	1
+corporate failure	going concern	1
+corporate failure	knowledge discovery	1
+statistical model	feature selection	1
+statistical model	credit risk management	1
+statistical model	rating determinant	1
+statistical model	insurance	1
+statistical model	basel ii	1
+statistical model	solvency ii	1
+statistical model	machine learning technique	1
+feature selection	beat induction	1
+feature selection	rhythm	1
+feature selection	phenomenal accent	1
+feature selection	acoustic cue	1
+feature selection	insurance	1
+feature selection	risk	1
+feature selection	credit scoring	1
+feature selection	classification algorithm	1
+feature selection	decision tree	1
+feature selection	credit risk analysis	1
+feature selection	kernel function	1
+feature selection	time series prediction	1
+feature selection	naive bayesian classifier	1
+feature selection	feature value reduction	1
+tutorial rule	natural language feedback	1
+tutorial rule	expert tutoring	1
+natural language feedback	expert tutoring	1
+bayesian network	retention	1
+bayesian network	minority student	1
+bayesian network	direct marketing	1
+bayesian network	evolutionary programming	1
+bayesian network	randomized controlled experiment	1
+bayesian network	learning gain	1
+bayesian network	it implementation	1
+bayesian network	intrusion prevention	1
+bayesian network	misuse detection	1
+bayesian network	anomaly detection	1
+retention	minority student	1
+bayesian belief network	open problem solving environment	1
+bayesian belief network	inference algorithm	1
+bayesian belief network	on line adaptation	1
+bayesian belief network	adaptive help	1
+bayesian belief network	automated problem solving strategy identification	1
+open problem solving environment	inference algorithm	1
+open problem solving environment	on line adaptation	1
+open problem solving environment	adaptive help	1
+open problem solving environment	automated problem solving strategy identification	1
+inference algorithm	on line adaptation	1
+inference algorithm	adaptive help	1
+inference algorithm	automated problem solving strategy identification	1
+on line adaptation	adaptive help	1
+on line adaptation	automated problem solving strategy identification	1
+adaptive help	automated problem solving strategy identification	1
+kernel method	decision tree	1
+kernel method	binary classification	1
+kernel method	incremental learning	1
+kernel method	nonlinear classification	1
+kernel method	generalized eigenvalue problem	1
+kernel method	proximal support vector machine	1
+kernel method	risk management	1
+kernel method	credit scoring	1
+decision tree	automatic syllabification	1
+decision tree	alcohol treatment	1
+decision tree	bayesian	1
+decision tree	interactive learning	1
+decision tree	multiple criterion analysis	1
+decision tree	fuzzy set	1
+decision tree	system dynamic	1
+decision tree	decision support	1
+decision tree	knowledge acquisition	1
+decision tree	production rule	1
+decision tree	cognitive modeling	1
+decision tree	credit risk analysis	1
+decision tree	attribute discretization	1
+decision tree	entropy	1
+decision tree	parametric linear programming	1
+open ended survey coding	multiclass text categorization	1
+open ended survey coding	information retrieval	1
+multiclass text categorization	information retrieval	1
+information retrieval	web based learning	1
+information retrieval	web document annotation	1
+information retrieval	meta search	1
+information retrieval	archaeology	1
+information retrieval	digitization	1
+information retrieval	text segmentation	1
+information retrieval	document retrieval	1
+information retrieval	legal knowledge representation	1
+information retrieval	semantic indexation	1
+information retrieval	hybrid methodology	1
+information retrieval	text classification	1
+information retrieval	sequential sampling process	1
+information retrieval	random walk	1
+information retrieval	accumulator	1
+information retrieval	temporal information retrieval	1
+information retrieval	temporal expression	1
+information retrieval	temporal indexing	1
+information retrieval	business intelligence	1
+information retrieval	genetic programming	1
+information retrieval	ranking function	1
+information retrieval	search engine	1
+information retrieval	web mining	1
+instrument development	user satisfaction measurement	1
+information visualization	utility	1
+information visualization	focus group	1
+information visualization	insight report	1
+information visualization	methodology	1
+utility	focus group	1
+utility	insight report	1
+utility	methodology	1
+focus group	insight report	1
+focus group	methodology	1
+insight report	methodology	1
+methodology	marketing modelling	1
+methodology	management support	1
+methodology	analytical method	1
+methodology	knowledge discovery	1
+methodology	genetic fuzzy system	1
+language development	turkish	1
+language development	child directed speech	1
+language development	syntactic bootstrapping	1
+language development	morphology	1
+turkish	child directed speech	1
+turkish	syntactic bootstrapping	1
+turkish	morphology	1
+child directed speech	syntactic bootstrapping	1
+child directed speech	morphology	1
+syntactic bootstrapping	morphology	1
+morphology	parallel corpus	1
+morphology	machine translation	1
+morphology	english	1
+web based learning	web document annotation	1
+web based learning	meta search	1
+web document annotation	meta search	1
+expert system	stock screening	1
+expert system	portfolio construction	1
+expert system	integration	1
+expert system	fusion	1
+expert system	multiple representation	1
+expert system	interpretation	1
+expert system	spatial data matching	1
+expert system	planning	1
+expert system	software reuse	1
+expert system	quality control	1
+expert system	semiconductor manufacturing	1
+expert system	throughput	1
+expert system	screening	1
+expert system	work in process	1
+expert system	induction	1
+expert system	knowledge acquisition	1
+stock screening	portfolio construction	1
+adaptive behaviour	team play	1
+adaptive behaviour	commercial computer game	1
+team play	commercial computer game	1
+multiagent system	multiagent learning	1
+multiagent system	robot soccer	1
+multiagent learning	robot soccer	1
+automated knowledge assessment	student modeling	1
+automated knowledge assessment	remediation	1
+student modeling	remediation	1
+student modeling	som	1
+student modeling	principal component analysis	1
+student modeling	adaptive hypermedia learning system	1
+direct marketing	evolutionary programming	1
+market	price prediction	1
+market	trading agent competition	1
+price prediction	trading agent competition	1
+clustering description	topic digital library	1
+information extraction	short message service	1
+information extraction	argument recognition	1
+information extraction	discourse analysis	1
+off task behavior detection	mouse tracking	1
+off task behavior detection	ridge regression	1
+mouse tracking	ridge regression	1
+ratio	financial profitability	1
+ratio	preference analysis	1
+financial profitability	preference analysis	1
+shortest path	optimal control	1
+shortest path	transport theory	1
+optimal control	transport theory	1
+web advertising	contextual advertising	1
+web advertising	ranking	1
+web advertising	lexical association	1
+contextual advertising	ranking	1
+contextual advertising	lexical association	1
+ranking	lexical association	1
+ranking	prefernce learning	1
+ranking	linear programming	1
+ranking	column generation	1
+lemmatization	parallel corpus	1
+lemmatization	machine translation	1
+lemmatization	english	1
+swahili	parallel corpus	1
+swahili	machine translation	1
+swahili	english	1
+hyperplane machine learning	kernel covering algorithm	1
+hyperplane machine learning	forecast load	1
+kernel covering algorithm	forecast load	1
+ontology	taxonomy learning	1
+ontology	unsupervised neural network	1
+ontology	semantics	1
+ontology	knowledge representation	1
+ontology	selectional restriction	1
+ontology	co composition	1
+taxonomy learning	unsupervised neural network	1
+recognizing textual entailment	fuzzy set theory	1
+recognizing textual entailment	wordnet	1
+fuzzy set theory	wordnet	1
+inductive learning	marketing decision	1
+inductive learning	multicriteria preference	1
+inductive learning	currency crisis	1
+inductive learning	neuro fuzzy	1
+inductive learning	signal approach	1
+inductive learning	logit	1
+marketing decision	multicriteria preference	1
+brainwave	stress level variation	1
+brainwave	emotional dimension	1
+affect sensing	speech processing	1
+affect sensing	naive bayes classifier	1
+speech processing	naive bayes classifier	1
+vocabulary learning	word sense disambiguation	1
+vocabulary learning	english a a second language	1
+vocabulary learning	computer assisted language learning	1
+word sense disambiguation	english a a second language	1
+word sense disambiguation	computer assisted language learning	1
+word sense disambiguation	cross corpus evaluation of natural language processing system	1
+english a a second language	computer assisted language learning	1
+intelligent agent	virtual learning	1
+intelligent agent	it building tool	1
+intelligent agent	it authoring	1
+intelligent agent	agent based tutoring system	1
+intelligent agent	knowledge acquisition	1
+intelligent agent	ill defined domain	1
+intelligent agent	intelligence analysis	1
+intelligent agent	teaching problem solving expertise	1
+intelligent agent	lesson design and generation	1
+intelligent agent	test learning and generation	1
+intelligent agent	neuroscience	1
+intelligent agent	psychology	1
+intelligent agent	cognitive architecture	1
+intelligent agent	decision making	1
+intelligent agent	problem solving	1
+intelligent agent	situated cognition	1
+intelligent agent	computer simulation	1
+tutorial dialogue	tutorial strategy	1
+tutorial dialogue	hidden markov modeling	1
+tutorial dialogue	affect	1
+tutorial dialogue	emotion	1
+tutorial dialogue	posture pattern	1
+tutorial dialogue	autotutor	1
+tutorial strategy	hidden markov modeling	1
+re sampling strategy	imbalanced data	1
+re sampling strategy	classifier	1
+imbalanced data	classifier	1
+decision technology	decision support	1
+decision technology	knowledege based system	1
+decision support	knowledege based system	1
+decision support	system dynamic	1
+decision support	knowledge acquisition	1
+decision support	production rule	1
+decision support	cognitive modeling	1
+decision support	mapping rule	1
+decision support	information granule	1
+decision support	fuzzy art	1
+game based professional training	highly dangerous profession	1
+game based professional training	audio visual coherency	1
+game based professional training	working memory	1
+game based professional training	theory of cognitive load	1
+highly dangerous profession	audio visual coherency	1
+highly dangerous profession	working memory	1
+highly dangerous profession	theory of cognitive load	1
+audio visual coherency	working memory	1
+audio visual coherency	theory of cognitive load	1
+working memory	theory of cognitive load	1
+adaptation	evolution	1
+adaptation	repeated prisoner dilemma game	1
+evolution	repeated prisoner dilemma game	1
+cognitive modeling	inductive logic programming	1
+cognitive modeling	intelligent authoring	1
+cognitive modeling	system dynamic	1
+cognitive modeling	knowledge acquisition	1
+cognitive modeling	production rule	1
+inductive logic programming	intelligent authoring	1
+grid technology	gbodss	1
+grid technology	web text categorization	1
+gbodss	web text categorization	1
+automatic bug library construction	java error	1
+automatic bug library construction	object oriented programming	1
+automatic bug library construction	multistrategy learning	1
+java error	object oriented programming	1
+java error	multistrategy learning	1
+object oriented programming	multistrategy learning	1
+alcohol treatment	bayesian	1
+face perception	facial attractiveness	1
+face perception	aesthetic	1
+face perception	computational ii neuroscience	1
+facial attractiveness	aesthetic	1
+facial attractiveness	computational ii neuroscience	1
+aesthetic	computational ii neuroscience	1
+learning from example and by doing	production	1
+learning from example and by doing	education	1
+production	education	1
+education	fast fourier transform	1
+education	musical hearing	1
+education	pure tone audiometry	1
+vegetative state	autonomic response	1
+vegetative state	mother voice	1
+vegetative state	heart rate variability	1
+vegetative state	machine learning procedure	1
+autonomic response	mother voice	1
+autonomic response	heart rate variability	1
+autonomic response	machine learning procedure	1
+mother voice	heart rate variability	1
+mother voice	machine learning procedure	1
+heart rate variability	machine learning procedure	1
+accident causation	road junction	1
+accident causation	police record	1
+road junction	police record	1
+b2b e commerce	vendor selection	1
+b2b e commerce	e marketplace	1
+b2b e commerce	decision tree induction	1
+vendor selection	e marketplace	1
+vendor selection	decision tree induction	1
+e marketplace	decision tree induction	1
+e marketplace	knowledge discovery	1
+e marketplace	bayesian learning	1
+e marketplace	automated negotiation	1
+decision tree induction	internet advertising	1
+decision tree induction	internet storefront	1
+decision tree induction	personalization	1
+habituation	novelty detection	1
+semantics	knowledge representation	1
+semantics	selectional restriction	1
+semantics	co composition	1
+knowledge representation	selectional restriction	1
+knowledge representation	co composition	1
+knowledge representation	cbr	1
+knowledge representation	extenics	1
+knowledge representation	extension case base	1
+selectional restriction	co composition	1
+language acquisition	cross modal	1
+language acquisition	sensor grounded	1
+language acquisition	embodied cognition	1
+language acquisition	cognitive development	1
+cross modal	sensor grounded	1
+cross modal	computational model	1
+sensor grounded	computational model	1
+computational model	policy analysis	1
+computational model	embodied cognition	1
+computational model	cognitive development	1
+tabu search	global optimization	1
+tabu search	bilinear programming	1
+global optimization	bilinear programming	1
+affect	emotion	1
+affect	posture pattern	1
+affect	autotutor	1
+emotion	posture pattern	1
+emotion	autotutor	1
+emotion	affective computing	1
+emotion	facial tracking	1
+emotion	computer vision	1
+emotion	speech	1
+emotion	robot	1
+emotion	emotion production	1
+emotion	emotion recognition	1
+posture pattern	autotutor	1
+group member role analysis	web based collaborative learning	1
+group member role analysis	group s social interaction	1
+web based collaborative learning	group s social interaction	1
+fast fourier transform	musical hearing	1
+fast fourier transform	pure tone audiometry	1
+musical hearing	pure tone audiometry	1
+som	principal component analysis	1
+som	adaptive hypermedia learning system	1
+principal component analysis	adaptive hypermedia learning system	1
+personnel selection	attribute reduction	1
+attribute reduction	rough set theory	1
+attribute reduction	neighborhood system	1
+attribute reduction	neighborhood approximation space	1
+internet advertising	internet storefront	1
+internet advertising	personalization	1
+internet storefront	personalization	1
+customer relationship management	customer profitability accounting	1
+customer relationship management	cost benefit analysis	1
+customer relationship management	marketing	1
+customer profitability accounting	cost benefit analysis	1
+customer profitability accounting	marketing	1
+cost benefit analysis	marketing	1
+marketing	customer profiling	1
+marketing	customer targeting	1
+marketing	statistical modeling	1
+marketing	performance evaluation	1
+marketing	bias variance decomposition	1
+marketing	brand choice	1
+marketing	choice model	1
+marketing	ensemble	1
+marketing	data preprocessing	1
+corporate failure forecast	adaboost	1
+bayesian analysis	econometric model	1
+bayesian analysis	estimation and other statistical technique	1
+bayesian analysis	hierarchical bayes analysis	1
+bayesian analysis	marketing research	1
+bayesian analysis	regression and other statistical technique	1
+econometric model	estimation and other statistical technique	1
+econometric model	hierarchical bayes analysis	1
+econometric model	marketing research	1
+econometric model	regression and other statistical technique	1
+estimation and other statistical technique	hierarchical bayes analysis	1
+estimation and other statistical technique	marketing research	1
+estimation and other statistical technique	regression and other statistical technique	1
+hierarchical bayes analysis	marketing research	1
+hierarchical bayes analysis	regression and other statistical technique	1
+marketing research	regression and other statistical technique	1
+automated modeling	choice model	1
+automated modeling	kernel transformation	1
+automated modeling	multinomial logit model	1
+automated modeling	predictive model	1
+choice model	kernel transformation	1
+choice model	multinomial logit model	1
+choice model	predictive model	1
+choice model	bias variance decomposition	1
+choice model	brand choice	1
+choice model	ensemble	1
+kernel transformation	multinomial logit model	1
+kernel transformation	predictive model	1
+multinomial logit model	predictive model	1
+currency crisis	neuro fuzzy	1
+currency crisis	signal approach	1
+currency crisis	logit	1
+neuro fuzzy	signal approach	1
+neuro fuzzy	logit	1
+signal approach	logit	1
+logit	female labor force participation	1
+logit	probit	1
+logit	hamming clustering	1
+multi category classification	h support vector machine	1
+multi category classification	credit rating	1
+h support vector machine	credit rating	1
+case based decision making	multiple criterion	1
+belief network	belief updating	1
+belief network	uncertainty in cognition	1
+belief updating	uncertainty in cognition	1
+microeconomics	marker	1
+microeconomics	auction	1
+microeconomics	trader animats	1
+microeconomics	widrow hoff learning	1
+marker	auction	1
+marker	trader animats	1
+marker	widrow hoff learning	1
+auction	trader animats	1
+auction	widrow hoff learning	1
+trader animats	widrow hoff learning	1
+inquiry learning	learning from image	1
+inquiry learning	decision tree learning	1
+learning from image	decision tree learning	1
+intelligibility	context aware	1
+intelligibility	context aware computing	1
+intelligibility	control	1
+intelligibility	toolkits	1
+intelligibility	design support	1
+archaeology	digitization	1
+parameter optimizing	simulated annealing	1
+forest fire risk zone expert system	fuzzy logic	1
+forest fire risk zone expert system	fuzzy set	1
+forest fire risk zone expert system	fuzzy expected interval	1
+forest fire risk zone expert system	algorithm	1
+fuzzy logic	fuzzy set	1
+fuzzy logic	fuzzy expected interval	1
+fuzzy logic	algorithm	1
+fuzzy logic	bioengineering	1
+fuzzy logic	low cost educational robot	1
+fuzzy logic	handheld computer	1
+fuzzy logic	remote sensing image	1
+fuzzy logic	intelligent classifier	1
+fuzzy set	fuzzy expected interval	1
+fuzzy set	algorithm	1
+fuzzy set	multiple criterion analysis	1
+fuzzy expected interval	algorithm	1
+bioengineering	low cost educational robot	1
+bioengineering	handheld computer	1
+low cost educational robot	handheld computer	1
+arabic	natural language processing	1
+arabic	recognition	1
+natural language processing	recognition	1
+natural language processing	sponsored search	1
+natural language processing	pay per click	1
+natural language processing	natural language generation	1
+natural language processing	automation	1
+natural language processing	query log	1
+natural language processing	rule generation	1
+natural language processing	compositional ity	1
+natural language processing	rule generalization	1
+natural language processing	bilingual corpus	1
+natural language processing	examplebased	1
+natural language processing	rule based	1
+natural language processing	machine translation	1
+stakeholder classification	business intelligence	1
+stakeholder classification	web page classification	1
+stakeholder classification	weighted support vector machine	1
+business intelligence	web page classification	1
+business intelligence	weighted support vector machine	1
+business intelligence	information acquistion	1
+business intelligence	predictive modeling	1
+business intelligence	active feature acquisition	1
+business intelligence	imputation	1
+business intelligence	utility based data mining	1
+business intelligence	genetic programming	1
+business intelligence	ranking function	1
+business intelligence	search engine	1
+business intelligence	web mining	1
+web page classification	weighted support vector machine	1
+connectionist network	associative memory	1
+connectionist network	competitive network	1
+connectionist network	density estimation	1
+associative memory	competitive network	1
+associative memory	density estimation	1
+competitive network	density estimation	1
+anti money laundering	slt	1
+credit risk management	rating determinant	1
+credit risk management	insurance	1
+credit risk management	basel ii	1
+credit risk management	solvency ii	1
+credit risk management	machine learning technique	1
+rating determinant	insurance	1
+rating determinant	basel ii	1
+rating determinant	solvency ii	1
+rating determinant	machine learning technique	1
+insurance	basel ii	1
+insurance	solvency ii	1
+insurance	machine learning technique	1
+insurance	risk	1
+insurance	credit scoring	1
+insurance	classification algorithm	1
+basel ii	solvency ii	1
+basel ii	machine learning technique	1
+solvency ii	machine learning technique	1
+parallel corpus	machine translation	1
+parallel corpus	english	1
+machine translation	english	1
+machine translation	ebmt	1
+machine translation	template learning translation	1
+machine translation	hmm	1
+machine translation	rule generation	1
+machine translation	compositional ity	1
+machine translation	rule generalization	1
+machine translation	bilingual corpus	1
+machine translation	examplebased	1
+machine translation	rule based	1
+customer demand	internet economics	1
+customer demand	online service	1
+customer demand	probabilistic algorithm	1
+customer demand	revenue optimization	1
+customer demand	utility computing	1
+internet economics	online service	1
+internet economics	probabilistic algorithm	1
+internet economics	revenue optimization	1
+internet economics	utility computing	1
+online service	probabilistic algorithm	1
+online service	revenue optimization	1
+online service	utility computing	1
+probabilistic algorithm	revenue optimization	1
+probabilistic algorithm	utility computing	1
+revenue optimization	utility computing	1
+classification rule	minimum distance	1
+classification rule	induction from example	1
+minimum distance	induction from example	1
+exchange rate	clustersvm	1
+eye movement	visual attention saliency efficient visual coding	1
+eye movement	intrinsic dimension curvature machine learning	1
+visual attention saliency efficient visual coding	intrinsic dimension curvature machine learning	1
+cost estimation	model performance	1
+cost estimation	modeling software cost	1
+model performance	modeling software cost	1
+ebmt	template learning translation	1
+ebmt	hmm	1
+template learning translation	hmm	1
+randomized controlled experiment	learning gain	1
+tactical asset allocation	stock price prediction	1
+tactical asset allocation	instance based learning	1
+tactical asset allocation	weka	1
+tactical asset allocation	financial data mining	1
+stock price prediction	instance based learning	1
+stock price prediction	weka	1
+stock price prediction	financial data mining	1
+instance based learning	weka	1
+instance based learning	financial data mining	1
+weka	financial data mining	1
+context aware computing	control	1
+context aware computing	toolkits	1
+context aware computing	design support	1
+control	toolkits	1
+control	design support	1
+toolkits	design support	1
+portfolio	open source software	1
+portfolio	chinese knowledge and information processing	1
+open source software	chinese knowledge and information processing	1
+text segmentation	document retrieval	1
+female labor force participation	probit	1
+female labor force participation	hamming clustering	1
+probit	hamming clustering	1
+legal knowledge representation	semantic indexation	1
+legal knowledge representation	hybrid methodology	1
+semantic indexation	hybrid methodology	1
+citation analysis	kernel based method	1
+citation analysis	knowledge management	1
+citation analysis	patent management	1
+kernel based method	knowledge management	1
+kernel based method	patent management	1
+knowledge management	patent management	1
+knowledge management	uncertainty	1
+knowledge management	decision making	1
+statistical learning theory	fully mechanized coal driving workface	1
+statistical learning theory	gas emission	1
+fully mechanized coal driving workface	gas emission	1
+integration	fusion	1
+integration	multiple representation	1
+integration	interpretation	1
+integration	spatial data matching	1
+fusion	multiple representation	1
+fusion	interpretation	1
+fusion	spatial data matching	1
+multiple representation	interpretation	1
+multiple representation	spatial data matching	1
+interpretation	spatial data matching	1
+chinese	movie review	1
+chinese	subjectivity classification	1
+chinese	sentiment classification	1
+movie review	subjectivity classification	1
+movie review	sentiment classification	1
+subjectivity classification	sentiment classification	1
+hidden markov model	spectral graph theory	1
+hidden markov model	vowel harmony	1
+hidden markov model	phonology	1
+spectral graph theory	vowel harmony	1
+spectral graph theory	phonology	1
+vowel harmony	phonology	1
+phonology	hearing	1
+phonology	speech disorder	1
+phonology	genetics	1
+phonology	phenotype	1
+data envelopment analysis	risk analysis	1
+data envelopment analysis	banking	1
+risk analysis	banking	1
+kpi	rtd project	1
+kpi	rtd programme	1
+kpi	project portfolio	1
+kpi	indicator template	1
+rtd project	rtd programme	1
+rtd project	project portfolio	1
+rtd project	indicator template	1
+rtd programme	project portfolio	1
+rtd programme	indicator template	1
+project portfolio	indicator template	1
+marketing modelling	management support	1
+marketing modelling	analytical method	1
+marketing modelling	knowledge discovery	1
+marketing modelling	genetic fuzzy system	1
+management support	analytical method	1
+management support	knowledge discovery	1
+management support	genetic fuzzy system	1
+analytical method	knowledge discovery	1
+analytical method	genetic fuzzy system	1
+knowledge discovery	genetic fuzzy system	1
+knowledge discovery	bayesian learning	1
+knowledge discovery	automated negotiation	1
+knowledge discovery	bankruptcy prediction	1
+knowledge discovery	going concern	1
+planning	software reuse	1
+bayesian learning	automated negotiation	1
+remanufacturing system	manufacturing resource planning	1
+remanufacturing system	rough set theory	1
+remanufacturing system	ordinal optimization	1
+manufacturing resource planning	rough set theory	1
+manufacturing resource planning	ordinal optimization	1
+rough set theory	ordinal optimization	1
+rough set theory	neighborhood system	1
+rough set theory	neighborhood approximation space	1
+it building tool	it authoring	1
+it building tool	agent based tutoring system	1
+it building tool	knowledge acquisition	1
+it building tool	ill defined domain	1
+it building tool	intelligence analysis	1
+it building tool	teaching problem solving expertise	1
+it building tool	lesson design and generation	1
+it building tool	test learning and generation	1
+it authoring	agent based tutoring system	1
+it authoring	knowledge acquisition	1
+it authoring	ill defined domain	1
+it authoring	intelligence analysis	1
+it authoring	teaching problem solving expertise	1
+it authoring	lesson design and generation	1
+it authoring	test learning and generation	1
+agent based tutoring system	knowledge acquisition	1
+agent based tutoring system	ill defined domain	1
+agent based tutoring system	intelligence analysis	1
+agent based tutoring system	teaching problem solving expertise	1
+agent based tutoring system	lesson design and generation	1
+agent based tutoring system	test learning and generation	1
+knowledge acquisition	ill defined domain	1
+knowledge acquisition	intelligence analysis	1
+knowledge acquisition	teaching problem solving expertise	1
+knowledge acquisition	lesson design and generation	1
+knowledge acquisition	test learning and generation	1
+knowledge acquisition	system dynamic	1
+knowledge acquisition	production rule	1
+knowledge acquisition	knowledge base	1
+knowledge acquisition	cartographic generalization	1
+knowledge acquisition	line classification	1
+knowledge acquisition	instructable agent	1
+knowledge acquisition	course of action critiquing	1
+knowledge acquisition	experimentation	1
+ill defined domain	intelligence analysis	1
+ill defined domain	teaching problem solving expertise	1
+ill defined domain	lesson design and generation	1
+ill defined domain	test learning and generation	1
+intelligence analysis	teaching problem solving expertise	1
+intelligence analysis	lesson design and generation	1
+intelligence analysis	test learning and generation	1
+teaching problem solving expertise	lesson design and generation	1
+teaching problem solving expertise	test learning and generation	1
+lesson design and generation	test learning and generation	1
+electronic commerce	intelligents agent	1
+electronic commerce	extended logic programming	1
+electronic commerce	preargument reasoning and argument based negotiation	1
+intelligents agent	extended logic programming	1
+intelligents agent	preargument reasoning and argument based negotiation	1
+extended logic programming	preargument reasoning and argument based negotiation	1
+covering algorithm	kernel function	1
+covering algorithm	short term load forecasting	1
+kernel function	short term load forecasting	1
+kernel function	time series prediction	1
+cmc	gender	1
+cmc	genre	1
+cmc	style	1
+cmc	text classification	1
+cmc	variation	1
+cmc	weblog	1
+gender	genre	1
+gender	style	1
+gender	text classification	1
+gender	variation	1
+gender	weblog	1
+genre	style	1
+genre	text classification	1
+genre	variation	1
+genre	weblog	1
+style	text classification	1
+style	variation	1
+style	weblog	1
+text classification	variation	1
+text classification	weblog	1
+text classification	sequential sampling process	1
+text classification	random walk	1
+text classification	accumulator	1
+variation	weblog	1
+sequential sampling process	random walk	1
+sequential sampling process	accumulator	1
+random walk	accumulator	1
+quality control	semiconductor manufacturing	1
+quality control	throughput	1
+quality control	screening	1
+quality control	work in process	1
+quality control	induction	1
+quality control	knowledge base	1
+semiconductor manufacturing	throughput	1
+semiconductor manufacturing	screening	1
+semiconductor manufacturing	work in process	1
+semiconductor manufacturing	induction	1
+semiconductor manufacturing	knowledge base	1
+throughput	screening	1
+throughput	work in process	1
+throughput	induction	1
+throughput	knowledge base	1
+screening	work in process	1
+screening	induction	1
+screening	knowledge base	1
+work in process	induction	1
+work in process	knowledge base	1
+induction	knowledge base	1
+computational word based morphology	automatic acquisition	1
+computational word based morphology	generation	1
+automatic acquisition	generation	1
+beat induction	rhythm	1
+beat induction	phenomenal accent	1
+beat induction	acoustic cue	1
+rhythm	phenomenal accent	1
+rhythm	acoustic cue	1
+phenomenal accent	acoustic cue	1
+remote sensing image	intelligent classifier	1
+online escrow service	internet fraud	1
+online escrow service	website classification	1
+online escrow service	fraud cue	1
+internet fraud	website classification	1
+internet fraud	fraud cue	1
+website classification	fraud cue	1
+multivariate statistic	applied probability	1
+multivariate statistic	partially adaptive estimation	1
+applied probability	partially adaptive estimation	1
+argument recognition	discourse analysis	1
+uncertainty	decision making	1
+decision making	classification decision	1
+decision making	modeling	1
+decision making	neuroscience	1
+decision making	psychology	1
+decision making	cognitive architecture	1
+decision making	problem solving	1
+decision making	situated cognition	1
+decision making	computer simulation	1
+decision making	network flow	1
+decision making	group ranking	1
+location aware computing	location management	1
+location aware computing	user movement	1
+location aware computing	trajectory prediction	1
+location aware computing	probabilistic method	1
+location management	user movement	1
+location management	trajectory prediction	1
+location management	probabilistic method	1
+user movement	trajectory prediction	1
+user movement	probabilistic method	1
+trajectory prediction	probabilistic method	1
+adaptive supply network	dynamic configuration	1
+multi scale sparse least square support vector machine	wavelet package decomposition	1
+multi scale sparse least square support vector machine	least square support vector machine	1
+multi scale sparse least square support vector machine	time series forecasting	1
+wavelet package decomposition	least square support vector machine	1
+wavelet package decomposition	time series forecasting	1
+least square support vector machine	time series forecasting	1
+alcohol addiction	comt	1
+alcohol addiction	dopamine	1
+alcohol addiction	mglur	1
+alcohol addiction	glutamate	1
+alcohol addiction	hippocampal volume	1
+alcohol addiction	p support vector machine	1
+alcohol addiction	variable selection	1
+comt	dopamine	1
+comt	mglur	1
+comt	glutamate	1
+comt	hippocampal volume	1
+comt	p support vector machine	1
+comt	variable selection	1
+dopamine	mglur	1
+dopamine	glutamate	1
+dopamine	hippocampal volume	1
+dopamine	p support vector machine	1
+dopamine	variable selection	1
+mglur	glutamate	1
+mglur	hippocampal volume	1
+mglur	p support vector machine	1
+mglur	variable selection	1
+glutamate	hippocampal volume	1
+glutamate	p support vector machine	1
+glutamate	variable selection	1
+hippocampal volume	p support vector machine	1
+hippocampal volume	variable selection	1
+p support vector machine	variable selection	1
+email classification	statistical learning	1
+email classification	bayesian method	1
+statistical learning	bayesian method	1
+distributed generation	electricity market	1
+distributed generation	intelligent agent coalition	1
+distributed generation	virtual power producer	1
+electricity market	intelligent agent coalition	1
+electricity market	virtual power producer	1
+intelligent agent coalition	virtual power producer	1
+cognitive science	information security	1
+cognitive science	reverse engineering	1
+cognitive science	computational intelligence	1
+information security	reverse engineering	1
+information security	computational intelligence	1
+reverse engineering	computational intelligence	1
+prefernce learning	linear programming	1
+prefernce learning	column generation	1
+linear programming	column generation	1
+clustering	nearest neighbour method	1
+clustering	dendrogram	1
+clustering	k mean	1
+clustering	stock trading	1
+nearest neighbour method	dendrogram	1
+system dynamic	production rule	1
+risk	credit scoring	1
+risk	classification algorithm	1
+credit scoring	classification algorithm	1
+credit scoring	risk management	1
+multi granular computing	quotient space	1
+multi granular computing	ensemble learning	1
+multi granular computing	air quality	1
+quotient space	ensemble learning	1
+quotient space	air quality	1
+ensemble learning	air quality	1
+sponsored search	pay per click	1
+sponsored search	natural language generation	1
+sponsored search	automation	1
+sponsored search	query log	1
+pay per click	natural language generation	1
+pay per click	automation	1
+pay per click	query log	1
+natural language generation	automation	1
+natural language generation	query log	1
+automation	query log	1
+virtual community	social interaction theory	1
+cybernetics	system engineering	1
+cybernetics	context sensitive system	1
+system engineering	context sensitive system	1
+ontology development	routine	1
+ontology development	semantic interoperability	1
+ontology development	sociology of knowledge representation	1
+ontology development	ethnography	1
+routine	semantic interoperability	1
+routine	sociology of knowledge representation	1
+routine	ethnography	1
+semantic interoperability	sociology of knowledge representation	1
+semantic interoperability	ethnography	1
+sociology of knowledge representation	ethnography	1
+neighborhood system	neighborhood approximation space	1
+multiple objective optimization	efficient set	1
+embodied cognition	cognitive development	1
+collaborative process analysis	analysis tool	1
+data assimilation	chaos synchronization	1
+data assimilation	parameter estimation	1
+chaos synchronization	parameter estimation	1
+rvm	i cba	1
+discrimination	multicriteria decision aid	1
+discrimination	preference disaggregation	1
+discrimination	financial decision making	1
+multicriteria decision aid	preference disaggregation	1
+multicriteria decision aid	financial decision making	1
+preference disaggregation	financial decision making	1
+adaptive expert system	admissible plan	1
+adaptive expert system	learning automaton	1
+adaptive expert system	operational schema of expert system	1
+adaptive expert system	opportunity cost	1
+adaptive expert system	recognization cycle	1
+adaptive expert system	relative loss	1
+admissible plan	learning automaton	1
+admissible plan	operational schema of expert system	1
+admissible plan	opportunity cost	1
+admissible plan	recognization cycle	1
+admissible plan	relative loss	1
+learning automaton	operational schema of expert system	1
+learning automaton	opportunity cost	1
+learning automaton	recognization cycle	1
+learning automaton	relative loss	1
+operational schema of expert system	opportunity cost	1
+operational schema of expert system	recognization cycle	1
+operational schema of expert system	relative loss	1
+opportunity cost	recognization cycle	1
+opportunity cost	relative loss	1
+recognization cycle	relative loss	1
+morphological analysis	unknown word	1
+reservoir induced seismicity	forecast	1
+reservoir induced seismicity	gaussian process	1
+forecast	gaussian process	1
+e commerce	online product review	1
+e commerce	review helpfulness	1
+e commerce	information gain	1
+e commerce	scoring system	1
+e commerce	adaptive decision support system	1
+e commerce	supply chain configuration	1
+online product review	review helpfulness	1
+online product review	information gain	1
+online product review	scoring system	1
+review helpfulness	information gain	1
+review helpfulness	scoring system	1
+information gain	scoring system	1
+cbr	extenics	1
+cbr	extension case base	1
+extenics	extension case base	1
+software development cost	cluster analysis	1
+meta evolutionary	traditional chinese medicine	1
+meta evolutionary	decision rules	1
+traditional chinese medicine	decision rules	1
+case based reasoning	intelligent decision support system	1
+case based reasoning	electre	1
+case based reasoning	time hold out method	1
+case based reasoning	financial distress prediction	1
+inductive expert system	information cost and benefit	1
+inductive expert system	economic expert system design	1
+inductive expert system	economics of machine learning	1
+information cost and benefit	economic expert system design	1
+information cost and benefit	economics of machine learning	1
+economic expert system design	economics of machine learning	1
+censored data	disease prognosis	1
+censored data	isotonic prediction	1
+censored data	survival analysis	1
+censored data	survival time prediction	1
+disease prognosis	isotonic prediction	1
+disease prognosis	survival analysis	1
+disease prognosis	survival time prediction	1
+isotonic prediction	survival analysis	1
+isotonic prediction	survival time prediction	1
+survival analysis	survival time prediction	1
+rule generation	compositional ity	1
+rule generation	rule generalization	1
+rule generation	bilingual corpus	1
+rule generation	examplebased	1
+rule generation	rule based	1
+rule generation	heuristic method	1
+rule generation	covering	1
+compositional ity	rule generalization	1
+compositional ity	bilingual corpus	1
+compositional ity	examplebased	1
+compositional ity	rule based	1
+rule generalization	bilingual corpus	1
+rule generalization	examplebased	1
+rule generalization	rule based	1
+bilingual corpus	examplebased	1
+bilingual corpus	rule based	1
+examplebased	rule based	1
+wholesale power market	fuzzy inference system	1
+wholesale power market	reinforcing learning	1
+wholesale power market	multi agent system	1
+fuzzy inference system	reinforcing learning	1
+information management	project management	1
+information management	worldwide web	1
+information management	data analysis	1
+project management	worldwide web	1
+project management	data analysis	1
+worldwide web	data analysis	1
+representation	recognition by part	1
+representation	graph matching	1
+recognition by part	graph matching	1
+generalised boosting method	periglacial geomorphology	1
+generalised boosting method	statistical analysis	1
+generalised boosting method	predictive mapping	1
+generalised boosting method	exploration	1
+generalised boosting method	sub arctic	1
+periglacial geomorphology	statistical analysis	1
+periglacial geomorphology	predictive mapping	1
+periglacial geomorphology	exploration	1
+periglacial geomorphology	sub arctic	1
+statistical analysis	predictive mapping	1
+statistical analysis	exploration	1
+statistical analysis	sub arctic	1
+predictive mapping	exploration	1
+predictive mapping	sub arctic	1
+exploration	sub arctic	1
+psychology	concept	1
+psychology	mathematical modeling	1
+psychology	neuroscience	1
+psychology	cognitive architecture	1
+psychology	problem solving	1
+psychology	situated cognition	1
+psychology	computer simulation	1
+concept	mathematical modeling	1
+customer profiling	customer targeting	1
+customer profiling	statistical modeling	1
+customer profiling	performance evaluation	1
+customer targeting	statistical modeling	1
+customer targeting	performance evaluation	1
+statistical modeling	performance evaluation	1
+attribute discretization	entropy	1
+attribute discretization	parametric linear programming	1
+entropy	parametric linear programming	1
+binary classification	incremental learning	1
+binary classification	nonlinear classification	1
+binary classification	generalized eigenvalue problem	1
+binary classification	proximal support vector machine	1
+incremental learning	nonlinear classification	1
+incremental learning	generalized eigenvalue problem	1
+incremental learning	proximal support vector machine	1
+nonlinear classification	generalized eigenvalue problem	1
+nonlinear classification	proximal support vector machine	1
+generalized eigenvalue problem	proximal support vector machine	1
+semantic chunking	chinese semantic role labeling	1
+automobile	nickname recognition	1
+automobile	named entity	1
+nickname recognition	named entity	1
+bankruptcy prediction	going concern	1
+temporal information retrieval	temporal expression	1
+temporal information retrieval	temporal indexing	1
+temporal expression	temporal indexing	1
+intelligent service	prognostic	1
+intelligent service	aviation	1
+intelligent service	intelligent software	1
+prognostic	aviation	1
+prognostic	intelligent software	1
+aviation	intelligent software	1
+cartographic generalization	line classification	1
+cartographic generalization	knowledge acquistion	1
+cartographic generalization	line generalization	1
+mapping rule	information granule	1
+mapping rule	fuzzy art	1
+information granule	fuzzy art	1
+network flow	aggregate ranking	1
+network flow	inverse problem	1
+network flow	group ranking	1
+aggregate ranking	inverse problem	1
+information acquistion	predictive modeling	1
+information acquistion	active feature acquisition	1
+information acquistion	imputation	1
+information acquistion	utility based data mining	1
+predictive modeling	active feature acquisition	1
+predictive modeling	imputation	1
+predictive modeling	utility based data mining	1
+active feature acquisition	imputation	1
+active feature acquisition	utility based data mining	1
+imputation	utility based data mining	1
+adaptive decision support system	supply chain configuration	1
+classification decision	modeling	1
+composite dispatching rule	flexible job shop problem	1
+nonlinear regression	curve fitting	1
+support vector machine parameter optimization	promoter recognition	1
+support vector machine parameter optimization	bioinformatics	1
+promoter recognition	bioinformatics	1
+niche	gradient model	1
+niche	vegetation map	1
+niche	geographic information system	1
+niche	remote sensing	1
+niche	digital terrain data	1
+niche	habitat model	1
+gradient model	vegetation map	1
+gradient model	geographic information system	1
+gradient model	remote sensing	1
+gradient model	digital terrain data	1
+gradient model	habitat model	1
+vegetation map	geographic information system	1
+vegetation map	remote sensing	1
+vegetation map	digital terrain data	1
+vegetation map	habitat model	1
+geographic information system	remote sensing	1
+geographic information system	digital terrain data	1
+geographic information system	habitat model	1
+remote sensing	digital terrain data	1
+remote sensing	habitat model	1
+digital terrain data	habitat model	1
+neuroscience	cognitive architecture	1
+neuroscience	problem solving	1
+neuroscience	situated cognition	1
+neuroscience	computer simulation	1
+cognitive architecture	problem solving	1
+cognitive architecture	situated cognition	1
+cognitive architecture	computer simulation	1
+problem solving	situated cognition	1
+problem solving	computer simulation	1
+situated cognition	computer simulation	1
+corporate rating	clustering launched classification	1
+knowledge acquistion	line generalization	1
+agent based modelling	mobile agent	1
+agent based modelling	spatial cognition	1
+agent based modelling	elk migration	1
+mobile agent	spatial cognition	1
+mobile agent	elk migration	1
+spatial cognition	elk migration	1
+lake prespa	diatom	1
+lake prespa	physic chemical status	1
+diatom	physic chemical status	1
+discrete choice model	random utility model	1
+discrete choice model	logit model	1
+random utility model	logit model	1
+annotated corpus	tokenization	1
+annotated corpus	tagging	1
+tokenization	tagging	1
+naive bayesian classifier	feature value reduction	1
+case based system	case retrieval algorithm	1
+case based system	information cost	1
+case based system	cost reduction	1
+case based system	joint versus separate optimization	1
+case retrieval algorithm	information cost	1
+case retrieval algorithm	cost reduction	1
+case retrieval algorithm	joint versus separate optimization	1
+information cost	cost reduction	1
+information cost	joint versus separate optimization	1
+cost reduction	joint versus separate optimization	1
+bias variance decomposition	brand choice	1
+bias variance decomposition	ensemble	1
+brand choice	ensemble	1
+instructable agent	course of action critiquing	1
+instructable agent	experimentation	1
+course of action critiquing	experimentation	1
+causal induction	intuitive theory	1
+causal induction	rational analysis	1
+causal induction	bayesian modeling	1
+intuitive theory	rational analysis	1
+intuitive theory	bayesian modeling	1
+rational analysis	bayesian modeling	1
+analogy	global business	1
+analogy	analogical reasoning	1
+global business	analogical reasoning	1
+heuristic method	covering	1
+k mean	stock trading	1
+automatic l2 writing evaluation	word alignment based classification	1
+user goal entertainment intention	explicit feedback	1
+user goal entertainment intention	odp	1
+explicit feedback	odp	1
+information system	organizational learning	1
+metrology	surface roughness	1
+metrology	computer numerical control	1
+metrology	metal cutting	1
+metrology	milling operation	1
+surface roughness	computer numerical control	1
+surface roughness	metal cutting	1
+surface roughness	milling operation	1
+computer numerical control	metal cutting	1
+computer numerical control	milling operation	1
+metal cutting	milling operation	1
+vegetation history	climate change	1
+vegetation history	pinus sylvestris l	1
+vegetation history	iberian peninsula	1
+vegetation history	random forest	1
+vegetation history	quaternary refuge	1
+vegetation history	last glacial maximum	1
+vegetation history	lgm	1
+vegetation history	mid holocene	1
+vegetation history	ipcc	1
+vegetation history	pmip	1
+climate change	pinus sylvestris l	1
+climate change	iberian peninsula	1
+climate change	random forest	1
+climate change	quaternary refuge	1
+climate change	last glacial maximum	1
+climate change	lgm	1
+climate change	mid holocene	1
+climate change	ipcc	1
+climate change	pmip	1
+pinus sylvestris l	iberian peninsula	1
+pinus sylvestris l	random forest	1
+pinus sylvestris l	quaternary refuge	1
+pinus sylvestris l	last glacial maximum	1
+pinus sylvestris l	lgm	1
+pinus sylvestris l	mid holocene	1
+pinus sylvestris l	ipcc	1
+pinus sylvestris l	pmip	1
+iberian peninsula	random forest	1
+iberian peninsula	quaternary refuge	1
+iberian peninsula	last glacial maximum	1
+iberian peninsula	lgm	1
+iberian peninsula	mid holocene	1
+iberian peninsula	ipcc	1
+iberian peninsula	pmip	1
+random forest	quaternary refuge	1
+random forest	last glacial maximum	1
+random forest	lgm	1
+random forest	mid holocene	1
+random forest	ipcc	1
+random forest	pmip	1
+quaternary refuge	last glacial maximum	1
+quaternary refuge	lgm	1
+quaternary refuge	mid holocene	1
+quaternary refuge	ipcc	1
+quaternary refuge	pmip	1
+last glacial maximum	lgm	1
+last glacial maximum	mid holocene	1
+last glacial maximum	ipcc	1
+last glacial maximum	pmip	1
+lgm	mid holocene	1
+lgm	ipcc	1
+lgm	pmip	1
+mid holocene	ipcc	1
+mid holocene	pmip	1
+ipcc	pmip	1
+spatial analysis	geographic data	1
+spatial analysis	predictive modelling	1
+spatial analysis	sparse grid	1
+spatial analysis	bauxite	1
+geographic data	predictive modelling	1
+geographic data	sparse grid	1
+geographic data	bauxite	1
+predictive modelling	sparse grid	1
+predictive modelling	bauxite	1
+sparse grid	bauxite	1
+valley head	digital elevation model	1
+valley head	geomorphological mapping	1
+digital elevation model	geomorphological mapping	1
+genetic programming	ranking function	1
+genetic programming	search engine	1
+genetic programming	web mining	1
+ranking function	search engine	1
+ranking function	web mining	1
+search engine	web mining	1
+menopause	anxiety	1
+menopause	behavioral medicine	1
+menopause	sensation	1
+menopause	perception	1
+menopause	age	1
+menopause	electrodermal	1
+anxiety	behavioral medicine	1
+anxiety	sensation	1
+anxiety	perception	1
+anxiety	age	1
+anxiety	electrodermal	1
+behavioral medicine	sensation	1
+behavioral medicine	perception	1
+behavioral medicine	age	1
+behavioral medicine	electrodermal	1
+sensation	perception	1
+sensation	age	1
+sensation	electrodermal	1
+perception	age	1
+perception	electrodermal	1
+age	electrodermal	1
+intrusion prevention	misuse detection	1
+intrusion prevention	anomaly detection	1
+misuse detection	anomaly detection	1
+geovisual analytics	spatial decision support	1
+geovisual analytics	research agenda	1
+spatial decision support	research agenda	1
+stock market	machine learning prediction	1
+cognition	learning memory	1
+cognition	unconscious process	1
+cognition	eeg erp	1
+learning memory	unconscious process	1
+learning memory	eeg erp	1
+unconscious process	eeg erp	1
+electre	time hold out method	1
+electre	financial distress prediction	1
+time hold out method	financial distress prediction	1
+disambiguation	lexical annotation	1
+disambiguation	probabilistic lexical relationship	1
+disambiguation	ontology engineering	1
+disambiguation	data integration	1
+disambiguation	ontology matching	1
+lexical annotation	probabilistic lexical relationship	1
+lexical annotation	ontology engineering	1
+lexical annotation	data integration	1
+lexical annotation	ontology matching	1
+probabilistic lexical relationship	ontology engineering	1
+probabilistic lexical relationship	data integration	1
+probabilistic lexical relationship	ontology matching	1
+ontology engineering	data integration	1
+ontology engineering	ontology matching	1
+data integration	ontology matching	1
+affective computing	facial tracking	1
+affective computing	computer vision	1
+facial tracking	computer vision	1
+speech	robot	1
+speech	emotion production	1
+speech	emotion recognition	1
+robot	emotion production	1
+robot	emotion recognition	1
+emotion production	emotion recognition	1
+representing error	reducing error	1
+representing error	natural resource classification	1
+representing error	model combination	1
+reducing error	natural resource classification	1
+reducing error	model combination	1
+natural resource classification	model combination	1
+training	land cover	1
+training	vegetation	1
+land cover	vegetation	1
+soft sensor	empirical risk minimization	1
+soft sensor	structural risk minimization	1
+soft sensor	rbf neural network	1
+soft sensor	generalization performance	1
+empirical risk minimization	structural risk minimization	1
+empirical risk minimization	rbf neural network	1
+empirical risk minimization	generalization performance	1
+structural risk minimization	rbf neural network	1
+structural risk minimization	generalization performance	1
+rbf neural network	generalization performance	1
+articulation	hearing	1
+articulation	speech disorder	1
+articulation	genetics	1
+articulation	phenotype	1
+hearing	speech disorder	1
+climate change modelling	ecological niche	1
+climate change modelling	extinction	1
+climate change modelling	garp	1
+climate change modelling	geographical distribution	1
+climate change modelling	pleistocene	1
+climate change modelling	mammal	1
+climate change modelling	north america	1
+ecological niche	extinction	1
+ecological niche	garp	1
+ecological niche	geographical distribution	1
+ecological niche	pleistocene	1
+ecological niche	mammal	1
+ecological niche	north america	1
+extinction	garp	1
+extinction	geographical distribution	1
+extinction	pleistocene	1
+extinction	mammal	1
+extinction	north america	1
+garp	geographical distribution	1
+garp	pleistocene	1
+garp	mammal	1
+garp	north america	1
+geographical distribution	pleistocene	1
+geographical distribution	mammal	1
+geographical distribution	north america	1
+pleistocene	mammal	1
+pleistocene	north america	1
+mammal	north america	1
+chlorophyll a	florida bay	1
+chlorophyll a	eutrophication	1
+chlorophyll a	nutrient loading	1
+florida bay	eutrophication	1
+florida bay	nutrient loading	1
+eutrophication	nutrient loading	1
+locomotion	gait analysis	1
+locomotion	stroke	1
+gait analysis	stroke	1
+genetics	phenotype	1
+augmentation manager	closed loop system	1
+augmentation manager	adaptive automation	1
+augmentation manager	cognitive cockpit	1
+augmentation manager	mitigation strategy	1
+closed loop system	adaptive automation	1
+closed loop system	cognitive cockpit	1
+closed loop system	mitigation strategy	1
+adaptive automation	cognitive cockpit	1
+adaptive automation	mitigation strategy	1
+cognitive cockpit	mitigation strategy	1
+high resolution satellite imagery	orientation	1
+high resolution satellite imagery	accuracy assessment	1
+high resolution satellite imagery	leave one out cross validation	1
+orientation	accuracy assessment	1
+orientation	leave one out cross validation	1
+accuracy assessment	leave one out cross validation	1
+brain computer interface	scientitic discovery	1
+brain computer interface	electroencephalography	1
+brain computer interface	digital signal processing	1
+brain computer interface	bio feedback	1
+brain computer interface	control strategy	1
+brain computer interface	gaming	1
+brain computer interface	virtual limb	1
+scientitic discovery	electroencephalography	1
+scientitic discovery	digital signal processing	1
+scientitic discovery	bio feedback	1
+scientitic discovery	control strategy	1
+scientitic discovery	gaming	1
+scientitic discovery	virtual limb	1
+electroencephalography	digital signal processing	1
+electroencephalography	bio feedback	1
+electroencephalography	control strategy	1
+electroencephalography	gaming	1
+electroencephalography	virtual limb	1
+digital signal processing	bio feedback	1
+digital signal processing	control strategy	1
+digital signal processing	gaming	1
+digital signal processing	virtual limb	1
+bio feedback	control strategy	1
+bio feedback	gaming	1
+bio feedback	virtual limb	1
+control strategy	gaming	1
+control strategy	virtual limb	1
+gaming	virtual limb	1

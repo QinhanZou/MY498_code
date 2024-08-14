@@ -1,0 +1,1305 @@
+Universite Grenoble Alpes	Communaute Universite Grenoble Alpes	6
+Universite Paris Saclay	Centre National de la Recherche Scientifique	5
+Centre National de la Recherche Scientifique	Universite Grenoble Alpes	5
+Centre National de la Recherche Scientifique	Communaute Universite Grenoble Alpes	5
+Harvard University	Harvard Medical School	5
+Ulsan National Institute of Science & Technology	State University of New York	4
+Centre National de la Recherche Scientifique	Institut National Polytechnique de Grenoble	4
+Anna University	Anna University Chennai	4
+University of London	University College London	4
+Universite Grenoble Alpes	Institut National Polytechnique de Grenoble	4
+Communaute Universite Grenoble Alpes	Institut National Polytechnique de Grenoble	4
+National Institute of Information & Communications Technology	Ryukoku University	3
+University of London	King's College London	3
+Deakin University	Hong Kong Polytechnic University	3
+Harvard University	Massachusetts General Hospital	3
+Universidade de Lisboa	INESC	3
+University of Washington	Microsoft	2
+Helmholtz Association	University of Massachusetts Amherst	2
+Helmholtz Association	Helmholtz Center for Environmental Research	2
+Helmholtz Association	German Aerospace Centre	2
+University of Ottawa	Universite de Montreal	2
+University of Ottawa	Children's Hospital of Eastern Ontario	2
+Universite de Montreal	Children's Hospital of Eastern Ontario	2
+Arizona State University	Georgia State University	2
+Centre National de la Recherche Scientifique	Universite Paris	2
+Centre National de la Recherche Scientifique	Universite Sorbonne Nouvelle	2
+Centre National de la Recherche Scientifique	Universite Toulouse III	2
+Centre National de la Recherche Scientifique	Universite de Toulouse	2
+Centre National de la Recherche Scientifique	Universite Federale Toulouse Midi	2
+Centre National de la Recherche Scientifique	Universidad de Extremadura	2
+San Francisco State University	Florida Atlantic University	2
+Columbia University	Massachusetts Institute of Technology	2
+Universidad de Cordoba	Universidad Loyola Andalucia	2
+Institute of Computer Science of the Polish Academy of Sciences	Polish Academy of Sciences	2
+University of Massachusetts Amherst	Helmholtz Center for Environmental Research	2
+University of Massachusetts Amherst	University of Florida	2
+Monash University	Monash University Malaysia	2
+Hong Kong Polytechnic University	Peking University	2
+Consiglio Nazionale delle Ricerche	Istituto di Teoria e Tecniche dell'Informazione Giuridica	2
+Harvard University	Harvard T.H. Chan School of Public Health	2
+Harvard University	Brigham & Women's Hospital	2
+University of Pennsylvania	University of Michigan	2
+Australian Defense Force Academy	University of New South Wales Sydney	2
+Istituto Italiano di Tecnologia	University of Ferrara	2
+Eberhard Karls University Hospital	Eberhard Karls University of Tubingen	2
+Harvard Medical School	Massachusetts General Hospital	2
+Radboud University Nijmegen	Universidade de Lisboa	2
+Radboud University Nijmegen	University of Evora	2
+Radboud University Nijmegen	INESC	2
+Massachusetts General Hospital	Harvard T.H. Chan School of Public Health	2
+Universidade de Lisboa	University of Evora	2
+INESC	University of Evora	2
+US Department of Veterans Affairs	Veterans Health Administration	2
+Brigham Young University	Universidade Federal do Rio Grande do Norte	2
+Brigham Young University	Universidade de Brasilia	2
+Universite Grenoble Alpes	Universidad de Extremadura	2
+Communaute Universite Grenoble Alpes	Universidad de Extremadura	2
+Institut National Polytechnique de Grenoble	Universidad de Extremadura	2
+Institut Polytechnique de Paris	ENSTA Paris	2
+Lovelace Respiratory Research Institute	University of New Mexico	2
+University of Barcelona	Universitat Politecnica de Catalunya	2
+Ghent University	HOGENT University College of Applied Sciences & Arts	2
+Universite Toulouse III	Universite de Toulouse	2
+Universite Toulouse III	Universite Federale Toulouse Midi	2
+Universite de Toulouse	Universite Federale Toulouse Midi	2
+Universidade Federal do Rio Grande do Norte	Universidade de Brasilia	2
+Purdue University	International Business Machines	1
+Purdue University	Cairo University	1
+Purdue University	Egyptian Knowledge Bank	1
+Purdue University	University of Alabama Tuscaloosa	1
+Purdue University	Brown University	1
+Purdue University	Carnegie Mellon University	1
+International Business Machines	Cairo University	1
+International Business Machines	Egyptian Knowledge Bank	1
+International Business Machines	Georgia Institute of Technology	1
+International Business Machines	University of Illinois Urbana	1
+International Business Machines	Graphic Era University	1
+International Business Machines	Indian Institute of Technology	1
+Cairo University	Egyptian Knowledge Bank	1
+Egyptian Knowledge Bank	Assiut University	1
+Egyptian Knowledge Bank	University of Bremen	1
+University of California San Diego	Hong Kong University of Science & Technology	1
+University of California San Diego	Pontificia Universidad Catolica del Peru	1
+University of California San Diego	University of Texas Austin	1
+University of California San Diego	California Institute of Technology	1
+University of California San Diego	Harvard University	1
+University of California San Diego	Syracuse University	1
+University of California San Diego	Yale University	1
+University of California San Diego	Stevens Institute of Technology	1
+Korea Institute of Science & Technology Information	Seoul National University of Science & Technology	1
+Basque Foundation for Science	Aalto University	1
+Basque Foundation for Science	University of Iowa	1
+Basque Foundation for Science	Arcada University of Applied Sciences	1
+Aalto University	University of Iowa	1
+Aalto University	Arcada University of Applied Sciences	1
+University of Iowa	Arcada University of Applied Sciences	1
+University of Iowa	University of Wisconsin Madison	1
+University of Iowa	Harvard Medical School	1
+University of Iowa	Harvard University	1
+University of Iowa	Lovelace Respiratory Research Institute	1
+University of Iowa	Brigham & Women's Hospital	1
+University of Iowa	University of New Mexico	1
+University of Washington	Columbia University	1
+University of Washington	Massachusetts Institute of Technology	1
+Microsoft	University of Southern California	1
+Free University of Berlin	Max Planck Society	1
+Max Planck Society	Universite Paris Cite	1
+Max Planck Society	University of Bucharest	1
+Max Planck Society	University of Cambridge	1
+Max Planck Society	The Santa Fe Institute	1
+Ulsan National Institute of Science & Technology	University of South Carolina Columbia	1
+Ulsan National Institute of Science & Technology	Inha University	1
+Ulsan National Institute of Science & Technology	Korea Institute of Ocean Science & Technology	1
+State University of New York	Miami University	1
+State University of New York	Ohio State University	1
+State University of New York	University of South Carolina Columbia	1
+State University of New York	University College Hospital, Ibadan	1
+State University of New York	Universidad Colegio Mayor de Cundinamarca	1
+State University of New York	CIBER	1
+State University of New York	Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	1
+State University of New York	University of Ibadan	1
+State University of New York	Johnson & Johnson USA	1
+State University of New York	Johnson & Johnson	1
+State University of New York	Massachusetts General Hospital	1
+State University of New York	CIBERESP	1
+State University of New York	University Balamand	1
+State University of New York	Hospital del Mar Research Institute	1
+State University of New York	Ulster University	1
+State University of New York	Harvard University	1
+State University of New York	Harvard T.H. Chan School of Public Health	1
+State University of New York	University of Groningen	1
+State University of New York	Harvard Medical School	1
+State University of New York	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+State University of New York	Hospital del Mar	1
+State University of New York	Universidade Nova de Lisboa	1
+State University of New York	Peking University	1
+State University of New York	University of Otago	1
+State University of New York	Yamagata University	1
+State University of New York	Universidade Federal do Espirito Santo	1
+State University of New York	Pompeu Fabra University	1
+State University of New York	Harbin Normal University	1
+State University of New York	University of Wisconsin Milwaukee	1
+ETH Zurich	Swiss Federal Institutes of Technology Domain	1
+Deutsche Bank	Helmholtz Association	1
+Deutsche Bank	Karlsruhe Institute of Technology	1
+Helmholtz Association	Karlsruhe Institute of Technology	1
+Helmholtz Association	University of Canberra	1
+Helmholtz Association	Humboldt University of Berlin	1
+Helmholtz Association	Indra	1
+Helmholtz Association	Telecom Paris	1
+Helmholtz Association	heSam Universite	1
+Helmholtz Association	IMT	1
+Helmholtz Association	Conservatoire National Arts & Metiers	1
+Helmholtz Association	ENSTA Paris	1
+Helmholtz Association	Institut Polytechnique de Paris	1
+University of Ottawa	University Health Network Toronto	1
+University of Ottawa	Baycrest	1
+University of Ottawa	Sunnybrook Health Science Center	1
+University of Ottawa	Toronto Rehabilitation Institute	1
+University of Ottawa	University of Toronto	1
+University of Ottawa	Sunnybrook Research Institute	1
+Universite de Montreal	University of East Anglia	1
+Universite de Montreal	University of Nottingham	1
+Universite de Montreal	University of Stirling	1
+Universiti Malaya	Najran University	1
+RWTH Aachen University	University of Amsterdam	1
+National Institute of Informatics	Institute of Statistical Mathematics	1
+National Institute of Informatics	University of Tokyo	1
+Marmara University	Trakya University	1
+Aix	University of Turin	1
+Aix	Avignon Universite	1
+Aix	Centre National de la Recherche Scientifique	1
+University of Turin	Vrije Universiteit Amsterdam	1
+University of Turin	EURECOM	1
+University of Turin	IMT	1
+Michigan State University	Ohio State University	1
+Ohio State University	Carnegie Mellon University	1
+Ohio State University	Miami University	1
+Ohio State University	Hautes Etudes Commerciales	1
+Ohio State University	Tel Aviv University	1
+Carnegie Mellon University	Edinboro University	1
+Carnegie Mellon University	Kansas State University	1
+Carnegie Mellon University	University of Munich	1
+Carnegie Mellon University	University of Koblenz & Landau	1
+Carnegie Mellon University	Korea Advanced Institute of Science & Technology	1
+Carnegie Mellon University	University of Edinburgh	1
+Carnegie Mellon University	University of Pittsburgh	1
+Carnegie Mellon University	Arizona State University	1
+Carnegie Mellon University	Universidade Federal do Rio Grande do Sul	1
+Carnegie Mellon University	University of South Carolina Columbia	1
+Carnegie Mellon University	University of Oxford	1
+Carnegie Mellon University	Brown University	1
+United States Department of Defense	Arizona State University	1
+United States Department of Defense	United States Air Force	1
+United States Department of Defense	United States Naval Academy	1
+United States Department of Defense	United States Navy	1
+United States Department of Defense	University of Arizona	1
+United States Department of Defense	KU Leuven	1
+United States Department of Defense	Stanford University	1
+United States Department of Defense	Cold Regions Research & Engineering Laboratory	1
+United States Department of Defense	U.S. Army Engineer Research & Development Center	1
+United States Department of Defense	Dartmouth College	1
+United States Department of Defense	United States Army	1
+United States Department of Defense	U.S. Army Corps of Engineers	1
+Arizona State University	United States Air Force	1
+Arizona State University	University of Quebec	1
+Arizona State University	University of Quebec Montreal	1
+Arizona State University	Regis University	1
+Arizona State University	University of Pittsburgh	1
+University of Alabama Birmingham	University of Colorado Boulder	1
+University of Alabama Birmingham	Auburn University	1
+University of Alabama Birmingham	Veterans Health Administration	1
+University of Alabama Birmingham	US Department of Veterans Affairs	1
+University of Alabama Birmingham	Augusta University	1
+University of Alabama Birmingham	Veterans Affairs Medical Center	1
+National Penghu University of Science & Technology	National Sun Yat Sen University	1
+National Sun Yat Sen University	National Central University	1
+Nanjing University	Shanghai Maritime University	1
+Nanjing University	Jiangsu University	1
+Nanjing University	Nanjing Normal University	1
+Shanghai Maritime University	Jiangsu University	1
+University of Alberta	University of Toronto	1
+University of Alberta	Institute for Work & Health	1
+University of Alberta	University of Manitoba	1
+University of Toronto	Institute for Work & Health	1
+University of Toronto	University of Manitoba	1
+University of Toronto	University of Sydney	1
+University of Toronto	University of Wisconsin Madison	1
+University of Toronto	University Health Network Toronto	1
+University of Toronto	Baycrest	1
+University of Toronto	Sunnybrook Health Science Center	1
+University of Toronto	Toronto Rehabilitation Institute	1
+University of Toronto	Sunnybrook Research Institute	1
+Institute for Work & Health	University of Manitoba	1
+University of Manitoba	University of Victoria	1
+Sun Yat Sen University	Guangdong University of Technology	1
+Sun Yat Sen University	University of London	1
+Sun Yat Sen University	University College London	1
+University of Zurich	University of Aegean	1
+University of Zurich	National Centre of Scientific Research Demokritos	1
+University of Zurich	University of Calgary	1
+University of Zurich	Universite Gustave	1
+University of Zurich	Indiana University Bloomington	1
+University of Aegean	National Centre of Scientific Research Demokritos	1
+University of Aegean	Ionian University	1
+National Taiwan Normal University	National Tsing Hua University	1
+National Taiwan Normal University	National Taiwan University	1
+National Taiwan Normal University	National Dong Hwa University	1
+National Taiwan Normal University	National Cheng Kung University	1
+National Tsing Hua University	National Taiwan University	1
+National Tsing Hua University	National Dong Hwa University	1
+National Tsing Hua University	National Cheng Kung University	1
+National Taiwan University	National Dong Hwa University	1
+National Taiwan University	National Cheng Kung University	1
+National Dong Hwa University	National Cheng Kung University	1
+National Dong Hwa University	University of Pennsylvania	1
+National Dong Hwa University	Iona College	1
+National Cheng Kung University	Chung Hua University	1
+SAP	Hochschule Darmstadt	1
+Universite Paris Saclay	Universite Sorbonne Nouvelle	1
+Universite Paris Saclay	CEA	1
+Universite Paris Saclay	Institut Polytechnique de Paris	1
+Universite Paris Saclay	Ecole Polytechnique	1
+Centre National de la Recherche Scientifique	Ecole des Ponts ParisTech	1
+Centre National de la Recherche Scientifique	Universite Gustave	1
+Centre National de la Recherche Scientifique	ESIEE Paris	1
+Centre National de la Recherche Scientifique	Universidade Federal do Rio Grande do Sul	1
+Centre National de la Recherche Scientifique	Institut Polytechnique de Paris	1
+Centre National de la Recherche Scientifique	Ecole Polytechnique	1
+Centre National de la Recherche Scientifique	Universite Toulouse 1 Capitole	1
+Centre National de la Recherche Scientifique	Institut National des Sciences Appliquees de Toulouse	1
+Centre National de la Recherche Scientifique	Charles University Prague	1
+Centre National de la Recherche Scientifique	Lehigh University	1
+Centre National de la Recherche Scientifique	Universite PSL	1
+Centre National de la Recherche Scientifique	Universite de Lille	1
+Centre National de la Recherche Scientifique	Carl von Ossietzky Universitat Oldenburg	1
+Centre National de la Recherche Scientifique	Universite Claude Bernard Lyon 1	1
+Centre National de la Recherche Scientifique	Universite Jean Monnet	1
+Centre National de la Recherche Scientifique	CHU Lyon	1
+Centre National de la Recherche Scientifique	Institut National de la Sante et de la Recherche Medicale	1
+Centre National de la Recherche Scientifique	Universite de Rennes	1
+Centre National de la Recherche Scientifique	Vrije Universiteit Brussel	1
+Centre National de la Recherche Scientifique	Fondazione Edmund Mach	1
+Centre National de la Recherche Scientifique	Autonomous University of Madrid	1
+Centre National de la Recherche Scientifique	Universite Savoie Mont Blanc	1
+Centre National de la Recherche Scientifique	Universite Catholique Louvain	1
+Centre National de la Recherche Scientifique	Instituto de Telecomunicacoes	1
+Centre National de la Recherche Scientifique	Universidade de Lisboa	1
+Centre National de la Recherche Scientifique	University of Florida	1
+Centre National de la Recherche Scientifique	Institut National Polytechnique de Toulouse	1
+Centre National de la Recherche Scientifique	University of Massachusetts Amherst	1
+Centre National de la Recherche Scientifique	Mississippi State University	1
+Centre National de la Recherche Scientifique	University of Pavia	1
+Centre National de la Recherche Scientifique	University of Iceland	1
+Tottori University	National Institute of Information & Communications Technology	1
+Tottori University	Ryukoku University	1
+Tottori University	Future University Hakodate	1
+Tottori University	University of Tokyo	1
+National Institute of Information & Communications Technology	Future University Hakodate	1
+National Institute of Information & Communications Technology	University of Tokyo	1
+National Institute of Information & Communications Technology	Nagoya University	1
+Ryukoku University	Future University Hakodate	1
+Ryukoku University	University of Tokyo	1
+Future University Hakodate	University of Tokyo	1
+Future University Hakodate	Chiba University	1
+University of Tokyo	National Institute of Advanced Industrial Science & Technology	1
+University of Oklahoma	Illinois State University	1
+University of Oklahoma	University of Arizona	1
+Illinois State University	University of Arizona	1
+University of Arizona	Chinese Academy of Sciences	1
+University of Arizona	Shandong Jianzhu University	1
+University of Arizona	Institute of Automation, CAS	1
+University of Arizona	United States Naval Academy	1
+University of Arizona	United States Navy	1
+University of Arizona	KU Leuven	1
+University of Arizona	Stanford University	1
+University of Arizona	University of California Los Angeles	1
+University of Arizona	Northwestern University	1
+University of Arizona	Anna University	1
+University of Arizona	Aarhus University	1
+University of Arizona	Anna University Chennai	1
+Georgia State University	University of Quebec	1
+Georgia State University	University of Quebec Montreal	1
+Georgia State University	Washington State University	1
+University of South Carolina Columbia	Sabanci University	1
+University of South Carolina Columbia	Oklahoma State University	1
+University of South Carolina Columbia	Pennsylvania State University	1
+University of South Carolina Columbia	Massachusetts Institute of Technology	1
+University of South Carolina Columbia	Universidade Federal do Rio Grande do Sul	1
+University of Quebec	University of Quebec Montreal	1
+Columbia University	Saint John's University	1
+Columbia University	Yale University	1
+Columbia University	New York State Psychiatry Institute	1
+Columbia University	Hunter College	1
+Columbia University	University of Illinois Urbana	1
+Columbia University	Northwestern University	1
+Columbia University	Institut Polytechnique de Paris	1
+Columbia University	ENSTA Paris	1
+Columbia University	Inria	1
+Columbia University	Augusta University	1
+Massachusetts Institute of Technology	Rutgers University New Brunswick	1
+Massachusetts Institute of Technology	Rutgers University Camden	1
+Massachusetts Institute of Technology	Brigham Young University	1
+Massachusetts Institute of Technology	Cyprus University of Technology	1
+Massachusetts Institute of Technology	Pennsylvania State University	1
+Massachusetts Institute of Technology	University of Massachusetts Amherst	1
+Massachusetts Institute of Technology	University of Adelaide	1
+Massachusetts Institute of Technology	University of California Berkeley	1
+Yahoo! Inc	Yahoo! Inc United States	1
+National University of Science & Technology POLITEHNICA Bucharest	Romanian Academy of Sciences	1
+National University of Science & Technology POLITEHNICA Bucharest	Research Institute Artificial Intelligence Mihai Draganescu	1
+National University of Science & Technology POLITEHNICA Bucharest	University of Pitesti	1
+Romanian Academy of Sciences	Research Institute Artificial Intelligence Mihai Draganescu	1
+University of Massachusetts Amherst	University of Canberra	1
+University of Massachusetts Amherst	Humboldt University of Berlin	1
+University of Massachusetts Amherst	Instituto de Telecomunicacoes	1
+University of Massachusetts Amherst	Universidade de Lisboa	1
+University of Massachusetts Amherst	Universidad de Extremadura	1
+University of Massachusetts Amherst	Institut National Polytechnique de Toulouse	1
+University of Massachusetts Amherst	Universite Grenoble Alpes	1
+University of Massachusetts Amherst	Communaute Universite Grenoble Alpes	1
+University of Massachusetts Amherst	Institut National Polytechnique de Grenoble	1
+University of Massachusetts Amherst	Universite Toulouse III	1
+University of Massachusetts Amherst	Universite de Toulouse	1
+University of Massachusetts Amherst	Mississippi State University	1
+University of Massachusetts Amherst	Universite Federale Toulouse Midi	1
+Helmholtz Center for Environmental Research	University of Canberra	1
+Helmholtz Center for Environmental Research	Humboldt University of Berlin	1
+Humboldt University of Berlin	Boston University	1
+Universite Paris	Lehigh University	1
+Universite Paris	Universite PSL	1
+Universite Paris Cite	University of Bucharest	1
+Universite Paris Cite	Ecole Normale Superieure	1
+Universite Paris Cite	Universite PSL	1
+Universite Paris Cite	Inria	1
+Anna University	Aarhus University	1
+Anna University Chennai	Aarhus University	1
+National Central University	National Chengchi University	1
+Chinese Academy of Sciences	Brunel University	1
+Chinese Academy of Sciences	Shandong Jianzhu University	1
+Chinese Academy of Sciences	Institute of Automation, CAS	1
+Chinese Academy of Sciences	Harbin Normal University	1
+Chinese Academy of Sciences	Northeast Institute of Geography & Agroecology, CAS	1
+Chinese Academy of Sciences	Innovation Academy for Precision Measurement Science & Technology, CAS	1
+Chinese Academy of Sciences	China University of Geosciences	1
+Monash University	Bentley University	1
+Monash University	Simon Fraser University	1
+Monash University	Universite Libre de Bruxelles	1
+Bentley University	Simon Fraser University	1
+Duke University	Universidad de Cantabria	1
+Duke University	National Institute of Water & Atmospheric Research	1
+Duke University	IHCantabria	1
+Duke University	Harvard Medical School	1
+Duke University	Virginia Polytechnic Institute & State University	1
+Duke University	Erasmus University Rotterdam	1
+Duke University	National University of Singapore	1
+Duke University	University of Pennsylvania	1
+Duke University	Harvard University	1
+Duke University	University of Michigan	1
+Duke University	Radboud University Nijmegen	1
+Duke University	University of California Berkeley	1
+Duke University	Stanford University	1
+Universidad de Cantabria	National Institute of Water & Atmospheric Research	1
+Universidad de Cantabria	IHCantabria	1
+Universidad de Cantabria	Universidad de Castilla	1
+Universidad de Cantabria	University of Oviedo	1
+National Institute of Water & Atmospheric Research	IHCantabria	1
+University of London	Birkbeck University London	1
+University of London	McGill University	1
+University of London	University of Florida	1
+University of London	University of California San Francisco	1
+University of London	University of Manchester	1
+University of London	University of Sussex	1
+University of London	University of Edinburgh	1
+University of London	South London & Maudsley NHS Trust	1
+King's College London	Birkbeck University London	1
+King's College London	McGill University	1
+King's College London	University of Manchester	1
+King's College London	South London & Maudsley NHS Trust	1
+Birkbeck University London	McGill University	1
+McGill University	University of Utah	1
+Yuan Ze University	California State University Long Beach	1
+Yuan Ze University	Harbin Institute of Technology	1
+Yuan Ze University	Hong Kong Polytechnic University	1
+Yuan Ze University	Mingdao University	1
+California State University Long Beach	Harbin Institute of Technology	1
+Georgia Institute of Technology	University of Illinois Urbana	1
+Georgia Institute of Technology	Graphic Era University	1
+University of Illinois Urbana	Graphic Era University	1
+University of Illinois Urbana	Northwestern University	1
+Technical University of Munich	Siemens Germany	1
+Technical University of Munich	Siemens AG	1
+Technical University of Munich	Imperial College London	1
+Siemens Germany	Siemens AG	1
+Hong Kong Polytechnic University	Academia Sinica	1
+Hong Kong Polytechnic University	German Research Center for Artificial Intelligence	1
+Hong Kong Polytechnic University	Saarland University	1
+Southwestern University of Finance & Economics	University of Electronic Science & Technology of China	1
+University of Electronic Science & Technology of China	Jiangxi University of Finance & Economics	1
+University of Electronic Science & Technology of China	Central South University	1
+Universita Ca Foscari Venezia	Istituto Nazionale per Studi ed Esperienze di Architettura Navale	1
+Universita Ca Foscari Venezia	Consiglio Nazionale delle Ricerche	1
+Istituto Nazionale per Studi ed Esperienze di Architettura Navale	Consiglio Nazionale delle Ricerche	1
+Consiglio Nazionale delle Ricerche	Istituto di Linguistica Computazionale A. Zampolli	1
+Leipzig University	University of South Africa	1
+Leipzig University	University of Cologne	1
+Leipzig University	University of Wurzburg	1
+Leipzig University	Eberhard Karls University Hospital	1
+Leipzig University	University of Florida	1
+Leipzig University	Eberhard Karls University of Tubingen	1
+University of Rome Tor Vergata	Bucharest University of Economic Studies	1
+Zhejiang University of Technology	Zhejiang University	1
+Xiamen University	Beihang University	1
+Xiamen University	University of Waterloo	1
+University of Texas Austin	California Institute of Technology	1
+University of Texas Austin	Harvard University	1
+University of Texas Austin	Syracuse University	1
+University of Texas Austin	Yale University	1
+California Institute of Technology	Harvard University	1
+California Institute of Technology	Syracuse University	1
+California Institute of Technology	Yale University	1
+Harvard University	Syracuse University	1
+Harvard University	Yale University	1
+Harvard University	Virginia Polytechnic Institute & State University	1
+Harvard University	Erasmus University Rotterdam	1
+Harvard University	National University of Singapore	1
+Harvard University	University of Pennsylvania	1
+Harvard University	University of Michigan	1
+Harvard University	Radboud University Nijmegen	1
+Harvard University	University of California Berkeley	1
+Harvard University	Stanford University	1
+Harvard University	University College Hospital, Ibadan	1
+Harvard University	Universidad Colegio Mayor de Cundinamarca	1
+Harvard University	CIBER	1
+Harvard University	Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	1
+Harvard University	University of Ibadan	1
+Harvard University	Johnson & Johnson USA	1
+Harvard University	Johnson & Johnson	1
+Harvard University	CIBERESP	1
+Harvard University	University Balamand	1
+Harvard University	Hospital del Mar Research Institute	1
+Harvard University	Ulster University	1
+Harvard University	University of Groningen	1
+Harvard University	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Harvard University	Hospital del Mar	1
+Harvard University	Universidade Nova de Lisboa	1
+Harvard University	Peking University	1
+Harvard University	University of Otago	1
+Harvard University	Yamagata University	1
+Harvard University	Universidade Federal do Espirito Santo	1
+Harvard University	Pompeu Fabra University	1
+Harvard University	University of Florence	1
+Harvard University	University of L'Aquila	1
+Harvard University	Schepens Eye Research Institute	1
+Harvard University	University of Lubeck	1
+Harvard University	Lovelace Respiratory Research Institute	1
+Harvard University	University of New Mexico	1
+Harvard University	Icahn School of Medicine at Mount Sinai	1
+Syracuse University	Yale University	1
+Yale University	Lovelace Respiratory Research Institute	1
+Yale University	Northwestern Polytechnical University	1
+Yale University	University of New Mexico	1
+German Research Center for Artificial Intelligence	Charles University Prague	1
+German Research Center for Artificial Intelligence	Dublin City University	1
+German Research Center for Artificial Intelligence	Peking University	1
+German Research Center for Artificial Intelligence	Academia Sinica	1
+German Research Center for Artificial Intelligence	Saarland University	1
+Charles University Prague	Dublin City University	1
+Charles University Prague	Universite Toulouse 1 Capitole	1
+Charles University Prague	Institut National des Sciences Appliquees de Toulouse	1
+Charles University Prague	Universite Toulouse III	1
+Charles University Prague	Universite de Toulouse	1
+Charles University Prague	Universite Federale Toulouse Midi	1
+Universiti Utara Malaysia	Universiti Tenaga Nasional	1
+University College London	University of Sussex	1
+University College London	University of Edinburgh	1
+Dokuz Eylul University	Ege University	1
+Dokuz Eylul University	Izmir Institute of Technology	1
+Ege University	Izmir Institute of Technology	1
+Ruprecht Karls University Heidelberg	Institut fur Deutsche Sprache	1
+Ruprecht Karls University Heidelberg	University of Trento	1
+Ruprecht Karls University Heidelberg	Eberhard Karls University of Tubingen	1
+Institut fur Deutsche Sprache	Technische Universitat Dresden	1
+University of Pennsylvania	Saint Anna Children's Hospital	1
+University of Pennsylvania	Technische Universitat Wien	1
+University of Pennsylvania	Medical University of Vienna	1
+University of Pennsylvania	Iona College	1
+University of Pennsylvania	Harvard Medical School	1
+University of Pennsylvania	Virginia Polytechnic Institute & State University	1
+University of Pennsylvania	Erasmus University Rotterdam	1
+University of Pennsylvania	National University of Singapore	1
+University of Pennsylvania	Radboud University Nijmegen	1
+University of Pennsylvania	University of California Berkeley	1
+University of Pennsylvania	Stanford University	1
+University of Pennsylvania	Nanjing Medical University	1
+University of Pennsylvania	Southeast University	1
+Saint Anna Children's Hospital	Technische Universitat Wien	1
+Saint Anna Children's Hospital	Medical University of Vienna	1
+Technische Universitat Wien	Medical University of Vienna	1
+Stellantis Italy	Universita di Modena e Reggio Emilia	1
+Stellantis Italy	Stellantis N.V.	1
+Universita di Modena e Reggio Emilia	Stellantis N.V.	1
+NIH National Institute on Drug Abuse	NIH National Institute on Aging	1
+NIH National Institute on Drug Abuse	National Institutes of Health	1
+NIH National Institute on Aging	National Institutes of Health	1
+Universite Sorbonne Nouvelle	Ecole des Ponts ParisTech	1
+Universite Sorbonne Nouvelle	Universite Gustave	1
+Universite Sorbonne Nouvelle	ESIEE Paris	1
+Vrije Universiteit Amsterdam	EURECOM	1
+Vrije Universiteit Amsterdam	IMT	1
+Vrije Universiteit Amsterdam	Radboud University Nijmegen	1
+Vrije Universiteit Amsterdam	Tilburg University	1
+EURECOM	IMT	1
+IMT	Telecom Paris	1
+IMT	heSam Universite	1
+IMT	German Aerospace Centre	1
+IMT	Conservatoire National Arts & Metiers	1
+IMT	ENSTA Paris	1
+IMT	Institut Polytechnique de Paris	1
+Tianjin University	Nanyang Technological University	1
+Nanyang Technological University	Ohio University	1
+Nanyang Technological University	Silesian University of Technology	1
+Nanyang Technological University	Institut Superieur de l'Aeronautique et de l'Espace	1
+Nanyang Technological University	National University of Singapore	1
+Nanyang Technological University	National Office for Aerospace Studies & Research	1
+Nanyang Technological University	Universite Gustave	1
+Nanyang Technological University	Universite de Toulouse	1
+University of Wolverhampton	Xerox	1
+Xerox	Linkoping University	1
+Xerox	Uppsala University	1
+University of Michigan	Harvard Medical School	1
+University of Michigan	Virginia Polytechnic Institute & State University	1
+University of Michigan	Erasmus University Rotterdam	1
+University of Michigan	National University of Singapore	1
+University of Michigan	Radboud University Nijmegen	1
+University of Michigan	University of California Berkeley	1
+University of Michigan	Stanford University	1
+University of Michigan	University of California Los Angeles	1
+Consejo Superior de Investigaciones Cientificas	University of Deusto	1
+Consejo Superior de Investigaciones Cientificas	Complutense University of Madrid	1
+Consejo Superior de Investigaciones Cientificas	Autonomous University of Madrid	1
+Consejo Superior de Investigaciones Cientificas	University of Copenhagen	1
+Hautes Etudes Commerciales	Tel Aviv University	1
+Tel Aviv University	Brown University	1
+Tel Aviv University	Bar Ilan University	1
+Tel Aviv University	Chaim Sheba Medical Center	1
+Tel Aviv University	Shamir Medical Center	1
+Istituto Italiano di Tecnologia	University of Genoa	1
+Istituto Italiano di Tecnologia	University of Plymouth	1
+University of Genoa	University of Ferrara	1
+University of Ferrara	University of Plymouth	1
+Eberhard Karls University Hospital	Fraunhofer Gesellschaft	1
+Eberhard Karls University Hospital	University of Wurzburg	1
+Eberhard Karls University Hospital	University of Florida	1
+Fraunhofer Gesellschaft	Eberhard Karls University of Tubingen	1
+Eberhard Karls University of Tubingen	University of Trento	1
+Eberhard Karls University of Tubingen	Ulm University	1
+Eberhard Karls University of Tubingen	University of Wurzburg	1
+Eberhard Karls University of Tubingen	University of Florida	1
+University of Trento	Jadavpur University	1
+University of Trento	University of Gothenburg	1
+University of Trento	University of Buenos Aires	1
+University of Trento	Fondazione Bruno Kessler	1
+University of Trento	University of Essex	1
+University of Trento	University of Strathclyde	1
+University of Oxford	Karolinska Institutet	1
+Shanghai Jiao Tong University	Ollscoil na Gaillimhe	1
+Shanghai Jiao Tong University	Xinjiang University	1
+Shanghai Jiao Tong University	Auckland University of Technology	1
+University of Oslo	City University of Hong Kong	1
+University of Oslo	University of Wurzburg	1
+University of Oslo	Technical University of Berlin	1
+University of Oslo	Natural Resources Institute Finland	1
+University of Oslo	University of Oulu	1
+University of Sydney	University of Wisconsin Madison	1
+University of Sydney	University of Minnesota Twin Cities	1
+University of Sydney	Singapore University of Technology & Design	1
+University of Sydney	National University of Singapore	1
+University of Wisconsin Madison	Stanford University	1
+Inha University	Korea Institute of Ocean Science & Technology	1
+National Taiwan University of Science & Technology	Intel Corporation	1
+Parthenope University Naples	University of Milan	1
+Harvard Medical School	Virginia Polytechnic Institute & State University	1
+Harvard Medical School	Erasmus University Rotterdam	1
+Harvard Medical School	National University of Singapore	1
+Harvard Medical School	Radboud University Nijmegen	1
+Harvard Medical School	University of California Berkeley	1
+Harvard Medical School	Stanford University	1
+Harvard Medical School	University College Hospital, Ibadan	1
+Harvard Medical School	Universidad Colegio Mayor de Cundinamarca	1
+Harvard Medical School	CIBER	1
+Harvard Medical School	Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	1
+Harvard Medical School	University of Ibadan	1
+Harvard Medical School	Johnson & Johnson USA	1
+Harvard Medical School	Johnson & Johnson	1
+Harvard Medical School	CIBERESP	1
+Harvard Medical School	University Balamand	1
+Harvard Medical School	Hospital del Mar Research Institute	1
+Harvard Medical School	Ulster University	1
+Harvard Medical School	Harvard T.H. Chan School of Public Health	1
+Harvard Medical School	University of Groningen	1
+Harvard Medical School	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Harvard Medical School	Hospital del Mar	1
+Harvard Medical School	Universidade Nova de Lisboa	1
+Harvard Medical School	Peking University	1
+Harvard Medical School	University of Otago	1
+Harvard Medical School	Yamagata University	1
+Harvard Medical School	Universidade Federal do Espirito Santo	1
+Harvard Medical School	Pompeu Fabra University	1
+Harvard Medical School	University of Florence	1
+Harvard Medical School	University of L'Aquila	1
+Harvard Medical School	Schepens Eye Research Institute	1
+Harvard Medical School	University of Lubeck	1
+Harvard Medical School	Lovelace Respiratory Research Institute	1
+Harvard Medical School	Brigham & Women's Hospital	1
+Harvard Medical School	University of New Mexico	1
+Virginia Polytechnic Institute & State University	Erasmus University Rotterdam	1
+Virginia Polytechnic Institute & State University	National University of Singapore	1
+Virginia Polytechnic Institute & State University	Radboud University Nijmegen	1
+Virginia Polytechnic Institute & State University	University of California Berkeley	1
+Virginia Polytechnic Institute & State University	Stanford University	1
+Erasmus University Rotterdam	National University of Singapore	1
+Erasmus University Rotterdam	Radboud University Nijmegen	1
+Erasmus University Rotterdam	University of California Berkeley	1
+Erasmus University Rotterdam	Stanford University	1
+National University of Singapore	Radboud University Nijmegen	1
+National University of Singapore	University of California Berkeley	1
+National University of Singapore	Stanford University	1
+National University of Singapore	University of Minnesota Twin Cities	1
+National University of Singapore	Singapore University of Technology & Design	1
+National University of Singapore	Institut Superieur de l'Aeronautique et de l'Espace	1
+National University of Singapore	National Office for Aerospace Studies & Research	1
+National University of Singapore	Universite Gustave	1
+National University of Singapore	Universite de Toulouse	1
+Radboud University Nijmegen	University of California Berkeley	1
+Radboud University Nijmegen	Stanford University	1
+Radboud University Nijmegen	Tilburg University	1
+Radboud University Nijmegen	Ghent University	1
+Radboud University Nijmegen	University of Turku	1
+University of California Berkeley	Stanford University	1
+University of California Berkeley	Google Incorporated	1
+University of California Berkeley	Apple Inc	1
+University of California Berkeley	University of Adelaide	1
+Stanford University	United States Naval Academy	1
+Stanford University	United States Navy	1
+Stanford University	KU Leuven	1
+Stanford University	Stanford Cancer Institute	1
+Fujitsu Ltd	Fujitsu Laboratories Ltd	1
+Ecole des Ponts ParisTech	Universite Gustave	1
+Ecole des Ponts ParisTech	ESIEE Paris	1
+Universite Gustave	ESIEE Paris	1
+Universite Gustave	University of Calgary	1
+Universite Gustave	Institut Superieur de l'Aeronautique et de l'Espace	1
+Universite Gustave	National Office for Aerospace Studies & Research	1
+Universite Gustave	Universite de Toulouse	1
+California State Polytechnic University Pomona	University of Utah	1
+Franklin & Marshall College	University of Maryland Baltimore County	1
+Universites de Strasbourg Etablissements Associes	Universite de Strasbourg	1
+Masaryk University Brno	Prague University of Economics & Business	1
+University College Hospital, Ibadan	Universidad Colegio Mayor de Cundinamarca	1
+University College Hospital, Ibadan	CIBER	1
+University College Hospital, Ibadan	Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	1
+University College Hospital, Ibadan	University of Ibadan	1
+University College Hospital, Ibadan	Johnson & Johnson USA	1
+University College Hospital, Ibadan	Johnson & Johnson	1
+University College Hospital, Ibadan	Massachusetts General Hospital	1
+University College Hospital, Ibadan	CIBERESP	1
+University College Hospital, Ibadan	University Balamand	1
+University College Hospital, Ibadan	Hospital del Mar Research Institute	1
+University College Hospital, Ibadan	Ulster University	1
+University College Hospital, Ibadan	Harvard T.H. Chan School of Public Health	1
+University College Hospital, Ibadan	University of Groningen	1
+University College Hospital, Ibadan	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+University College Hospital, Ibadan	Hospital del Mar	1
+University College Hospital, Ibadan	Universidade Nova de Lisboa	1
+University College Hospital, Ibadan	Peking University	1
+University College Hospital, Ibadan	University of Otago	1
+University College Hospital, Ibadan	Yamagata University	1
+University College Hospital, Ibadan	Universidade Federal do Espirito Santo	1
+University College Hospital, Ibadan	Pompeu Fabra University	1
+Universidad Colegio Mayor de Cundinamarca	CIBER	1
+Universidad Colegio Mayor de Cundinamarca	Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	1
+Universidad Colegio Mayor de Cundinamarca	University of Ibadan	1
+Universidad Colegio Mayor de Cundinamarca	Johnson & Johnson USA	1
+Universidad Colegio Mayor de Cundinamarca	Johnson & Johnson	1
+Universidad Colegio Mayor de Cundinamarca	Massachusetts General Hospital	1
+Universidad Colegio Mayor de Cundinamarca	CIBERESP	1
+Universidad Colegio Mayor de Cundinamarca	University Balamand	1
+Universidad Colegio Mayor de Cundinamarca	Hospital del Mar Research Institute	1
+Universidad Colegio Mayor de Cundinamarca	Ulster University	1
+Universidad Colegio Mayor de Cundinamarca	Harvard T.H. Chan School of Public Health	1
+Universidad Colegio Mayor de Cundinamarca	University of Groningen	1
+Universidad Colegio Mayor de Cundinamarca	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Universidad Colegio Mayor de Cundinamarca	Hospital del Mar	1
+Universidad Colegio Mayor de Cundinamarca	Universidade Nova de Lisboa	1
+Universidad Colegio Mayor de Cundinamarca	Peking University	1
+Universidad Colegio Mayor de Cundinamarca	University of Otago	1
+Universidad Colegio Mayor de Cundinamarca	Yamagata University	1
+Universidad Colegio Mayor de Cundinamarca	Universidade Federal do Espirito Santo	1
+Universidad Colegio Mayor de Cundinamarca	Pompeu Fabra University	1
+CIBER	Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	1
+CIBER	University of Ibadan	1
+CIBER	Johnson & Johnson USA	1
+CIBER	Johnson & Johnson	1
+CIBER	Massachusetts General Hospital	1
+CIBER	CIBERESP	1
+CIBER	University Balamand	1
+CIBER	Hospital del Mar Research Institute	1
+CIBER	Ulster University	1
+CIBER	Harvard T.H. Chan School of Public Health	1
+CIBER	University of Groningen	1
+CIBER	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+CIBER	Hospital del Mar	1
+CIBER	Universidade Nova de Lisboa	1
+CIBER	Peking University	1
+CIBER	University of Otago	1
+CIBER	Yamagata University	1
+CIBER	Universidade Federal do Espirito Santo	1
+CIBER	Pompeu Fabra University	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	University of Ibadan	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Johnson & Johnson USA	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Johnson & Johnson	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Massachusetts General Hospital	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	CIBERESP	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	University Balamand	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Hospital del Mar Research Institute	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Ulster University	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Harvard T.H. Chan School of Public Health	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	University of Groningen	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Hospital del Mar	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Universidade Nova de Lisboa	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Peking University	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	University of Otago	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Yamagata University	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Universidade Federal do Espirito Santo	1
+Instituto Nacional de Psiquiatria Ramon de la Fuente Muniz	Pompeu Fabra University	1
+University of Ibadan	Johnson & Johnson USA	1
+University of Ibadan	Johnson & Johnson	1
+University of Ibadan	Massachusetts General Hospital	1
+University of Ibadan	CIBERESP	1
+University of Ibadan	University Balamand	1
+University of Ibadan	Hospital del Mar Research Institute	1
+University of Ibadan	Ulster University	1
+University of Ibadan	Harvard T.H. Chan School of Public Health	1
+University of Ibadan	University of Groningen	1
+University of Ibadan	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+University of Ibadan	Hospital del Mar	1
+University of Ibadan	Universidade Nova de Lisboa	1
+University of Ibadan	Peking University	1
+University of Ibadan	University of Otago	1
+University of Ibadan	Yamagata University	1
+University of Ibadan	Universidade Federal do Espirito Santo	1
+University of Ibadan	Pompeu Fabra University	1
+Johnson & Johnson USA	Johnson & Johnson	1
+Johnson & Johnson USA	Massachusetts General Hospital	1
+Johnson & Johnson USA	CIBERESP	1
+Johnson & Johnson USA	University Balamand	1
+Johnson & Johnson USA	Hospital del Mar Research Institute	1
+Johnson & Johnson USA	Ulster University	1
+Johnson & Johnson USA	Harvard T.H. Chan School of Public Health	1
+Johnson & Johnson USA	University of Groningen	1
+Johnson & Johnson USA	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Johnson & Johnson USA	Hospital del Mar	1
+Johnson & Johnson USA	Universidade Nova de Lisboa	1
+Johnson & Johnson USA	Peking University	1
+Johnson & Johnson USA	University of Otago	1
+Johnson & Johnson USA	Yamagata University	1
+Johnson & Johnson USA	Universidade Federal do Espirito Santo	1
+Johnson & Johnson USA	Pompeu Fabra University	1
+Johnson & Johnson	Massachusetts General Hospital	1
+Johnson & Johnson	CIBERESP	1
+Johnson & Johnson	University Balamand	1
+Johnson & Johnson	Hospital del Mar Research Institute	1
+Johnson & Johnson	Ulster University	1
+Johnson & Johnson	Harvard T.H. Chan School of Public Health	1
+Johnson & Johnson	University of Groningen	1
+Johnson & Johnson	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Johnson & Johnson	Hospital del Mar	1
+Johnson & Johnson	Universidade Nova de Lisboa	1
+Johnson & Johnson	Peking University	1
+Johnson & Johnson	University of Otago	1
+Johnson & Johnson	Yamagata University	1
+Johnson & Johnson	Universidade Federal do Espirito Santo	1
+Johnson & Johnson	Pompeu Fabra University	1
+Massachusetts General Hospital	CIBERESP	1
+Massachusetts General Hospital	University Balamand	1
+Massachusetts General Hospital	Hospital del Mar Research Institute	1
+Massachusetts General Hospital	Ulster University	1
+Massachusetts General Hospital	University of Groningen	1
+Massachusetts General Hospital	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Massachusetts General Hospital	Hospital del Mar	1
+Massachusetts General Hospital	Universidade Nova de Lisboa	1
+Massachusetts General Hospital	Peking University	1
+Massachusetts General Hospital	University of Otago	1
+Massachusetts General Hospital	Yamagata University	1
+Massachusetts General Hospital	Universidade Federal do Espirito Santo	1
+Massachusetts General Hospital	Pompeu Fabra University	1
+Massachusetts General Hospital	University of Florence	1
+Massachusetts General Hospital	University of L'Aquila	1
+Massachusetts General Hospital	Icahn School of Medicine at Mount Sinai	1
+Massachusetts General Hospital	Brigham & Women's Hospital	1
+CIBERESP	University Balamand	1
+CIBERESP	Hospital del Mar Research Institute	1
+CIBERESP	Ulster University	1
+CIBERESP	Harvard T.H. Chan School of Public Health	1
+CIBERESP	University of Groningen	1
+CIBERESP	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+CIBERESP	Hospital del Mar	1
+CIBERESP	Universidade Nova de Lisboa	1
+CIBERESP	Peking University	1
+CIBERESP	University of Otago	1
+CIBERESP	Yamagata University	1
+CIBERESP	Universidade Federal do Espirito Santo	1
+CIBERESP	Pompeu Fabra University	1
+University Balamand	Hospital del Mar Research Institute	1
+University Balamand	Ulster University	1
+University Balamand	Harvard T.H. Chan School of Public Health	1
+University Balamand	University of Groningen	1
+University Balamand	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+University Balamand	Hospital del Mar	1
+University Balamand	Universidade Nova de Lisboa	1
+University Balamand	Peking University	1
+University Balamand	University of Otago	1
+University Balamand	Yamagata University	1
+University Balamand	Universidade Federal do Espirito Santo	1
+University Balamand	Pompeu Fabra University	1
+Hospital del Mar Research Institute	Ulster University	1
+Hospital del Mar Research Institute	Harvard T.H. Chan School of Public Health	1
+Hospital del Mar Research Institute	University of Groningen	1
+Hospital del Mar Research Institute	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Hospital del Mar Research Institute	Hospital del Mar	1
+Hospital del Mar Research Institute	Universidade Nova de Lisboa	1
+Hospital del Mar Research Institute	Peking University	1
+Hospital del Mar Research Institute	University of Otago	1
+Hospital del Mar Research Institute	Yamagata University	1
+Hospital del Mar Research Institute	Universidade Federal do Espirito Santo	1
+Hospital del Mar Research Institute	Pompeu Fabra University	1
+Ulster University	Harvard T.H. Chan School of Public Health	1
+Ulster University	University of Groningen	1
+Ulster University	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Ulster University	Hospital del Mar	1
+Ulster University	Universidade Nova de Lisboa	1
+Ulster University	Peking University	1
+Ulster University	University of Otago	1
+Ulster University	Yamagata University	1
+Ulster University	Universidade Federal do Espirito Santo	1
+Ulster University	Pompeu Fabra University	1
+Harvard T.H. Chan School of Public Health	University of Groningen	1
+Harvard T.H. Chan School of Public Health	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+Harvard T.H. Chan School of Public Health	Hospital del Mar	1
+Harvard T.H. Chan School of Public Health	Universidade Nova de Lisboa	1
+Harvard T.H. Chan School of Public Health	Peking University	1
+Harvard T.H. Chan School of Public Health	University of Otago	1
+Harvard T.H. Chan School of Public Health	Yamagata University	1
+Harvard T.H. Chan School of Public Health	Universidade Federal do Espirito Santo	1
+Harvard T.H. Chan School of Public Health	Pompeu Fabra University	1
+Harvard T.H. Chan School of Public Health	Icahn School of Medicine at Mount Sinai	1
+Harvard T.H. Chan School of Public Health	Brigham & Women's Hospital	1
+University of Groningen	Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	1
+University of Groningen	Hospital del Mar	1
+University of Groningen	Universidade Nova de Lisboa	1
+University of Groningen	Peking University	1
+University of Groningen	University of Otago	1
+University of Groningen	Yamagata University	1
+University of Groningen	Universidade Federal do Espirito Santo	1
+University of Groningen	Pompeu Fabra University	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	Hospital del Mar	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	Universidade Nova de Lisboa	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	Peking University	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	University of Otago	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	Yamagata University	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	Universidade Federal do Espirito Santo	1
+Shenzhen Institute of Mental Health & Shenzhen Kangning Hospital	Pompeu Fabra University	1
+Hospital del Mar	Universidade Nova de Lisboa	1
+Hospital del Mar	Peking University	1
+Hospital del Mar	University of Otago	1
+Hospital del Mar	Yamagata University	1
+Hospital del Mar	Universidade Federal do Espirito Santo	1
+Hospital del Mar	Pompeu Fabra University	1
+Universidade Nova de Lisboa	Peking University	1
+Universidade Nova de Lisboa	University of Otago	1
+Universidade Nova de Lisboa	Yamagata University	1
+Universidade Nova de Lisboa	Universidade Federal do Espirito Santo	1
+Universidade Nova de Lisboa	Pompeu Fabra University	1
+Peking University	University of Otago	1
+Peking University	Yamagata University	1
+Peking University	Universidade Federal do Espirito Santo	1
+Peking University	Pompeu Fabra University	1
+Peking University	Academia Sinica	1
+Peking University	Saarland University	1
+Peking University	East China Normal University	1
+University of Otago	Yamagata University	1
+University of Otago	Universidade Federal do Espirito Santo	1
+University of Otago	Pompeu Fabra University	1
+Yamagata University	Universidade Federal do Espirito Santo	1
+Yamagata University	Pompeu Fabra University	1
+Universidade Federal do Espirito Santo	Pompeu Fabra University	1
+Pompeu Fabra University	ICREA	1
+James Cook University	University of Nottingham Ningbo China	1
+University Hospital Leuven	KU Leuven	1
+University Hospital Leuven	University of Minnesota Twin Cities	1
+KU Leuven	University of Minnesota Twin Cities	1
+KU Leuven	University of Antwerp	1
+KU Leuven	University of Zagreb	1
+KU Leuven	University of Florence	1
+KU Leuven	University of Freiburg	1
+KU Leuven	United States Naval Academy	1
+KU Leuven	United States Navy	1
+University of Minnesota Twin Cities	Singapore University of Technology & Design	1
+University of California Merced	University of Kansas	1
+Universidade de Lisboa	Universidade de Sao Paulo	1
+Universidade de Lisboa	Instituto de Telecomunicacoes	1
+Universidade de Lisboa	Universidad de Extremadura	1
+Universidade de Lisboa	University of Florida	1
+Universidade de Lisboa	Institut National Polytechnique de Toulouse	1
+Universidade de Lisboa	Universite Grenoble Alpes	1
+Universidade de Lisboa	Communaute Universite Grenoble Alpes	1
+Universidade de Lisboa	Institut National Polytechnique de Grenoble	1
+Universidade de Lisboa	Universite Toulouse III	1
+Universidade de Lisboa	Universite de Toulouse	1
+Universidade de Lisboa	Mississippi State University	1
+Universidade de Lisboa	Universite Federale Toulouse Midi	1
+Tilburg University	Macquarie University	1
+Tilburg University	University of Edinburgh	1
+University of Mississippi Medical Center	US Department of Veterans Affairs	1
+University of Mississippi Medical Center	Veterans Health Administration	1
+University of Mississippi Medical Center	University of Texas Dallas	1
+University of Mississippi Medical Center	Virginia Commonwealth University	1
+University of Mississippi Medical Center	University of Mississippi	1
+US Department of Veterans Affairs	University of Texas Dallas	1
+US Department of Veterans Affairs	Virginia Commonwealth University	1
+US Department of Veterans Affairs	University of Mississippi	1
+US Department of Veterans Affairs	Augusta University	1
+US Department of Veterans Affairs	Veterans Affairs Medical Center	1
+Veterans Health Administration	University of Texas Dallas	1
+Veterans Health Administration	Virginia Commonwealth University	1
+Veterans Health Administration	University of Mississippi	1
+Veterans Health Administration	Augusta University	1
+Veterans Health Administration	Veterans Affairs Medical Center	1
+University of Texas Dallas	Virginia Commonwealth University	1
+University of Texas Dallas	University of Mississippi	1
+Virginia Commonwealth University	University of Mississippi	1
+Royal Institute of Technology	Stockholm University	1
+Royal Institute of Technology	Washington University	1
+Stockholm University	Washington University	1
+University of North Carolina	East West Center	1
+East West Center	Agriculture & Agri Food Canada	1
+Cincinnati Children's Hospital Medical Center	University of Cincinnati	1
+University of Cincinnati	Adam Mickiewicz University	1
+University of Cincinnati	University of Wroclaw	1
+National Electronics & Computer Technology Center	National Science & Technology Development Agency	1
+Qatar University	Umm Al Qura University	1
+Trinity College Dublin	Rudjer Boskovic Institute	1
+Trinity College Dublin	Zurich University of Applied Sciences	1
+Rudjer Boskovic Institute	Zurich University of Applied Sciences	1
+Sabanci University	Oklahoma State University	1
+University of Calgary	Chinese University of Hong Kong	1
+Rutgers University New Brunswick	Rutgers University Camden	1
+Rutgers University New Brunswick	Brigham Young University	1
+Rutgers University New Brunswick	Cyprus University of Technology	1
+Rutgers University Camden	Brigham Young University	1
+Rutgers University Camden	Cyprus University of Technology	1
+Brigham Young University	Cyprus University of Technology	1
+Brigham Young University	National University of Rosario	1
+University of Leeds	University of Jordan	1
+University of Leeds	University of Bolton	1
+University of Leeds	UK Centre for Ecology & Hydrology	1
+University of Tartu	Tartu University Institute of Ecology & Earth Sciences	1
+Shandong Jianzhu University	Institute of Automation, CAS	1
+University of Florida	University of Wurzburg	1
+University of Florida	Instituto de Telecomunicacoes	1
+University of Florida	Universidad de Extremadura	1
+University of Florida	Institut National Polytechnique de Toulouse	1
+University of Florida	Universite Grenoble Alpes	1
+University of Florida	Communaute Universite Grenoble Alpes	1
+University of Florida	Institut National Polytechnique de Grenoble	1
+University of Florida	Universite Toulouse III	1
+University of Florida	Universite de Toulouse	1
+University of Florida	Mississippi State University	1
+University of Florida	Universite Federale Toulouse Midi	1
+Universite Grenoble Alpes	Universidade Federal do Rio Grande do Sul	1
+Universite Grenoble Alpes	Universite de Rennes	1
+Universite Grenoble Alpes	Vrije Universiteit Brussel	1
+Universite Grenoble Alpes	Fondazione Edmund Mach	1
+Universite Grenoble Alpes	Autonomous University of Madrid	1
+Universite Grenoble Alpes	Universite Savoie Mont Blanc	1
+Universite Grenoble Alpes	Universite Catholique Louvain	1
+Universite Grenoble Alpes	Instituto de Telecomunicacoes	1
+Universite Grenoble Alpes	Institut National Polytechnique de Toulouse	1
+Universite Grenoble Alpes	Universite Toulouse III	1
+Universite Grenoble Alpes	Universite de Toulouse	1
+Universite Grenoble Alpes	Mississippi State University	1
+Universite Grenoble Alpes	Universite Federale Toulouse Midi	1
+Universite Grenoble Alpes	University of Pavia	1
+Universite Grenoble Alpes	University of Iceland	1
+Communaute Universite Grenoble Alpes	Universidade Federal do Rio Grande do Sul	1
+Communaute Universite Grenoble Alpes	Universite de Rennes	1
+Communaute Universite Grenoble Alpes	Vrije Universiteit Brussel	1
+Communaute Universite Grenoble Alpes	Fondazione Edmund Mach	1
+Communaute Universite Grenoble Alpes	Autonomous University of Madrid	1
+Communaute Universite Grenoble Alpes	Universite Savoie Mont Blanc	1
+Communaute Universite Grenoble Alpes	Universite Catholique Louvain	1
+Communaute Universite Grenoble Alpes	Instituto de Telecomunicacoes	1
+Communaute Universite Grenoble Alpes	Institut National Polytechnique de Toulouse	1
+Communaute Universite Grenoble Alpes	Universite Toulouse III	1
+Communaute Universite Grenoble Alpes	Universite de Toulouse	1
+Communaute Universite Grenoble Alpes	Mississippi State University	1
+Communaute Universite Grenoble Alpes	Universite Federale Toulouse Midi	1
+Communaute Universite Grenoble Alpes	University of Pavia	1
+Communaute Universite Grenoble Alpes	University of Iceland	1
+Institut National Polytechnique de Grenoble	Universidade Federal do Rio Grande do Sul	1
+Institut National Polytechnique de Grenoble	Universite de Rennes	1
+Institut National Polytechnique de Grenoble	Vrije Universiteit Brussel	1
+Institut National Polytechnique de Grenoble	Fondazione Edmund Mach	1
+Institut National Polytechnique de Grenoble	Instituto de Telecomunicacoes	1
+Institut National Polytechnique de Grenoble	Institut National Polytechnique de Toulouse	1
+Institut National Polytechnique de Grenoble	Universite Toulouse III	1
+Institut National Polytechnique de Grenoble	Universite de Toulouse	1
+Institut National Polytechnique de Grenoble	Mississippi State University	1
+Institut National Polytechnique de Grenoble	Universite Federale Toulouse Midi	1
+Institut National Polytechnique de Grenoble	University of Pavia	1
+Institut National Polytechnique de Grenoble	University of Iceland	1
+Universitat d'Alacant	University of Sheffield	1
+University of Sheffield	Universidade de Sao Paulo	1
+Institut Polytechnique de Paris	Ecole Polytechnique	1
+Institut Polytechnique de Paris	Inria	1
+Institut Polytechnique de Paris	Telecom Paris	1
+Institut Polytechnique de Paris	heSam Universite	1
+Institut Polytechnique de Paris	German Aerospace Centre	1
+Institut Polytechnique de Paris	Conservatoire National Arts & Metiers	1
+Anton Melik Geographical Institute, SASA	Slovenian Academy of Sciences & Arts	1
+Slovenian Academy of Sciences & Arts	University of Ljubljana	1
+Lovelace Respiratory Research Institute	Northwestern Polytechnical University	1
+Lovelace Respiratory Research Institute	Brigham & Women's Hospital	1
+Northwestern Polytechnical University	University of New Mexico	1
+University of New Mexico	Brigham & Women's Hospital	1
+Ecole Normale Superieure	Universite PSL	1
+Ecole Normale Superieure	Inria	1
+Universite PSL	Inria	1
+Universite PSL	Lehigh University	1
+Inria	ENSTA Paris	1
+Hungarian Academy of Sciences	Szeged University	1
+Hungarian Academy of Sciences	Budapest University of Technology & Economics	1
+Hungarian Academy of Sciences	Hungarian Research Network	1
+Hungarian Academy of Sciences	HUN	1
+Academia Sinica	Saarland University	1
+Budapest University of Technology & Economics	Hungarian Research Network	1
+Budapest University of Technology & Economics	HUN	1
+Hungarian Research Network	HUN	1
+Macquarie University	University of Edinburgh	1
+University of Edinburgh	University of Sussex	1
+University of Nebraska Lincoln	Cornell University	1
+University of Munich	University of Koblenz & Landau	1
+University of Florence	University of Freiburg	1
+University of Florence	University of L'Aquila	1
+Universidad Nacional Autonoma de Mexico	University of Patras	1
+Universidad Nacional Autonoma de Mexico	Open University	1
+University of Patras	Open University	1
+Ghent University	University of Turku	1
+Complutense University of Madrid	Uppsala University	1
+Complutense University of Madrid	Autonomous University of Madrid	1
+Complutense University of Madrid	University of Copenhagen	1
+Uppsala University	Linkoping University	1
+University of Wurzburg	Technical University of Berlin	1
+Samsung	Wright State University Dayton	1
+University of Cambridge	Universidade Estadual de Maringa	1
+University of Cambridge	Universidade de Sao Paulo	1
+Universidade Estadual de Maringa	Universidade de Sao Paulo	1
+Universidade de Sao Paulo	Universidade Federal do ABC	1
+Universidade de Sao Paulo	University of British Columbia	1
+Universidade de Sao Paulo	Universidade Federal do Rio de Janeiro	1
+Universidade de Sao Paulo	Centro Universitario da FEI	1
+Universidade de Sao Paulo	IDOR	1
+University of New England	University of Kwazulu Natal	1
+University of Kwazulu Natal	University of Khartoum	1
+BOKU University	University of Graz	1
+Technical University of Darmstadt	German Institute for International Educational Research	1
+University of Adelaide	South Australian Research & Development Institute	1
+University of Adelaide	Australian Institute of Marine Science	1
+University of Adelaide	Queensland University of Technology	1
+Baylor University	Lanzhou University	1
+Oregon Health & Science University	University of New Hampshire	1
+California State University Fresno	University of Warwick	1
+Universite Toulouse 1 Capitole	Institut National des Sciences Appliquees de Toulouse	1
+Universite Toulouse 1 Capitole	Universite Toulouse III	1
+Universite Toulouse 1 Capitole	Universite de Toulouse	1
+Universite Toulouse 1 Capitole	Universite Federale Toulouse Midi	1
+Institut National des Sciences Appliquees de Toulouse	Universite Toulouse III	1
+Institut National des Sciences Appliquees de Toulouse	Universite de Toulouse	1
+Institut National des Sciences Appliquees de Toulouse	Universite Federale Toulouse Midi	1
+Universite Toulouse III	Instituto de Telecomunicacoes	1
+Universite Toulouse III	Universidad de Extremadura	1
+Universite Toulouse III	Institut National Polytechnique de Toulouse	1
+Universite Toulouse III	Mississippi State University	1
+Universite de Toulouse	Instituto de Telecomunicacoes	1
+Universite de Toulouse	Universidad de Extremadura	1
+Universite de Toulouse	Institut National Polytechnique de Toulouse	1
+Universite de Toulouse	Mississippi State University	1
+Universite de Toulouse	Institut Superieur de l'Aeronautique et de l'Espace	1
+Universite de Toulouse	National Office for Aerospace Studies & Research	1
+Universite Federale Toulouse Midi	Instituto de Telecomunicacoes	1
+Universite Federale Toulouse Midi	Universidad de Extremadura	1
+Universite Federale Toulouse Midi	Institut National Polytechnique de Toulouse	1
+Universite Federale Toulouse Midi	Mississippi State University	1
+Pedagogical University of Cracow	Jagiellonian University	1
+Kasetsart University	Asian Institute of Technology	1
+Kasetsart University	Utah State University	1
+Asian Institute of Technology	Utah State University	1
+Universite de Bretagne Occidentale	Agrocampus Ouest	1
+Universite de Bretagne Occidentale	National Research Institute for Agriculture, Food and the Environment	1
+Universite de Bretagne Occidentale	Institut Agro	1
+Universite de Bretagne Occidentale	Universite de Rennes	1
+Agrocampus Ouest	National Research Institute for Agriculture, Food and the Environment	1
+Agrocampus Ouest	Institut Agro	1
+Agrocampus Ouest	Universite de Rennes	1
+National Research Institute for Agriculture, Food and the Environment	Institut Agro	1
+National Research Institute for Agriculture, Food and the Environment	Universite de Rennes	1
+Institut Agro	Universite de Rennes	1
+Universite de Rennes	Vrije Universiteit Brussel	1
+Universite de Rennes	Fondazione Edmund Mach	1
+Tokushima University	Hefei University of Technology	1
+Assiut University	University of Bremen	1
+University of Belgrade	Palacky University Olomouc	1
+University of Illinois Chicago	University of Illinois Chicago Hospital	1
+University of Illinois Chicago	Northern Illinois University	1
+University of Illinois Chicago	DePaul University	1
+University of Illinois Chicago Hospital	Northern Illinois University	1
+University of Illinois Chicago Hospital	DePaul University	1
+Northern Illinois University	DePaul University	1
+United States Naval Academy	United States Navy	1
+Schepens Eye Research Institute	University of Lubeck	1
+Nanjing Medical University	Southeast University	1
+Technische Universitat Ilmenau	Friedrich Schiller University of Jena	1
+Northwestern University	University of California Los Angeles	1
+George Mason University	Johns Hopkins University	1
+University Health Network Toronto	Baycrest	1
+University Health Network Toronto	Sunnybrook Health Science Center	1
+University Health Network Toronto	Toronto Rehabilitation Institute	1
+University Health Network Toronto	Sunnybrook Research Institute	1
+Baycrest	Sunnybrook Health Science Center	1
+Baycrest	Toronto Rehabilitation Institute	1
+Baycrest	Sunnybrook Research Institute	1
+Sunnybrook Health Science Center	Toronto Rehabilitation Institute	1
+Sunnybrook Health Science Center	Sunnybrook Research Institute	1
+Toronto Rehabilitation Institute	Sunnybrook Research Institute	1
+University of Buenos Aires	Fondazione Bruno Kessler	1
+Brigham & Women's Hospital	Icahn School of Medicine at Mount Sinai	1
+United States Environmental Protection Agency	University of Central Florida	1
+Harbin Normal University	University of Wisconsin Milwaukee	1
+Harbin Normal University	Northeast Institute of Geography & Agroecology, CAS	1
+University of East Anglia	University of Nottingham	1
+University of East Anglia	University of Stirling	1
+University of Nottingham	University of Stirling	1
+University of Nottingham	Universiti Teknologi Malaysia	1
+IRCCS Ospedale San Camillo	University of Padua	1
+ENSTA Paris	Telecom Paris	1
+ENSTA Paris	heSam Universite	1
+ENSTA Paris	German Aerospace Centre	1
+ENSTA Paris	Conservatoire National Arts & Metiers	1
+University of Essex	University of Strathclyde	1
+Universidad de Jaen	University of Granada	1
+Universidad de Jaen	Clark University	1
+University of Granada	Clark University	1
+Clark University	Boston University	1
+Stinger Ghaffarian Technologies, Inc.	United States Geological Survey	1
+Stinger Ghaffarian Technologies, Inc.	United States Department of the Interior	1
+United States Geological Survey	United States Department of the Interior	1
+University of Oregon	University of Georgia	1
+Universite de Lille	Carl von Ossietzky Universitat Oldenburg	1
+Universite Claude Bernard Lyon 1	Universite Jean Monnet	1
+Universite Claude Bernard Lyon 1	CHU Lyon	1
+Universite Claude Bernard Lyon 1	Institut National de la Sante et de la Recherche Medicale	1
+Universite Jean Monnet	CHU Lyon	1
+Universite Jean Monnet	Institut National de la Sante et de la Recherche Medicale	1
+CHU Lyon	Institut National de la Sante et de la Recherche Medicale	1
+Augusta University	Veterans Affairs Medical Center	1
+Vrije Universiteit Brussel	Fondazione Edmund Mach	1
+Brown University	Koc University	1
+Natural Resources Institute Finland	University of Oulu	1
+Ohio University	Silesian University of Technology	1
+Autonomous University of Madrid	Universite Savoie Mont Blanc	1
+Autonomous University of Madrid	Universite Catholique Louvain	1
+Autonomous University of Madrid	University of Copenhagen	1
+Universite Savoie Mont Blanc	Universite Catholique Louvain	1
+Xinjiang University	Auckland University of Technology	1
+Sorbonne Universite	Aristotle University of Thessaloniki	1
+Sorbonne Universite	University of Reading	1
+Sorbonne Universite	Museum National d'Histoire Naturelle	1
+Aristotle University of Thessaloniki	University of Reading	1
+Aristotle University of Thessaloniki	Museum National d'Histoire Naturelle	1
+University of Reading	Museum National d'Histoire Naturelle	1
+Middle East Technical University	Havelsan AS	1
+Cold Regions Research & Engineering Laboratory	U.S. Army Engineer Research & Development Center	1
+Cold Regions Research & Engineering Laboratory	Dartmouth College	1
+Cold Regions Research & Engineering Laboratory	United States Army	1
+Cold Regions Research & Engineering Laboratory	U.S. Army Corps of Engineers	1
+U.S. Army Engineer Research & Development Center	Dartmouth College	1
+U.S. Army Engineer Research & Development Center	United States Army	1
+U.S. Army Engineer Research & Development Center	U.S. Army Corps of Engineers	1
+Dartmouth College	United States Army	1
+Dartmouth College	U.S. Army Corps of Engineers	1
+United States Army	U.S. Army Corps of Engineers	1
+University of Auckland	Landcare Research	1
+Adam Mickiewicz University	University of Wroclaw	1
+Osaka Metropolitan University	Nara Institute of Science & Technology	1
+Osaka Metropolitan University	Kindai University	1
+Osaka Metropolitan University	Kyushu Institute of Technology	1
+Osaka Metropolitan University	Japan Science & Technology Agency	1
+Nara Institute of Science & Technology	Kindai University	1
+Nara Institute of Science & Technology	Kyushu Institute of Technology	1
+Nara Institute of Science & Technology	Japan Science & Technology Agency	1
+Kindai University	Kyushu Institute of Technology	1
+Kindai University	Japan Science & Technology Agency	1
+Kyushu Institute of Technology	Japan Science & Technology Agency	1
+South Australian Research & Development Institute	Australian Institute of Marine Science	1
+South Australian Research & Development Institute	Queensland University of Technology	1
+Australian Institute of Marine Science	Queensland University of Technology	1
+Department of Space	Indian Space Research Organisation	1
+Department of Space	Indian Institute of Remote Sensing	1
+Indian Space Research Organisation	Indian Institute of Remote Sensing	1
+Beijing Normal University	Guangzhou University of Chinese Medicine	1
+Beijing Normal University	South China Normal University	1
+Guangzhou University of Chinese Medicine	South China Normal University	1
+University of British Columbia	Universidade Federal do Rio de Janeiro	1
+University of British Columbia	Centro Universitario da FEI	1
+University of British Columbia	IDOR	1
+Universidade Federal do Rio de Janeiro	Centro Universitario da FEI	1
+Universidade Federal do Rio de Janeiro	IDOR	1
+Centro Universitario da FEI	IDOR	1
+Shiraz University	University of Yazd	1
+Jiangxi University of Finance & Economics	Central South University	1
+Universidade Federal do Rio Grande do Norte	National University of Rosario	1
+Universidade de Brasilia	National University of Rosario	1
+University of Maryland College Park	Tecnologico de Monterrey	1
+University of Maryland College Park	University of Houston	1
+Tecnologico de Monterrey	University of Houston	1
+Chaim Sheba Medical Center	Shamir Medical Center	1
+Universiti Malaysia Perlis	University of Kent	1
+Universiti Malaysia Perlis	Universiti Kebangsaan Malaysia	1
+University of Kent	Universiti Kebangsaan Malaysia	1
+Innovation Academy for Precision Measurement Science & Technology, CAS	China University of Geosciences	1
+Instituto de Telecomunicacoes	Universidad de Extremadura	1
+Instituto de Telecomunicacoes	Institut National Polytechnique de Toulouse	1
+Instituto de Telecomunicacoes	Mississippi State University	1
+Universidad de Extremadura	Institut National Polytechnique de Toulouse	1
+Universidad de Extremadura	Mississippi State University	1
+Universidad de Extremadura	University of Pavia	1
+Universidad de Extremadura	University of Iceland	1
+Institut National Polytechnique de Toulouse	Mississippi State University	1
+Institut Superieur de l'Aeronautique et de l'Espace	National Office for Aerospace Studies & Research	1
+German Aerospace Centre	Indra	1
+German Aerospace Centre	Telecom Paris	1
+German Aerospace Centre	heSam Universite	1
+German Aerospace Centre	Conservatoire National Arts & Metiers	1
+University of Pavia	University of Iceland	1
+Paracelsus Private Medical University	Western University	1
+Paracelsus Private Medical University	University of Liege	1
+Paracelsus Private Medical University	Salzburg University	1
+Western University	University of Liege	1
+Western University	Salzburg University	1
+University of Liege	Salzburg University	1
+Telecom Paris	heSam Universite	1
+Telecom Paris	Conservatoire National Arts & Metiers	1
+heSam Universite	Conservatoire National Arts & Metiers	1
